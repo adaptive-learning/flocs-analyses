@@ -1,0 +1,843 @@
+Robotanik - seznam zadání 
+
+id: 1405;960
+title:"960",
+about:"",
+robotCol:0,
+robotRow:0,
+robotDir:0,
+subs:[5,4,3,3,0],
+allowedCommands:0,
+board:"gggbgrgggrgrggr ggggggggggggggg bggggggggrggggg ggggggggggggggg bggbgrggggggggr            b    BBBBbBBBBBbBBBB BbbBbBbbbbbBbbB BBBBbBBBBBbBbbB bbbBbBbbbBbBbbB BBBBbBBBBBbBBBB                 "
+
+
+id: 645;Alternation
+title:"Alternace",
+about:"",
+robotCol:10,
+robotRow:5,
+robotDir:1,
+subs:[4,4,0,0,0],
+allowedCommands:0,
+board:"bggggggggggggggbg     bgggggrggbbgrgb g             g g bggggggbbgrgb g g      gg     g g g    gbgrgb g g bggggb    g g g       bgrgb g bgggrggbg     g        gbgrgb bggggggggbGgggb           "
+
+
+id: 669;Poor navigation
+title:"Å patnÃ¡ navigace",
+about:"",
+robotCol:2,
+robotRow:9,
+robotDir:0,
+subs:[8,4,0,0,0],
+allowedCommands:0,
+board:"ggggggggggggggggggggggggggggggggggggggggggggGgggggggggggggggGgggggggggggggggGgggggggggggggggGgggggggggggggggGgggggggggggggggGggggggggggggggbgggggggggggggggggggggggggggggggggggggggggggggggggggg"
+
+
+id: 700;Square
+title:"ÄŒtverec",
+about:"",
+robotCol:2,
+robotRow:10,
+robotDir:1,
+subs:[6,6,6,0,0],
+allowedCommands:0,
+board:"ggggggggggggggggggggggggggggggggggggggggggggggggggggggggRBBBBRggggggggggBggggBggggggggggBggggBggggggggggBggggBggggggggggBggggBggggggggggRBBBBRgggggggggggggggggggggggggggggggggggggggggggggggggg"
+
+
+id: 1403;Square 2
+title:"ÄŒtverec 2",
+about:"MÅ¯Å¾ete barvit",
+robotCol:8,
+robotRow:5,
+robotDir:0,
+subs:[6,0,0,0,0],
+allowedCommands:3,
+board:"gggggggggggggggggggggggggggggggggggggrGGGGGrgggggggggGgggggGgggggggggGgggggGgggggggggbgggggbGGGGgggggGgggggGgggggggggGgggggGgggggggggbGGGGGbgggggggggggggggggggggggggggggggggggggggggggggggggggg"
+
+
+id: 701;Binary spiral
+title:"BinÃ¡rnÃ­ spirÃ¡la",
+about:"",
+robotCol:0,
+robotRow:0,
+robotDir:1,
+subs:[10,10,10,10,10],
+allowedCommands:0,
+board:"r gggggggggrbbrgb b            gb r ggggbbrbg  gb b b       g  gg r b       g  gg g b       r  gg g r       r  gg g gbrbbgG b  rg g         b  rg gbrrbgggggg  rg              bgrbrrggggggggggg"
+
+
+id: 655;Maze
+title:"BludiÅ¡tÄ›",
+about:"JednoduÅ¡Å¡Ã­, neÅ¾ se zdÃ¡",
+robotCol:3,
+robotRow:10,
+robotDir:3,
+subs:[7,0,0,0,0],
+allowedCommands:0,
+board:"gggggggggggggggggBBBgggBBBggBBBggggBgggggBggBggggggBBBBggBBBBgggggggggBgggggBggggggggBBgggggBggggggBBBgggBBBBggggggBgBBggBggBggggggBggBBBBggBBgggggBgggggggggBgggggbgggggggggBgggggggggggggggggg"
+
+
+id: 696;Maze 2
+title:"BludiÅ¡tÄ› 2",
+about:"MÅ¯Å¾ete barvit",
+robotCol:3,
+robotRow:9,
+robotDir:3,
+subs:[10,10,0,0,0],
+allowedCommands:7,
+board:"  ggggggggggggg   gBBBBBBBgBBBg   ggBgBggBgBggg    gBBBBBBBBg      ggggBgggBg        gBBBBgBg     ggggBggBBBg     gBBBBBgBgBggg   gBgggBBBBBBBg   gbg ggggggBgg   ggg      ggg                  "
+
+
+id: 678;Sliding
+title:"BrzdnÃ¡ drÃ¡ha",
+about:"",
+robotCol:2,
+robotRow:2,
+robotDir:0,
+subs:[10,2,2,0,0],
+allowedCommands:0,
+board:"gggggggggggggggggggggggggggggggggggGGGGGGGBBBgggggggggggggggGgggggggggggggggGggggBGGGGBBBgggGggggGggggggGgggGggggGggggggGgggBggggBBBBGGGGGGGBgggggggggggGgggggggggggggggBggggggggggggggggggggggg"
+
+
+id: 1404;Chaos
+title:"Chaos",
+about:"MÅ¯Å¾ete barvit",
+robotCol:7,
+robotRow:6,
+robotDir:0,
+subs:[6,0,0,0,0],
+allowedCommands:3,
+board:"GGGGGGGRggggggggggBGGGGBBgggggggggGggggBRgRgggggggGggrGGGGRgggggggBGGGGBGgGggggggggggGggGgGggggggggggBGgGGBggbgggggggGggGgGgRGGRgggggGggGgGgGggGgggggBGGGGBGBRGRggggggggGgGgggggggggggggBGBggggg"
+
+
+id: 657;Footway
+title:"ChodnÃ­Äek",
+about:"MÅ¯Å¾ete pÅ™ebarvovat",
+robotCol:0,
+robotRow:6,
+robotDir:0,
+subs:[5,0,0,0,0],
+allowedCommands:2,
+board:"ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggRRgRRgRRgRRgbbbbbRbbRbbRbbRBggggRRgRRgRRgRRggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg"
+
+
+id: 639;Zig zag
+title:"Cik cak",
+about:"",
+robotCol:7,
+robotRow:5,
+robotDir:0,
+subs:[5,4,0,0,0],
+allowedCommands:0,
+board:"                                   ggbggggggb      gggggggggg      ggg gggggg      ggg gggggb        g             G brgggggb      g gggggggg      bggbgggggb                                   "
+
+
+id: 648;Advanced zig zag
+title:"KliÄkovÃ¡nÃ­ pro pokroÄilÃ©",
+about:"",
+robotCol:0,
+robotRow:11,
+robotDir:3,
+subs:[3,5,0,0,0],
+allowedCommands:0,
+board:"rggggggggggg    g          g    g rggg     g    g g  g     g    g g  g     bggggg ggggggbggg   gg    g  g  g   gg    g  g  ggg gg    g  g  g g gg    g  g  ggg gg    g  g      gb    G  gggggggr"
+
+
+id: 672;Divide by two
+title:"DÄ›lenÃ­ dvÄ›ma",
+about:"",
+robotCol:11,
+robotRow:6,
+robotDir:3,
+subs:[3,6,0,0,0],
+allowedCommands:0,
+board:"gggggggRgggggggggggggggGgggggggggggggggGgggggggggggggggGgggggggggggggggGGggRgggggggggggGgggGGGGRgggggggGgggggGgggggggggGgggggGgggRGGGGGGGGGGGGgggggggggggggggGgggggggggggggggGgggggggggggggggRgg"
+
+
+id: 664;Dilemma 1
+title:"Dilema 1",
+about:"MÅ¯Å¾ete pÅ™ebarvovat",
+robotCol:7,
+robotRow:6,
+robotDir:0,
+subs:[5,5,0,0,0],
+allowedCommands:4,
+board:"ggggggggggggggggggggggggggggGggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggGgggggggggggggggggggggggggggg"
+
+
+id: 665;Dilemma 2
+title:"Dilema 2",
+about:"",
+robotCol:7,
+robotRow:5,
+robotDir:0,
+subs:[5,5,0,0,0],
+allowedCommands:0,
+board:"gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggGgggggbggggggGggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg"
+
+
+id: 1706;House
+title:"DomeÄek",
+about:"",
+robotCol:5,
+robotRow:8,
+robotDir:0,
+subs:[6,2,0,0,0],
+allowedCommands:0,
+board:"                                        R              rrr            rrrrr          rrrrrrr         ggggggg         ggggbbg         ggggbbg         gbbgggg         gbbgggg         gbbgggg    "
+
+
+id: 1124;Two backwards
+title:"Dva dozadu",
+about:"",
+robotCol:8,
+robotRow:4,
+robotDir:3,
+subs:[4,0,0,0,0],
+allowedCommands:0,
+board:"                                                                        g               g               G                                                                                       "
+
+
+id: 660;Two rows
+title:"DvÄ› Å™ady",
+about:"",
+robotCol:2,
+robotRow:6,
+robotDir:0,
+subs:[2,2,2,5,0],
+allowedCommands:0,
+board:"ggggggggggggggggggggggggggggggggggggggggggggggggggBBBBBBBBBBBgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggBBBBBBBBBBBBgggggggggggggggggggggggggggggggggg"
+
+
+id: 671;Two bit instructions
+title:"DvoubitovÃ© instrukce",
+about:"",
+robotCol:7,
+robotRow:6,
+robotDir:0,
+subs:[4,3,5,0,0],
+allowedCommands:0,
+board:"rbgggggggggggr  g            b  g         b  g  g rbgbgbb b  g  g g  r    g  g  g g  g    g  g  g r  g ggbr  g  gGb  g    g  g  g    g    b  g  g    g    rgbr  b    g          rgggbr          "
+
+id: 1705;Snake
+title:"Had",
+about:"",
+robotCol:15,
+robotRow:11,
+robotDir:3,
+subs:[4,0,0,0,0],
+allowedCommands:0,
+board:"GR     rrrrrrrrrgr     rgggggggrgr     rg     grgr     rg     grgr     rg     grgr     rg     grgr     rg     grgr     rg     grgr     rg     grgr     rg     grgrrrrrrrg     grggggggggg     gr"
+
+
+id: 698;Crest
+title:"HÅ™ebÃ­nek",
+about:"",
+robotCol:0,
+robotRow:6,
+robotDir:3,
+subs:[5,0,0,0,0],
+allowedCommands:0,
+board:"                                               R           R   g       R   g   g   R   g   g   gr  g   g   g   gbggbgggbgggbgggb                                                "
+
+
+id: 699;Crest 2
+title:"HÅ™ebÃ­nek 2",
+about:"",
+robotCol:0,
+robotRow:4,
+robotDir:1,
+subs:[10,5,5,5,2],
+allowedCommands:0,
+board:"              G           G   g        G  g   g    G   g  g   g g  g   g  g   g bggbgggbggbgggb G  g   g  g   g    G   g  g   g        G  g   g           G   g               G                 "
+
+
+id: 642;Cross
+title:"KÅ™Ã­Å¾",
+about:"",
+robotCol:7,
+robotRow:5,
+robotDir:1,
+subs:[4,4,0,0,0],
+allowedCommands:0,
+board:"                   ggggBgggg       ggggggggg       ggggbgggg       ggggbgggg       BgbbrbbgB       ggggbgggg       ggggbgggg       ggggggggg       ggggBgggg                                    "
+
+
+id: 1120;Zigzag
+title:"KliÄkovÃ¡nÃ­",
+about:"Na hnÄ›dÃ© vlevo, na ÄervenÃ© vpravo.",
+robotCol:4,
+robotRow:6,
+robotDir:0,
+subs:[4,0,0,0,0],
+allowedCommands:0,
+board:"                            rG              g            rggb            g               g          gggggb                                                                                      "
+
+id: 702;Around stones
+title:"Kolem kamenÅ¯",
+about:"",
+robotCol:5,
+robotRow:5,
+robotDir:0,
+subs:[3,3,2,2,2],
+allowedCommands:0,
+board:"gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg   ggggggggggggg Ggggggggggggggg   ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg"
+
+
+id: 653;Parity check
+title:"Kontrola parity",
+about:"",
+robotCol:3,
+robotRow:6,
+robotDir:0,
+subs:[4,3,0,0,0],
+allowedCommands:0,
+board:"                       BB              BGgb               g               g               g        gggggb bggb          g    g          bggb g             g g             bgb                  "
+
+
+id: 1406;Parity check 2
+title:"Kontrola parity 2",
+about:"Trochu jinak..",
+robotCol:3,
+robotRow:6,
+robotDir:0,
+subs:[3,4,0,0,0],
+allowedCommands:2,
+board:"                       BB              BGgb               g               g               g        gggggb bggb          g    g          bggb g             g g             bgb                  "
+
+
+id: 651;Around the flower
+title:"KrouÅ¾enÃ­ kolem kytky",
+about:"",
+robotCol:0,
+robotRow:0,
+robotDir:0,
+subs:[3,3,0,0,0],
+allowedCommands:0,
+board:"gggggggbggggggggggggggggggggggggggggggbgggggggggggggggggggggggggggggggbgggggggggggggggggggbgbgbgbgbgggggggGggggggggggggggggggggggggggggbgggggggggggggggggggggggggggggggbgggggggggggggggggggggggg"
+
+
+id: 673;Cycle with colors
+title:"KrouÅ¾enÃ­ s barvenÃ­m",
+about:"",
+robotCol:7,
+robotRow:6,
+robotDir:1,
+subs:[4,0,0,0,0],
+allowedCommands:2,
+board:"                                ggggggBBggggggggggggggBBggggggggggggggBBBBggggggggggggBGGBggggggggggggBgGBggggggggggggBBBBggggggggggggBBggggggggggggggBBgggggggg                                "
+
+
+id: 674;Counting lesson 1
+title:"Kurz poÄÃ­tÃ¡nÃ­ 1",
+about:"",
+robotCol:1,
+robotRow:6,
+robotDir:0,
+subs:[3,3,0,0,0],
+allowedCommands:2,
+board:"                                                                                             G   ggggggBgggggg                                                                                  "
+
+
+id: 647;Counting lesson 2
+title:"Kurz poÄÃ­tÃ¡nÃ­",
+about:"",
+robotCol:3,
+robotRow:10,
+robotDir:3,
+subs:[3,4,0,0,0],
+allowedCommands:0,
+board:"                   bggggggggg      g        G      g        g      g        g      g        g      g        g      g        g      g        g      g        g      gggggggggg                   "
+
+
+id: 683;Lesson in counting 3
+title:"Kurz poÄÃ­tÃ¡nÃ­ 3",
+about:"",
+robotCol:1,
+robotRow:11,
+robotDir:0,
+subs:[5,5,5,0,0],
+allowedCommands:0,
+board:" ggbggggrggggggg r             g g gggbrggggrg g g r         b g g g gggbrrg g g r b G     b g b b g       g g r g grgrgbggg g r g           g r grrrrrbgggggg r               g grgrggrgggbgggg"
+
+
+id: 1402;Counting lesson 4
+title:"Kurz poÄÃ­tÃ¡nÃ­ 4",
+about:"",
+robotCol:0,
+robotRow:0,
+robotDir:0,
+subs:[8,4,3,3,0],
+allowedCommands:0,
+board:"rggbgbggggG     rgbgbgggG       rggggbgbggggggG rbbgG           rggggbbgggggG   rggbgggbggggggG rgbggbggggG     rgggbbggggG     rgggggbbggggggG rgbggbggggG                                     "
+
+
+id: 706;Lesson in comparison
+title:"Kurz porovnÃ¡vÃ¡nÃ­",
+about:"",
+robotCol:15,
+robotRow:0,
+robotDir:1,
+subs:[5,5,5,0,0],
+allowedCommands:0,
+board:"BRGGGB BRGGB   bG    R G   R   GG    R G   G   RG    G G   G   RR    G G   G   RBGGG G R   BRRGB     G R        BGGGRB BGGRRRRRBR              GR              RG              RBRRRRRRRRGGGGGGB"
+
+
+id: 1707;L shape
+title:"L",
+about:"",
+robotCol:6,
+robotRow:7,
+robotDir:3,
+subs:[5,0,0,0,0],
+allowedCommands:0,
+board:"                                                                      R               g               g               bggG                                                                      "
+
+
+id: 658;Good memory
+title:"MÃ¡te dobrou pamÄ›Å¥?",
+about:"",
+robotCol:0,
+robotRow:8,
+robotDir:0,
+subs:[5,0,0,0,0],
+allowedCommands:0,
+board:"                                gggggggggggggggggggggggggggGGGGGgggggggggggGgggGgggggggggggGgGgGgggggggggggGGGgGgggggggggggggggGbrbrbbrbbbrbbbbGgggggggggggggggg                                "
+
+id: 644;Grid
+title:"MÅ™Ã­Å¾ka",
+about:"",
+robotCol:7,
+robotRow:5,
+robotDir:0,
+subs:[3,3,0,0,0],
+allowedCommands:0,
+board:"                                                     ggggg           grBrg           gBrBg           grBrg           ggggg                                                                      "
+
+
+id: 676;Powers of two
+title:"Mocniny dvojky",
+about:"HnÄ›dÃ¡ se nepoÄÃ­tÃ¡",
+robotCol:2,
+robotRow:10,
+robotDir:0,
+subs:[3,10,6,0,0],
+allowedCommands:0,
+board:"                  bggggggggggb    g          g    g          g    gR         g    g         Rg    bgggggggG  g               g               g    RR R   R   g   rgggggggggggb                  "
+
+
+id: 697;One, two, three
+title:"Na tÅ™etÃ­ doleva",
+about:"",
+robotCol:0,
+robotRow:5,
+robotDir:0,
+subs:[5,5,0,0,0],
+allowedCommands:0,
+board:"    g   g     G     g   g     g     g   g     g     g   g     g     g   g     g ggggbgggbgggggbg    g   g     g     g   g     g     g   g     g     g   g     g     g   g     g     g   g     g "
+
+
+id: 652;Up and down
+title:"Nahoru a dolÅ¯",
+about:"",
+robotCol:5,
+robotRow:9,
+robotDir:3,
+subs:[10,0,0,0,0],
+allowedCommands:0,
+board:"                                   ggggggggg       ggggggggg       ggggggbbg       gggggbb g       ggggbb  g       gggbb  gg       ggbb  ggg       ggb  gggG                                    "
+
+
+id: 677;Unmarked curve
+title:"NeznaÄenÃ¡ zatÃ¡Äka",
+about:"",
+robotCol:2,
+robotRow:2,
+robotDir:0,
+subs:[3,2,2,2,0],
+allowedCommands:0,
+board:"gggggggggggggggggggggggggggggggggggGGGGGGGGgggggggggggggggGgggggggggggggggGgggggggggggggggGgggggggggggggggGgggggggggggggggGgggggggggggggggGgggggggggggggggGgggggggggggggggGggggggggggggggggggggg"
+
+id: 1401;Walk around
+title:"ObchÅ¯zka",
+about:"",
+robotCol:7,
+robotRow:6,
+robotDir:2,
+subs:[4,0,0,0,0],
+allowedCommands:0,
+board:"                                                                     GgbGbgG         g     g         Ggg GgG                                                                                    "
+
+
+id: 654;Detours
+title:"OdboÄky",
+about:"",
+robotCol:1,
+robotRow:5,
+robotDir:0,
+subs:[3,8,0,0,0],
+allowedCommands:0,
+board:"gggggggggggggggggggggggggggggggggggggggggggggggggggGgggGggGgggGggggggggggggggggggggbgggbggbgggbggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg"
+
+
+id: 649;Turn around
+title:"OtoÄka",
+about:"",
+robotCol:4,
+robotRow:5,
+robotDir:2,
+subs:[10,0,0,0,0],
+allowedCommands:0,
+board:"                                                                                gggggggggggggggG                                                                                                "
+
+id: 675;Letter X
+title:"PÃ­smeno X",
+about:"MÅ¯Å¾ete mÄ›nit barvy",
+robotCol:6,
+robotRow:6,
+robotDir:3,
+subs:[5,5,0,0,0],
+allowedCommands:7,
+board:"gggggggggggggggggggggggggggggggggggggbgggggbggggggggggBgggBggggggggggggBgBggggggggggggggbggggggggggggggBgBggggggggggggBgggBggggggggggbgggggbgggggggggggggggggggggggggggggggggggggggggggggggggggg"
+
+
+id: 705;Hasty signalization
+title:"PÅ™edÄasnÃ¡ signalizace",
+about:"",
+robotCol:0,
+robotRow:1,
+robotDir:0,
+subs:[5,5,0,0,0],
+allowedCommands:0,
+board:"ggggggggGgggggggrGGGGGGGGGGGGGRgggggggggGgggggGgggBGGGGGRgggggGgggGgggggggggggGgggGggggRGGGGGGBgggRGGRgGgggggggggggggGgGgggggggggggggGgGgggggggggggggGgGgggggggggggggGgGgggggggggggggBGRgggggggg"
+
+
+id: 1121;Meadow 1
+title:"PlnÃ¡ louka",
+about:"",
+robotCol:0,
+robotRow:11,
+robotDir:1,
+subs:[4,4,0,0,0],
+allowedCommands:0,
+board:"RGGGGGGGGGGGGGGRGRGGGGGGGGGGGGRGGGRGGGGGGGGGGRGGGGGRGGGGGGGGRGGGGGGGRGGGGGGRGGGGGGGGGRGGGGRGGGGGGGGGGGGGGGRGGGGGGGGGGRGGGGGRGGGGGGGGRGGGGGGGRGGGGGGRGGGGGGGGGRGGGGRGGGGGGGGGGGRGgRGGGGGGGGGGGGGR"
+
+
+id: 1125;Meadow 2
+title:"PlnÃ¡ louka 2",
+about:"",
+robotCol:1,
+robotRow:10,
+robotDir:3,
+subs:[7,7,7,0,0],
+allowedCommands:0,
+board:"RRRRRRRRRRRRRRRRGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGgGGGGGGGGGGGGGGBBBBBBBBBBBBBBBB"
+
+
+id: 704;Avoid the stones
+title:"Pozor na kameny",
+about:"",
+robotCol:0,
+robotRow:11,
+robotDir:3,
+subs:[5,6,8,3,0],
+allowedCommands:0,
+board:"BBBBBBBBBBBBBBBBggggggggGggggggggggGgGgg ggggGggggg g ggRgGgg gggGgRgRGggg gGRggg ggGg ggGRg ggggRgg gRgg ggRgGgggGgRggggRgGgg ggg gggGgggg ggRgggRggg ggggRggggggggggRggggggggggGGGGGGGGGGGGGGG"
+
+
+id: 661;Roboknight
+title:"RobokÅ¯Åˆ",
+about:"",
+robotCol:2,
+robotRow:9,
+robotDir:3,
+subs:[2,5,5,0,0],
+allowedCommands:0,
+board:"ggggggggggggggggggggggGgggggggggggggggggGggggggggggggGggggGgggggggggggggggggGgggggggGggggggggggggggggggggggGgggggggGgggggggggggggggggGggggGggggggggggggGgggggggggggggggggGgggggggggggggggggggggg"
+
+
+id: 680;Broken stairs
+title:"RozbitÃ© schody",
+about:"",
+robotCol:3,
+robotRow:9,
+robotDir:1,
+subs:[4,4,4,0,0],
+allowedCommands:0,
+board:"                           RG             GGG            RGGG           RGGGG          RGGGGG         RGGGGGG        RGGGGGGG       RGGGGGGGG      rGGGGGGGGG      BBBBBBBBBB                   "
+
+
+id: 1122;Stop at red
+title:"SbÄ›r u ÄervenÃ©",
+about:"",
+robotCol:0,
+robotRow:6,
+robotDir:0,
+subs:[3,6,0,0,0],
+allowedCommands:0,
+board:"                                                                                             G  gggggggggggggrgg             G                                                                  "
+
+
+id: 640;Stairs
+title:"Schody",
+about:"",
+robotCol:3,
+robotRow:10,
+robotDir:3,
+subs:[3,3,0,0,0],
+allowedCommands:0,
+board:"                   ggggggggGG      gggggggGGg      ggggggGGgg      gggggGGggg      ggggGGgggg      gggGGggggg      ggGGgggggg      gGGggggggg      GGgggggggg      gggggggggg                   "
+
+id: 1407;Hidden flower
+title:"SchovanÃ¡ kytka",
+about:"",
+robotCol:7,
+robotRow:11,
+robotDir:3,
+subs:[4,4,0,0,0],
+allowedCommands:0,
+board:"ggbggggggbggbggGggggggggggggggggggbggggrgggbggggggggggggggggbrgbggggbggbggggggggggggggggggggggggggggggggggggbgrbggggbggggggbggggggggggggggggggggggggbgrggbggbrgbggggggggggggggggggggbggggggggggb"
+
+
+id: 667;Slalom
+title:"Slalom",
+about:"Nenechte se zmÃ¡st",
+robotCol:0,
+robotRow:4,
+robotDir:1,
+subs:[5,5,2,0,0],
+allowedCommands:0,
+board:"ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggRgggRgggRgggggggggggggggggggggBgggBgggBgggBggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg"
+
+
+id: 668;Slalom 2
+title:"Slalom 2",
+about:"",
+robotCol:1,
+robotRow:1,
+robotDir:0,
+subs:[5,5,0,0,0],
+allowedCommands:0,
+board:"gggggg ggggggggggggggg ggggggggggggggg ggggggggggggggg ggrggggggggggggggggggggggggggggggg ggggggggggggbgg ggggggggggggggg ggggggggggggggg ggggGgggggggggg ggggggggggggggg ggggggggggggggg gggggg"
+
+
+id: 646;Loop
+title:"SmyÄka",
+about:"Zkuste rekurzi",
+robotCol:2,
+robotRow:5,
+robotDir:0,
+subs:[5,0,0,0,0],
+allowedCommands:0,
+board:"                                                                  gggggggggggg    gGGGGGGGRGGg    ggggggggGgGg    ggggggggGGGg    gggggggggggg                                                  "
+
+
+id: 650;Spiral
+title:"SpirÃ¡la",
+about:"",
+robotCol:7,
+robotRow:6,
+robotDir:0,
+subs:[5,2,2,2,2],
+allowedCommands:0,
+board:"                                                                     gggg            g  g            g gg            g               ggggG                                                      "
+
+
+id: 1123;Roof
+title:"StÅ™Ã­Å¡ka",
+about:"",
+robotCol:2,
+robotRow:8,
+robotDir:3,
+subs:[3,4,5,0,0],
+allowedCommands:0,
+board:"gggggggggggggggggggggggggggggggggggggggggggggggggggggggGggggggggggggggGgGggggggggggggGgggGggggggggggGgggggGggggggggGgggggggGgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg"
+
+
+id: 659;Tree of flowers
+title:"Strom kytek",
+about:"",
+robotCol:7,
+robotRow:11,
+robotDir:3,
+subs:[10,0,0,0,0],
+allowedCommands:0,
+board:"gggggggggggggggggggggggggggggggggRGBGRgggRGBGRgggggGgggggggGgggggggBGGGBGGGBgggggggGgggGgggGgggggggGgggGgggGgggggRGBGRgGgRGBGRgggggggggGgggggggggggggggGgggggggggggggggGgggggggggggggggggggggggg"
+
+
+id: 670;Tree of flowers 2
+title:"Strom kytek 2",
+about:"",
+robotCol:7,
+robotRow:11,
+robotDir:3,
+subs:[10,10,10,0,0],
+allowedCommands:0,
+board:"                 RGGGGR    RGGGR    G        G   RGGB RGR RGGB     G   G    G   RGGB   BGGR BGGR  G      G   G    BGGGGR BGGGB      G      G        BGGGGGGB           G               b        "
+
+
+id: 643;T crossroad
+title:"T kÅ™iÅ¾ovatka",
+about:"",
+robotCol:4,
+robotRow:5,
+robotDir:0,
+subs:[5,5,0,0,0],
+allowedCommands:4,
+board:"                                    gggRggg         gggbggg         gggbggg         bbbGggg         gggbggg         gggbggg         gggBggg                                                     "
+
+
+id: 1704;Three colors
+title:"TÅ™i barvy",
+about:"",
+robotCol:7,
+robotRow:6,
+robotDir:0,
+subs:[4,0,0,0,0],
+allowedCommands:0,
+board:"                                                                     bBggRr          bbggrr          bbgGrr                                                                                  "
+
+
+id: 638;Training: colors
+title:"TrÃ©nink barev",
+about:"Na hnÄ›dÃ© zahnÄ›te doprava",
+robotCol:5,
+robotRow:3,
+robotDir:0,
+subs:[3,0,0,0,0],
+allowedCommands:0,
+board:"                                    ggggggg         ggGGGBg         gggggGg         gggggGg         gggggGg         gggggGg         ggggggg                                                     "
+
+
+id: 637;Training: functions
+title:"TrÃ©nink funkcÃ­",
+about:"PouÅ¾ijte F2 jako zkratku pro ÄtyÅ™i kroky dopÅ™edu",
+robotCol:5,
+robotRow:3,
+robotDir:0,
+subs:[5,4,0,0,0],
+allowedCommands:0,
+mysolution:"_2_R_2_R_2|_F_F_F_F||||",    
+board:"                                    ggggggg         ggGGGGg         gggggGg         gggggGg         gggggGg         gGGGGGg         ggggggg                                                     "
+
+
+id: 656;Training: recoloring
+title:"TrÃ©nink pÅ™ebarvovÃ¡nÃ­",
+about:"Na ÄervenÃ© doprava a pÅ™ebarvit na zeleno",
+robotCol:8,
+robotRow:8,
+robotDir:3,
+subs:[4,0,0,0,0],
+allowedCommands:2,
+board:"ggggggggggggggggggggggggggggggggggrGGrGGrGGrGGrgggGggGggGggGggGgggGggGggGggGggGgggrGGrGGGGGrGGrgggggggggGgggggggggggggggGggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg"
+
+
+id: 636;Training: recursion
+title:"TrÃ©nink rekurze",
+about:"PouÅ¾ijte krok dopÅ™edu a volÃ¡nÃ­ F1",
+robotCol:4,
+robotRow:5,
+robotDir:0,
+subs:[2,0,0,0,0],
+allowedCommands:0,    
+board:"                                    ggggggg         ggggggg         ggggggg         gGGGGGG         ggggggg         ggggggg         ggggggg                                                     "
+
+
+id: 662;Big stairs
+title:"VelkÃ© schody",
+about:"MÅ¯Å¾ete barvit",
+robotCol:1,
+robotRow:10,
+robotDir:0,
+subs:[8,8,5,5,5],
+allowedCommands:7,
+board:"gggggggggggggggggggggggggggGggggggggggggggGGgggggggggggggGGGggggggggggggGGGGgggggggggggGGGGGggggggggggGGGGGGgggggggggGGGGGGGggggggggGGGGGGGGgggggggGGGGGGGGGggggggGGGGGGGGGGgggggggggggggggggggg"
+
+
+id: 1119;
+title:"Za kamenem",
+about:"",
+robotCol:7,
+robotRow:6,
+robotDir:0,
+subs:[10,0,0,0,0],
+allowedCommands:0,
+board:"                                                                                       ggg             g G                                                                                      "
+
+
+id: 663;Garden
+title:"ZahrÃ¡dka",
+about:"",
+robotCol:4,
+robotRow:7,
+robotDir:0,
+subs:[8,8,5,2,2],
+allowedCommands:0,
+board:"ggggggggggggggggggrbbbbbbbbbbrggggbgGgggggGggbggggbggGggGggggbggggbGgggggggGgbggggbggggGgggggbggggbggGgggGgGgbggggbgggGggggggbggggbgGgggGgGgGbggggbgggGggggGgbggggrbbbbbbbbbbrgggggggggggggggggg"
+
+
+id: 703;Garden 2
+title:"ZahrÃ¡dka 2",
+about:"MÅ¯Å¾ete barvit",
+robotCol:3,
+robotRow:2,
+robotDir:1,
+subs:[6,6,6,0,0],
+allowedCommands:7,
+board:"gggggggggggggggggggggggggggggggggggrGGGGGGGGRggggggGGGGGGGGGGggggggGGGGGGGGGGggggggGGGGGGGGGGggggggGGGGGGGGGGggggggGGGGGGGGGGggggggGGGGGGGGGGggggggRGGGGGGGGRggggggggggggggggggggggggggggggggggg"
+
+
+id: 641;Bends
+title:"ZatÃ¡Äky",
+about:"",
+robotCol:6,
+robotRow:10,
+robotDir:0,
+subs:[10,3,3,0,0],
+allowedCommands:0,
+board:"                                      ggggGGG         ggggGgG         ggGGGgG         ggGgggg         ggGGGgg         ggggGgg         ggGGGgg         ggGgggg         gGGgggg                   "
+
+id: 679;Flowerbed
+title:"ZÃ¡honek",
+about:"",
+robotCol:1,
+robotRow:5,
+robotDir:0,
+subs:[10,3,3,0,0],
+allowedCommands:0,
+board:"ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggBBBgggggggggggggBBBgggggggggggggBBBggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg"
+
+
+id: 666;Linked list
+title:"ZÅ™etÄ›zenÃ½ seznam",
+about:"",
+robotCol:1,
+robotRow:1,
+robotDir:0,
+subs:[5,5,5,5,0],
+allowedCommands:0,
+board:" r               bGGGGGB         bGGGGGGGGGGB    b               bGGGGGGGB       bGGGGGGGGGGGG   bGGGGGGGGB      b               bGGGGB          bGB             b               bGGGB          "
+
+
+
+id: 682;Mad loops
+title:"ZbÄ›silÃ© smyÄky",
+about:"",
+robotCol:2,
+robotRow:11,
+robotDir:3,
+subs:[2,5,0,0,0],
+allowedCommands:0,
+board:"     GgRgggggG       g g     g  GggggRgG   GgRgG     g g   g g g     GgG   GgGgRGgG  GgG       gg g  g g       gGgRggRgG     GgG  g  g       g g  g  GgRgggggRgG  g          g g  g          GgG"
+
+
+id: 681;Changing direction
+title:"ZmÄ›na smÄ›ru",
+about:"",
+robotCol:2,
+robotRow:11,
+robotDir:0,
+subs:[6,0,0,0,0],
+allowedCommands:0,
+board:"bbbbbbbbbbBbbbbbbbbbbbbbbBBbbbbbbbbbbbbbBBbbbbbbbbbbbbbBBbbbbbbbbbbbbbBBbbbbbbbbbbbbbBBbbbbbbbbbgggggGggggggggggggggGGggggggggggggggGggggggggggggggGGggggggggggggggGgggggggggggggggGgggggggggggg"
+

@@ -1,0 +1,4173 @@
+Strom kytek (659)
+Format = cislo tahu ; cas v sekundach ; popis tahu 
+User 8
+---
+Game 1
+0;44;_FbLrL_1||||| 
+1;73;_FbLbLbLbLbLbLbL_1||||| 
+
+Game 2
+0;119;_FbL||||| 
+1;6;_FbL_1||||| 
+2;21;_FbL_1rR||||| 
+
+User 11
+---
+Game 1
+0;20;_FbL_1||||| 
+1;23;_FbLrLrL_1||||| 
+2;70;_FbLg1b1_L_L_F_F_F_1||||| 
+3;66;_FbLg1b1_L_L_F_F_1_1||||| 
+4;179;_FbLb1rLrL_FbFb1g1_F||||| 
+5;10;_FbLb1rLrL_FbLb1g1_F||||| 
+6;36;_FbLb1rLrLbLb1g1_F||||| 
+7;300;_FbLb1g1gFrLrLrF_F_1||||| 
+8;39;_FbLb1g1gFrLrL_FbL_1||||| 
+9;98;_FbLg1b1gFrLrL_FbL_1||||| 
+10;22;_FbLg1b1gFrLrL_FbL||||| 
+
+Game 2
+0;102;_FbLb1rLrL_F_1||||| 
+1;45;_FbLb1_FbLb1rLrL_F_1||||| 
+2;110;_FbLb1_FbLb1rLrLgF_1||||| 
+3;64;_FbLb1_FbLb1rLrLgFg1||||| 
+4;15;_FbLb1_FbLb1rLrL_Fg1||||| 
+5;22;_FbLb1gFbLb1rLrL_Fg1||||| 
+6;68;gFbLb1gFbLb1rLrL_Fg1||||| 
+7;15;_FbLb1gFbLb1rLrL_Fg1||||| 
+8;17;_FbLb1bLb1rLrL_Fg1||||| 
+
+Game 3
+0;178;rLrLbLbFgFg1b1_Fr1||||| 
+2;247;rLrLbL_Fg1rLrL_F_Fb1||||| 
+3;132;_FbLb1g1_L_R||||| 
+5;189;bF_FbLg1b1rLrL_F||||| 
+6;165;gFgFgFgFgFgFbL||||| 
+7;27;gFgFgFgFgFgFgFbLb1rL||||| 
+8;27;_FgFgFgFgFgFgFbLb1rL||||| 
+9;49;_FgFgFgFgFgFbLb1rLg1||||| 
+10;139;_FgFgFgFbLb1rLrL_Fg1||||| 
+13;539;gFgFgFbLb1rLrL_Fg1||||| 
+
+User 44
+---
+Game 1
+0;171;rRrRbRb1bFrRrRgF_1||||| 
+1;38;rRrRbRb1_FrRrRgF_1||||| 
+2;10;rRrRbRb1bFrRrRgF_1||||| 
+3;22;rRrRbRbFb1rRrRgF_1||||| 
+4;44;rRrRbRbFb1gF_1||||| 
+5;16;rRrRbRbFb1_F_1||||| 
+6;396;rRrRbR_F_1_F_F_1_R||||| 
+
+Game 2
+0;74;_FbRb1b1_1||||| 
+1;22;_FbRb1b1g1rLrL_1||||| 
+3;87;_FbRb1b1g1rLrL_F||||| 
+4;1;_FbRb1b1g1rLrL_FbR||||| 
+5;36;_FbRb1b1g1rLrL_F||||| 
+6;60;_FbRb1b1bRg1rLrL_F||||| 
+7;29;solution:_FbRb1b1bRg1rLrL_F||||| 
+
+User 45
+---
+Game 1
+0;42;gFg1bRrL_1||||| 
+1;10;_Fg1bRrL_1||||| 
+2;10;_Fg1bRrLrL_1||||| 
+3;47;_Fg1bRb1rLr1||||| 
+4;15;_Fg1bRb1rLrLr1||||| 
+5;33;_Fg1bRb1rLrLr1_F||||| 
+6;60;_Fg1bRb1rLrLr1||||| 
+7;9;_Fg1bRb1_RrLrLr1||||| 
+8;8;_Fg1bRb1_R_RrLrLr1||||| 
+9;8;_Fg1bRb1_R_RgFrLrLr1||||| 
+10;9;_Fg1bRb1_R_RgLrLrLr1||||| 
+11;22;_Fg1bRb1_R_FgLrLrLr1||||| 
+12;9;_Fg1bRb1_R_FgLrLrL_1||||| 
+13;9;_Fg1bRb1_R_FgLrLr1_1||||| 
+14;9;_Fg1bRb1_R_FgLrLr1gR||||| 
+15;7;_Fg1bRb1_R_FgLrLr1gL||||| 
+16;9;_Fg1bRb1_RgFgLrLr1gL||||| 
+17;8;_Fg1bRb1_RgFgRrLr1gL||||| 
+18;13;_Fg1bRb1_RgF_RrLr1gL||||| 
+19;53;_Fg1bRb1rRr1gL||||| 
+20;18;_Fg1bRb1rRrRr1gL||||| 
+21;8;_Fg1bRb1rRrRbLr1gL||||| 
+22;16;_Fg1bRb1rRrR_FbLr1gL||||| 
+23;12;_Fg1bRb1rRrR_FbLgLr1||||| 
+24;31;_Fg1bRb1_Rr1||||| 
+25;9;_Fg1bRb1_Lr1||||| 
+26;7;_Fg1bRb1_L_Lr1||||| 
+27;11;_Fg1bRb1_L_LbLr1||||| 
+28;25;_Fg1rRrRbL_1bLr1||||| 
+29;18;_Fg1rRrRbL_1_Fr1||||| 
+
+Game 2
+0;54;_FbLrLr1g1||||| 
+1;7;_FbLb1rLr1g1||||| 
+2;10;_FbLb1_RrLr1g1||||| 
+3;12;_FbLb1bRrLr1g1||||| 
+4;17;_FbLbFb1rLr1g1||||| 
+5;18;gFbLbFb1rLr1g1||||| 
+6;19;gFbLbFb1rLrFr1g1||||| 
+7;18;gFbLbFgFb1rLrFr1g1||||| 
+8;8;gFbLbFgRb1rLrFr1g1||||| 
+
+Game 3
+0;183;_Fg1bRb1||||| 
+1;47;_Fg1rRr1bR_1||||| 
+2;12;_Fg1rRr1bR_F_1||||| 
+3;14;_Fg1rRr1bR_F_F_1||||| 
+4;11;_Fg1rRr1bR_F_F_F_1||||| 
+5;7;_Fg1rRr1bR_F_FbF_1||||| 
+6;27;_Fg1rRr1bR_F_F_F_R_1||||| 
+
+Game 4
+0;63;rLrLbFbL_Fg1||||| 
+1;15;rLrLbFbL_Fg1bR_1||||| 
+
+Game 5
+0;153;_FrLrLbLg1_Fb1||||| 
+1;101;_FrLrLbLb1g1_Fb1||||| 
+2;73;_FrLrLbLb1g1_F||||| 
+3;27;_FrLrLbLg1b1_F||||| 
+4;55;_FrLrLbLb1_Fg1||||| 
+5;105;_FrLrLbLb1_FrLrLbL_1||||| 
+6;36;_FrLrLbLb1gFrLrLbL_1||||| 
+7;16;_FrLrLbLb1g1rLrLbL_1||||| 
+8;75;_FrLrLbLb1_FrLrLbL_1||||| 
+9;181;_FrLrLbLb1_Fb1g1||||| 
+10;8;_FrLrLbLb1gFb1g1||||| 
+11;52;_FrLrLbLg1b1_F||||| 
+12;36;_FrLrLbLg1_Fb1||||| 
+13;84;_FrLrLbLg1b1_F||||| 
+14;57;_FrLrLbLg1b1rLrL_F_1||||| 
+15;13;_FrLrLbLg1rLrLb1_F_1||||| 
+16;8;_FrLrLbLg1b1_F_1||||| 
+17;8;_FrLrLbLg1b1_F||||| 
+18;18;_FrLrLbLg1_Fb1||||| 
+19;11;_FrLrLbLg1_FbLb1||||| 
+20;29;_FrLrLbLg1_F||||| 
+21;20;_FrLrLbLg1b1||||| 
+22;16;_FrLrLbLg1b1_F||||| 
+23;18;_FrLrLbLg1b1_FrLrL||||| 
+24;14;_FrLrLbLg1b1_FrLrLrF||||| 
+25;40;_FrLrLbLg1b1_FrLrLbL||||| 
+26;11;_FrLrLbLg1b1_FrLrLbF||||| 
+27;142;_FrLrLbLg1b1rFgFbF||||| 
+28;77;_FrLrLbLb1_Fg1||||| 
+29;14;_FrLrLbLb1g1||||| 
+30;41;_FrLrLbLb1g1_F_F_1||||| 
+31;101;_FrLrLbLb1_F_F_1||||| 
+32;4;_FrLrLbLb1_F_1||||| 
+33;93;_FrLrLbLb1gFg1||||| 
+34;13;_FrLrLbLb1gF_1||||| 
+35;5;_FrLrLbLb1gFbL_1||||| 
+36;85;_FrLrLbLb1g1_F_F_F_1||||| 
+37;31;_FrLrLbLb1g1_F_F_1||||| 
+38;59;_FrLrLbLb1_F_F_F_F_1||||| 
+39;10;_FrLrLbLb1gFgFgF_F_1||||| 
+40;5;_FrLrLbLb1_FgFgFgF_1||||| 
+41;3;_FrLrLbLb1gFgFgFgF_1||||| 
+
+Game 6
+0;190;_FrLrLg1bLb1_F||||| 
+1;5;_FrLrLg1bLb1||||| 
+2;27;_FrLrLg1_FbLb1||||| 
+3;24;_FrLrLg1bL_Fb1||||| 
+
+Game 7
+0;75;_FrLrLg1b1_F_1||||| 
+1;6;_FrLrLg1b1rF_1||||| 
+2;25;_FrLrLg1bLb1_F_F_1||||| 
+3;11;_FrLrLg1bLb1_F_F||||| 
+4;11;_FrLrLg1bLb1_F_Fb1||||| 
+5;30;_FrLrLg1bLb1_F_F||||| 
+
+Game 8
+0;30;bL_FrLrLg1b1_F||||| 
+1;130;bL_FrLrLg1b1_FrLrLbL||||| 
+2;16;bL_FrLrLg1b1_FrLrL||||| 
+3;53;bL_FrLrLg1b1_FrLrLbF||||| 
+4;12;bL_FrLrLg1b1bFrLrL_F||||| 
+
+Game 9
+0;51;_Fg1bLb1rLrL_F_F_F||||| 
+1;35;_FbLb1g1rLrL_F||||| 
+2;106;bL_Fb1g1rLrL_FbR_1||||| 
+3;43;bL_Fb1g1rLrL_FbRb1_1||||| 
+4;23;bL_Fb1g1rLrL_F_F_1||||| 
+5;10;bL_Fb1g1rLrL_F_FbR_1||||| 
+6;20;_FbLb1g1rLrL_F_FbR_1||||| 
+7;6;_FbLb1g1rLrL_F_F_1||||| 
+8;23;_FbLb1g1rLrL_Fb1||||| 
+9;41;_FbLb1g1rLrL_F_Fb1_F||||| 
+
+Game 10
+0;141;_FrLrLbLg1_FbL_Fb1_F||||| 
+1;9;_FrLrLbLg1_FbL_Fb1_L||||| 
+2;10;_FrLrLbLg1_FbL_Fb1bL||||| 
+3;132;bL_FrLrLg1_Fb1bR_1||||| 
+4;9;bL_FrLrLg1b1bR_1||||| 
+5;50;bL_FrLrLb1_Fg1||||| 
+
+Game 11
+0;44;bL_FrLrLb1bRb1bRg1_F||||| 
+1;11;bL_FrLrLb1bRb1bLg1_F||||| 
+2;6;solution:bL_FrLrLb1bRb1bLg1_F||||| 
+
+User 47
+---
+Game 1
+0;44;_FbL_1_1_R_R_F||||| 
+1;63;_Fg1bLb1b1rLrL_F||||| 
+2;32;_Fg1bLb1b1rLrLbR_F||||| 
+3;7;_Fg1bLb1b1rLrLbL_F||||| 
+4;5;solution:_Fg1bLb1b1rLrLbL_F||||| 
+
+User 62
+---
+Game 1
+0;144;_Fg1_R_F||||| 
+1;88;_Fg1bR_1||||| 
+2;173;_Fg1bRb1rRrRr1bLb1||||| 
+3;100;_Fg1bRb1rRrRbLb1||||| 
+4;73;_Fg1bRb1rRrRrFbLb1||||| 
+5;46;_Fg1bRb1rRrR_FbLb1||||| 
+
+User 81
+---
+Game 1
+0;81;_FbLb1bRbRb1bRrRrR_F||||| 
+1;43;gFbLb1bRbRb1bRrRrR_1||||| 
+2;87;_FbLb1b1bLrRrRg1_F||||| 
+3;6;solution:_FbLb1b1bLrRrRg1_F||||| 
+
+User 108
+---
+Game 1
+0;68;_FbLrLrLb1_F||||| 
+1;16;_FbLrLrLg1||||| 
+2;407;_Fg1bL_1||||| 
+3;23;_Fg1bLrLrL_1||||| 
+4;25;_Fg1bLrLrL_F_1||||| 
+
+User 134
+---
+Game 1
+0;27;_FbLrLrL_1||||| 
+1;26;_FbLrLrLbL_1||||| 
+2;15;_FbLrLrL_1bL||||| 
+3;50;_FbLrLrL_F_F_F_1||||| 
+4;21;_FbLrLrL_F_F_1||||| 
+5;11;_FbLrLrL_F_1||||| 
+6;18;_FbLrLrL_1||||| 
+7;27;_FbLrLrLr1_1||||| 
+8;68;bLrRrR_F_1||||| 
+9;41;bLrRrRgFg1bF||||| 
+10;16;bLrRrRgF_1bF||||| 
+11;60;_FrLrLbLrLrL_1||||| 
+12;15;_FrLrLbL_1||||| 
+13;27;_FrLrLbL_FbR_1||||| 
+14;11;_FrLrLbL_1||||| 
+15;31;_FbLrLrLbF_1||||| 
+16;50;_FbLrLrLb1bF_1||||| 
+17;55;_FrLrLr1bL_1||||| 
+18;45;_FbLrLrLr1bF_1||||| 
+19;47;_FbFrLrLr1bL_1||||| 
+20;4;_F_FrLrLr1bL_1||||| 
+21;106;_Fg1_LrL_1||||| 
+22;42;_Fg1_LrLbF_1||||| 
+23;43;_Fg1_LrLb1bF_F||||| 
+24;70;_Fg1bLrLb1bF_F||||| 
+25;13;_Fg1bLrLrLr1||||| 
+26;5;_Fg1bLrLrLr1_1||||| 
+27;14;_Fg1bLrLr1rL_1||||| 
+28;73;_Fg1bLrL_L_Fg1bR||||| 
+29;12;_Fg1bLrLrL_Fg1bR||||| 
+30;55;_Fg1rLrL_FbR_1||||| 
+31;5;_Fg1rLrLbR_1||||| 
+32;13;_Fg1rLrLr1bL_1||||| 
+33;129;_Fg1rLrLbL||||| 
+34;28;_Fg1rLrLbL_Fg1bR_1||||| 
+
+Game 2
+0;134;_Fg1bLrLrL||||| 
+1;19;_Fg1bL_FrLrF_1||||| 
+2;47;_Fg1bLrLrF_1||||| 
+3;46;_Fg1bLrLrL_1||||| 
+4;18;_Fg1bLb1rLrL_1||||| 
+
+Game 3
+0;154;_Fg1_Lb1_L_Fg1||||| 
+1;134;_Fg1_LrL_F_F_F_F_L_L||||| 
+2;69;_Fg1_LrLb1_F_F_F_L_L||||| 
+3;34;_Fg1_LrLb1_F_F_F_F_L||||| 
+4;17;_Fg1_LrLb1_Fg1||||| 
+5;46;_Fg1_LrLb1_Fg1_L_Lr1||||| 
+6;8;_Fg1_LrL_Fg1_L_Lr1||||| 
+7;8;_Fg1_LrL_F_Fg1_L_Lr1||||| 
+8;6;_Fg1_LrL_F_F_L_Lr1||||| 
+9;24;_Fg1_LrL_F_F_L_L_1||||| 
+10;45;_Fg1bL_F_FrLrL||||| 
+11;80;_Fg1bL||||| 
+12;9;_Fg1bL_1||||| 
+13;10;_Fg1bLb1||||| 
+14;23;_Fg1bLb1rLrL_F_F_F_1||||| 
+15;43;_Fg1bLb1rLrLbL_F_F_1||||| 
+16;48;_Fg1bLb1rLrL_F_FbL_1||||| 
+17;18;_Fg1bLb1rLrL_F_FbL||||| 
+18;18;_Fg1bLb1rLrLbL_F_F||||| 
+19;6;_Fg1bLb1rLrLbL_F_F_F||||| 
+20;10;_Fg1bLb1rLrLbL_F_F||||| 
+21;12;_Fg1bLb1rLrL_FbL_F_F||||| 
+22;9;_Fg1bLb1rLrL_FbL_F||||| 
+23;6;_Fg1bLb1rLrL_FbL||||| 
+24;30;_Fg1bLb1rLrL_F||||| 
+25;18;_Fg1bLb1rLrL_FbR||||| 
+26;12;_Fg1bLb1rLrL_1_FbR||||| 
+27;6;_Fg1bLb1rLrLr1_FbR||||| 
+28;7;_Fg1bLb1rLrL_FbR||||| 
+29;10;_Fg1bLb1rLrL_F||||| 
+30;10;_Fg1bLb1rLrL_Fb1||||| 
+31;6;_Fg1bLb1rLrL_FbF||||| 
+32;20;_Fg1bLb1rLrL_FbL||||| 
+33;5;_Fg1bLb1rLrL_FbR||||| 
+34;7;_Fg1bLb1rLrL_F_F||||| 
+35;7;_Fg1bLb1rLrL_F_F_F||||| 
+36;7;_Fg1bLb1rLrL_F||||| 
+37;16;_Fg1bLb1rLrLbR_F||||| 
+38;26;_Fg1bLb1rLrLb1bR_F||||| 
+39;6;_Fg1bLb1rLrLb1bL_F||||| 
+
+User 135
+---
+Game 1
+0;62;gFbLb1bRb1rLrLr1||||| 
+1;8;gFbLb1bRb1rLrLr1g1||||| 
+2;16;gFbLb1bRb1rLrLr1g1bF||||| 
+
+Game 2
+0;84;bLbFb1||||| 
+1;17;_FrLrLr1||||| 
+2;7;_FrLrLr1g1||||| 
+3;165;bLbFb1bRb1rLrLr1_Fg1||||| 
+4;60;bLbFb1bRb1rLrLr1gFg1||||| 
+
+User 136
+---
+Game 1
+0;54;_FbLrLrL_1||||| 
+
+User 137
+---
+Game 1
+0;89;gFg1||||| 
+1;74;gFg1bRbFb1bLbLbFb1||||| 
+2;33;gFg1bRbF_1bLbLbF_1||||| 
+3;41;gFg1bRbF_1bLbLbF_1rR||||| 
+4;6;gFg1bRbF_1bLbLbF_1rF||||| 
+5;27;gFg1bRbFb1bLbLbF_1rF||||| 
+6;15;gFg1bRbFb1bLbLbFr1rF||||| 
+7;4;gFg1bRbFb1bLbLbFg1rF||||| 
+8;11;gFg1bRbFb1bLbLbFg1rR||||| 
+
+Game 2
+0;36;_FbRb1b1||||| 
+1;9;gFbRb1b1g1||||| 
+2;6;_FbRb1b1g1||||| 
+3;15;_FbRb1b1g1rLrL||||| 
+4;42;_FrLrLbRb1b1g1||||| 
+5;37;_FrLrLbRb1_Fb1g1||||| 
+6;21;_FrLrLbRb1b1g1_F||||| 
+
+Game 3
+0;36;_FrRrRbRb1b1||||| 
+1;5;_FrRrRbRb1b1_1||||| 
+2;21;_FrRrRbRb1b1_F_1||||| 
+3;21;_FrRrRbRb1b1g1_F||||| 
+4;19;_FrRrRbRb1b1g1bL_F||||| 
+5;9;_FrRrRbRb1b1g1bR_F||||| 
+6;6;solution:_FrRrRbRb1b1g1bR_F||||| 
+
+User 138
+---
+Game 1
+0;47;_Fg1||||| 
+1;71;_Fg1bLb1rLrLr1_F||||| 
+2;21;_Fg1bLb1rLrLr1bRb1_F||||| 
+3;46;_Fg1bLb1rLrLr1_F||||| 
+4;23;_Fg1bLb1rLrLr1bR_F||||| 
+5;32;_Fg1bLb1bRrLrLr1_F||||| 
+6;74;rLrLr1bLb1_Fg1_F||||| 
+7;47;rLrLr1bLb1_F_1||||| 
+8;27;rLrLr1bLbFb1_F_1||||| 
+9;31;rLrLrFr1bLbFb1_F_1||||| 
+10;226;rLrLrFr1bLbFb1_F_1_F||||| 
+11;246;_FrLr1bLb1_F_1_F||||| 
+12;8;_FrLrLr1bLb1_F_1_F||||| 
+13;15;_FrLrLr1bLb1_1_F||||| 
+14;41;_FrLrLr1bLb1bR_1_F||||| 
+15;42;_FrLrLr1bLb1bL_1_F||||| 
+16;66;_FbLb1bLrLrLr1_1_F||||| 
+17;50;gFbLb1bLrLrLr1_1_F||||| 
+18;8;_FbLb1bLrLrLr1_1_F||||| 
+19;64;_FbLb1rLrLr1_1bL_F||||| 
+20;76;_FbLb1g1rLrLbL_F||||| 
+21;31;_FbLb1g1rLrL_F||||| 
+22;79;_FbLb1g1g1rLrL_F||||| 
+23;30;_FbLb1g1rLrL_F||||| 
+24;56;_FbLb1g1rLrL_R_F||||| 
+25;7;_FbLb1g1rLrLbR_F||||| 
+26;49;_FbLb1g1rLrLbR_F_1||||| 
+27;27;_FbLb1g1rLrL_1bR_F||||| 
+28;23;_FbLb1g1rLrL_FbR_F||||| 
+29;13;_FbLb1g1rLrL_FbR_FbL||||| 
+30;18;_FbLb1g1rLrLb1bR_F||||| 
+31;7;_FbLb1g1rLrLb1bL_F||||| 
+32;5;solution:_FbLb1g1rLrLb1bL_F||||| 
+
+User 140
+---
+Game 1
+0;49;bRb1_F_1||||| 
+1;21;_F_1bR||||| 
+2;11;bR_F_1||||| 
+3;42;bRrLrL_F_1||||| 
+4;51;rLrLbRb1_F_1||||| 
+5;17;rLrLbR_FbL_F_1||||| 
+6;5;rLrLbR_FbL_1||||| 
+7;8;rLrLbR_FbL_F_F_1||||| 
+8;4;rLrLbR_FbL_F_1||||| 
+9;97;_Fg1rLrL_FbL_F_1||||| 
+10;5;_Fg1rLrLbL_F_1||||| 
+11;34;_Fg1rLrLbL_1||||| 
+12;32;_Fg1rLrLbL_1_L_L_1||||| 
+13;8;_Fg1rLrLbLb1_L_L_1||||| 
+14;38;_Fg1rLrLbLb1r1_L_1||||| 
+15;26;_Fg1rLrLbLb1r1||||| 
+
+Game 2
+0;119;_Fg1rLrL||||| 
+1;13;_Fg1rLrLbRb1||||| 
+2;33;_Fg1rLrLbRb1gFb1||||| 
+3;10;_Fg1rLrLbRb1rFb1||||| 
+4;6;_Fg1rLrLbRb1r1b1||||| 
+5;40;_Fg1rLrLbRb1rF||||| 
+
+Game 3
+0;59;rLrLbL_Fg1||||| 
+1;55;rLrLbL_Fg1bFg1bL_1||||| 
+2;79;rLrL_Fg1bLbFg1bL_1||||| 
+3;25;rLrL_Fg1bLbFg1bF_1||||| 
+4;29;rLrL_FbLbFg1bF_1||||| 
+6;45;rLrL_FbFg1bL_1||||| 
+7;10;rLrLbF_Fg1bL_1||||| 
+8;65;rLrLbF_F_1bL_1||||| 
+13;104;rLrL_FbLg1||||| 
+14;6;rLrL_FbLg1bFg1||||| 
+16;93;rLrL_Fg1bLbFg1_1||||| 
+17;24;rLrL_FbLg1bFg1||||| 
+18;6;rLrL_FbLg1bF_1||||| 
+20;60;rLrLbL_Fg1b1||||| 
+21;80;rLrLbL_Fg1bF||||| 
+22;14;rLrL_FbLg1b1||||| 
+23;21;rLrL_FbLg1bFg1||||| 
+24;13;rLrL_FbLg1bF_1||||| 
+25;42;rLrL_FbLg1bFg1bL||||| 
+27;96;rLrL_Fg1bLb1||||| 
+28;46;_Fg1bLb1_L_Lg1||||| 
+29;8;_Fg1bLb1_L_L_1_F||||| 
+
+Game 4
+0;64;rLrLbLb1_F_1||||| 
+1;18;_FrLrLbLb1_1||||| 
+2;18;_FrLrLbLb1||||| 
+3;10;_FrLrLbLb1g1||||| 
+4;9;_FrLrLbLb1g1_F||||| 
+5;40;_FrLrLg1bLb1_F||||| 
+6;36;_FrLrLg1||||| 
+7;8;_FrLrLg1bLb1_F||||| 
+8;41;rLrLbLb1_Fg1||||| 
+9;18;rLrLbLb1_F_1||||| 
+10;21;rLrLbLb1bF_F_1||||| 
+11;7;rLrLbLbF_F_1||||| 
+12;6;rLrLbLbF_F_1_F||||| 
+13;20;_FrLrLbLb1||||| 
+14;8;_FrLrLbLb1_Fg1||||| 
+15;6;gFrLrLbLb1_Fg1||||| 
+16;7;_FrLrLbLb1gFg1||||| 
+17;65;_FrLrLbLb1b1_L_1_F||||| 
+18;5;_FrLrLbLb1b1bL_1_F||||| 
+19;30;_FrLrLbLb1b1bLg1_F||||| 
+20;5;solution:_FrLrLbLb1b1bLg1_F||||| 
+
+User 141
+---
+Game 1
+0;49;gFbLbFrLrLrF||||| 
+1;9;gFbLbFrLrLrF_1||||| 
+2;41;gFbLbFrLrLrF_L_1||||| 
+3;9;gFbLbFrLrLrFgL_L_1||||| 
+4;5;gFbLbFrLrLrFgL_L_L_1||||| 
+5;11;gFbLbFrLrLrFgL_1||||| 
+6;12;gFbLbFrLrLrF_1||||| 
+7;512;gFbLbF_RrLrLrF_R_R_1||||| 
+8;29;gFbLbF_RrLrLrF_L_L_1||||| 
+9;32;_FbLb1_RrLrLr1_L_L_1||||| 
+10;18;_FbLb1bRrLrLr1rLrL_1||||| 
+11;14;_FbLb1bRrLrLr1rRrR_1||||| 
+12;195;_FrLrLr1rRrRbLb1bR_1||||| 
+13;9;_FrLrLr1rRrRbRb1bL_1||||| 
+14;39;_FrLrLr1_R_RbRb1_L_1||||| 
+15;8;_FrLrLr1_R_RbRb1bL_1||||| 
+16;7;_FrLrLr1rR_RbRb1bL_1||||| 
+17;5;_FrLrLr1rR_RbRb1_L_1||||| 
+18;225;gFg1bLbFb1rRrRrF_1||||| 
+19;52;_Fg1bLb1rRrR_1||||| 
+20;38;_Fg1bLb1bRrRrRr1_1||||| 
+21;80;_Fg1bRb1bLrRrRr1_1||||| 
+22;126;_FbRb1bLrRrRr1_1||||| 
+
+Game 2
+0;32;_FbLrL||||| 
+1;4;_FbLrL_1||||| 
+2;25;_FbLrLr1_F_1||||| 
+3;9;_FbLrLr1gF_1||||| 
+4;33;_FbLrLr1_1||||| 
+5;60;_FbLrLr1bF_1||||| 
+6;13;_FbRrLr1bF_1||||| 
+
+User 162
+---
+Game 1
+0;29;_FbLrLrL_1||||| 
+1;7;_FbRrLrL_1||||| 
+
+User 166
+---
+Game 1
+0;25;_Fg1||||| 
+1;46;_Fg1_Lb1||||| 
+2;56;_Fg1_Lb1_L_F_F_1||||| 
+3;130;gFg1_LbFb1||||| 
+4;58;bFgFg1_Lb1||||| 
+5;50;bFgFg1bLb1rLrLrF_1||||| 
+6;110;bLrLrLgF_1rLrLrF_1||||| 
+7;7;bLrLrL_F_1rLrLrF_1||||| 
+8;42;bLrLrL_Fb1g1_F_F_F_1||||| 
+9;43;bL_Fb1g1_L_L_F_F_F_1||||| 
+10;141;bL_FrLrLb1g1_F_F_F_1||||| 
+11;58;_Fg1_LrLb1_F_F_F_1||||| 
+12;20;_Fg1_LrLb1||||| 
+13;65;_Fg1_LrLb1_R_1||||| 
+14;22;_Fg1_LrLb1||||| 
+15;50;_Fg1bLrLrLb1_F||||| 
+16;22;_Fg1_LrLb1_F||||| 
+17;43;_Fg1_LgFrLb1_F||||| 
+18;106;_Fg1bLrLrLb1_FrLrLr1||||| 
+19;33;_Fg1bLrLrLb1_FrLrL||||| 
+20;30;_Fg1bLrLrLb1_F||||| 
+21;202;gFg1bLrLrL_Fb1||||| 
+22;63;gFg1bL_Fb1rLrL||||| 
+23;67;_Fg1bLgFb1rLrL||||| 
+24;96;_Fg1bLgFb1rLrLbF_1||||| 
+25;41;_Fg1bLgFb1rLrLbF||||| 
+26;42;_Fg1bLgFb1bFrLrL||||| 
+27;9;_Fg1bLgFb1bFrLrLrF||||| 
+28;109;_Fg1bLgFb1bF||||| 
+29;103;_FbLb1bFg1||||| 
+30;112;_FbLb1bFg1gFrLrLrF_1||||| 
+31;16;_FbLb1bFg1gFrLrLr1||||| 
+32;55;_FbLb1bFg1gFrLrL||||| 
+33;22;_FbLb1bFg1gFrLrLrF||||| 
+34;51;_FbLb1bFg1gFrLrLrFbL||||| 
+35;50;_FbLb1bFg1bLgFrLrLrF||||| 
+36;37;_FbLb1bFg1bLrLrL_F||||| 
+37;232;_FbLb1bFg1bLrLrL_FbF||||| 
+38;17;_FbLb1bFg1bLrLrL_F||||| 
+39;50;_FbLb1bFg1bFbLrLrL_F||||| 
+40;78;_FbLb1bFg1rLrL_FbL||||| 
+41;413;_FbLb1g1rLrLbL_F||||| 
+42;101;_FbLb1b1bLg1rLrL_F||||| 
+43;5;solution:_FbLb1b1bLg1rLrL_F||||| 
+
+User 172
+---
+Game 1
+0;70;_FbLb1rLrLr1bLb1_F||||| 
+1;14;_FbLb1rLrLr1bLb1_F_1||||| 
+2;6;_FbLb1rLrLr1bLb1_Fg1||||| 
+3;28;_FbLb1rLrLr1bLb1g1_F||||| 
+4;13;_FbLb1rLrLr1bRb1g1_F||||| 
+5;14;_FbLb1rLrLr1b1g1_F||||| 
+6;18;_FbLb1rLrLr1b1bLg1_F||||| 
+7;38;_FbLb1rLrLr1b1g1bL_F||||| 
+8;25;_FbLrLrLr1b1g1bL_F||||| 
+
+User 174
+---
+Game 1
+0;103;_F_1bLb1rLrLr1bLb1_F||||| 
+1;26;_FbLb1rLrLr1bLb1_F||||| 
+2;12;_FbL_1b1rLrLr1bLb1_F||||| 
+3;14;_FbL_1rLrLr1bLb1_F||||| 
+4;58;_FbLrLrLr1bL_1_F||||| 
+5;33;_FbLrLrLr1b1_1bLb1_F||||| 
+6;54;_FbLrLrLr1b1b1bL_1_F||||| 
+7;15;_FbLrLrLr1b1bL_1_F||||| 
+8;152;_FbLrLrLr1b1bL_1_Fb1||||| 
+9;79;_F_1bLrLrLr1b1bL_F||||| 
+10;26;_FbLrLrLr1b1bL_1_F||||| 
+11;81;_FbLrLrLr1b1bLb1_1_F||||| 
+12;12;_FbLrLrLr1b1b1bL_1_F||||| 
+13;81;_FbLrLrLr1b1bL_1_F||||| 
+14;56;_FbLrLrLr1r1b1bL_1_F||||| 
+15;25;_FbLrLrLb1b1bL_1_F||||| 
+16;26;_FbLrLrLb1r1b1bL_1_F||||| 
+17;21;_FbLrLrLr1b1bL_1_F||||| 
+18;23;_FbLrLrLr1b1_1bR_F||||| 
+19;10;_FbLrLrLr1b1b1_1bR_F||||| 
+20;15;_FbLrLrLr1b1bR_1bR_F||||| 
+21;82;_Fb1bLrLrLr1b1bL_1_F||||| 
+22;22;_FbLb1rLrLr1b1bL_1_F||||| 
+23;80;_FbLb1rLrLb1bL_1_F||||| 
+24;68;_FbLb1rLrLb1bLb1_F||||| 
+25;6;_FbLb1rLrLb1bLg1_F||||| 
+26;6;solution:_FbLb1rLrLb1bLg1_F||||| 
+
+User 176
+---
+Game 1
+0;26;_FbL||||| 
+1;3;_FbL_1||||| 
+2;25;_FbLrRrR_1||||| 
+3;24;gFbLrRrR_F_F_1||||| 
+4;18;gFbLrRrR_F_F_F_F_1||||| 
+
+Game 2
+0;50;_Fg1||||| 
+1;13;_Fg1bL||||| 
+2;301;bL_F_FrLrL||||| 
+
+Game 3
+0;32;_FrLrL_F_F||||| 
+
+Game 4
+0;13;_FbL_1||||| 
+1;35;_FbL_F_F||||| 
+2;22;_FbLg1b1_F_F||||| 
+3;64;_FbLg1rLrLb1_F_F||||| 
+4;17;_FbLg1b1rLrL_F_F||||| 
+5;39;_FbLg1b1bLrLrL_F_F||||| 
+6;7;_FbLg1b1bRrLrL_F_F||||| 
+
+Game 5
+0;44;_FbL_1||||| 
+1;30;_FbLb1||||| 
+2;15;_Fg1||||| 
+3;93;_Fg1b1rLrLbL||||| 
+4;11;_FrLrLbLg1b1||||| 
+5;10;_FrLrLbLg1b1_F_F||||| 
+6;30;_FbLg1b1rLrL_F_F||||| 
+7;55;_FbLg1b1rLrL_F_FbL||||| 
+8;82;_Fg1bLb1rLrL_F_FbL||||| 
+9;7;_Fg1bLb1rLrL_F_F||||| 
+10;6;_Fg1bLb1rLrL_F_FbL||||| 
+11;5;_Fg1bLb1rLrL_F_FbR||||| 
+12;51;_Fg1bLb1rLrL_F_Fb1||||| 
+
+User 184
+---
+Game 1
+0;88;_FrLrLbR_1||||| 
+
+Game 2
+0;57;_Fg1bLb1rLrL_FbR||||| 
+1;65;_Fg1bLb1rLrL_F_F||||| 
+2;58;_Fg1bLb1rLrL_F_F_F_F||||| 
+3;128;_Fg1bLb1rLrL_F_Fb1||||| 
+4;49;_Fg1bLb1rLrL_F_F||||| 
+
+Game 3
+0;316;gFg1bL_F_Fg1_L_L_F_1||||| 
+
+User 190
+---
+Game 1
+0;50;_Fg1bLb1||||| 
+1;45;_Fg1bLb1rRrR_F_F_1||||| 
+2;21;_Fg1bLb1_R_R_F_F_1||||| 
+3;51;_Fg1_Lb1_L_F_F_1||||| 
+4;46;_Fg1_Lb1||||| 
+5;7;_Fg1bLb1||||| 
+6;65;_Fg1bLb1_F||||| 
+
+Game 2
+0;31;_FbLg1b1||||| 
+
+Game 3
+0;87;bLgFg1_Fb1_R||||| 
+1;6;bLgFg1_Fb1||||| 
+2;17;bLgFg1gFb1||||| 
+3;6;bL_Fg1gFb1||||| 
+4;12;bL_Fg1gFb1rRrR||||| 
+5;38;bL_Fg1gFb1_RrRrR||||| 
+6;9;bL_Fg1_Fb1_RrRrR||||| 
+7;35;bLgFg1_Fb1_RrRrR||||| 
+8;5;bL_Fg1gFb1_RrRrR||||| 
+9;12;bL_Fg1gFb1rRrRrF||||| 
+10;13;bL_Fg1gFb1bFrRrRrF||||| 
+11;46;bL_Fg1gFb1bRrRrRrF||||| 
+12;8;bL_Fg1gFb1_RrRrRrF||||| 
+
+Game 4
+0;63;_FbLb1_Rg1||||| 
+1;14;_FbLb1bRg1_F||||| 
+2;5;_FbLb1bRg1||||| 
+3;16;_FbLb1bRg1_F||||| 
+4;14;_FbLb1bRg1_FrRrR||||| 
+5;11;_FbLb1bRg1rRrR_F||||| 
+6;44;_FbLrRrRb1_Rg1_F||||| 
+7;5;_FbLrRrRb1bRg1_F||||| 
+8;53;_FbLrRrRrFb1bRg1_F||||| 
+9;5;_FbLrRrRb1bRg1_F||||| 
+10;42;_FbLrRrRr1b1bRg1_F||||| 
+11;68;_FbLrRrRb1bRg1_FrRrR||||| 
+12;8;_FbLb1bRg1_FrRrR||||| 
+13;73;_FbLrRrRb1bRg1rFgFb1||||| 
+14;71;_FbLrRrRb1bRg1rFgF||||| 
+
+Game 5
+0;51;_Fg1gFbLb1bR||||| 
+1;13;_Fg1gFbLb1bRrRrR||||| 
+2;10;_Fg1gFbLb1bRrRrRrF||||| 
+3;32;_Fg1gFbLb1rRrRrFbR||||| 
+4;56;_Fg1bLgFb1rRrRrFbR||||| 
+5;30;_Fg1bLb1gFrRrRrFbR||||| 
+6;65;_FbLb1bRg1gFrRrRrF||||| 
+7;8;_FbLb1bRg1_FrRrRrF||||| 
+8;69;_FbLg1_Fb1bRrRrRrF||||| 
+9;17;_FbLg1gFb1bRrRrRrF||||| 
+10;14;_FbLg1gFb1_RrRrRrF||||| 
+11;59;_Fg1gFbLb1bRrRrRrF||||| 
+12;20;_Fg1bLgFb1bRrRrRrF||||| 
+
+Game 6
+0;28;_FbLb1bRg1_F||||| 
+1;24;_FbLb1bRg1rRrRrF_F||||| 
+2;42;_FbLb1bRrRrRg1_F||||| 
+3;14;_FbLb1bRg1rRrRrF_F||||| 
+4;65;_FbLb1bRrRrRg1_F||||| 
+5;23;_FbLb1bRrRrRrFg1_F||||| 
+6;63;_FbLb1bRrRrRrFg1_Fb1||||| 
+7;29;_FbLb1bRrRrRrFg1b1_F||||| 
+8;21;_FbLb1bRrRrRrFg1_F||||| 
+9;11;_FbLb1bRrRrRg1b1_F||||| 
+10;25;_FbLb1bRrRrRg1bRb1_F||||| 
+11;11;_FbLb1bRrRrRg1bLb1_F||||| 
+12;66;_FbLb1bRrRrRg1_F||||| 
+13;27;_FbLb1_1bRrRrRg1_F||||| 
+14;17;_FbLb1b1bRrRrRg1_F||||| 
+15;25;_FbLb1b1bLrRrRg1_F||||| 
+16;5;solution:_FbLb1b1bLrRrRg1_F||||| 
+
+User 209
+---
+Game 1
+0;27;_FbLrLrL_1||||| 
+
+User 224
+---
+Game 1
+0;61;_FbLrLrL_1||||| 
+1;33;_FbLg1rLrL_1||||| 
+2;10;_FbLg1rLrL_F_1||||| 
+3;15;_Fg1bLrLrL_F_1||||| 
+4;32;_FbLrLrL_1||||| 
+5;93;_FbLb1rLrL_1||||| 
+6;12;_Fb1bLrLrL_1||||| 
+7;12;_FbLb1rLrL_1||||| 
+8;23;_FbLb1rLrLg1||||| 
+9;8;_FbLb1rLrLr1g1||||| 
+10;17;_FbLg1rLrLr1b1||||| 
+11;18;_Fg1rLrLr1bLb1||||| 
+12;46;_FrLrLr1g1bLb1||||| 
+13;30;_FrLrLr1g1_FbLb1||||| 
+14;7;gFrLrLr1g1_FbLb1||||| 
+15;6;_FrLrLr1g1gFbLb1||||| 
+16;40;_FrLrLr1b1bLg1||||| 
+17;9;_FrLrLr1bLb1g1||||| 
+18;53;_FrLrLr1_FbLb1g1||||| 
+19;13;_FrLrLr1gFbLb1g1||||| 
+20;31;_FrLrLr1bLb1g1||||| 
+21;39;_FrLrLr1bLb1bRg1||||| 
+22;7;_FrLrLbLb1bRg1||||| 
+23;6;_FrLrLbLb1bR_1||||| 
+24;8;_FrLrLbLb1bRg1||||| 
+25;9;_FrLrLr1bLb1bRg1||||| 
+26;23;_FrLrLbLr1b1bRg1||||| 
+27;32;_FbLb1||||| 
+28;4;_FbLb1_1||||| 
+29;7;_FbLb1g1||||| 
+30;36;_FbLrLrLb1g1||||| 
+31;40;_FbLrLrLb1r1g1||||| 
+32;24;_FbLrLrLb1bRr1g1||||| 
+33;91;_FbLrLrLrFb1bRg1||||| 
+34;47;_FbLrLrLrFb1bR_Fg1||||| 
+35;67;_FbLrLrLrFb1bRbFg1||||| 
+36;14;_FbLrLrLrFbFb1g1||||| 
+37;25;bLrLrLrFbFb1_Fg1||||| 
+38;56;bLrLrLrFbF_Fb1g1||||| 
+39;38;b1_FrLrLrF_Fb1g1||||| 
+40;9;b1_FrLrLrFbFg1||||| 
+41;5;b1_FrLrLrFbLg1||||| 
+42;7;b1_FrLrLrFbLbFg1||||| 
+43;27;bRb1_FrLrLrFbLbFg1||||| 
+44;25;b1rLrLrFbLbF_Fg1||||| 
+45;10;b1_FrLrLrFbLbFg1||||| 
+46;111;bLrLrLrFgFbFg1||||| 
+47;13;bLrLrLrFgFb1bFg1||||| 
+48;14;bLrLrLrFgFbFb1g1||||| 
+49;24;gFrLrLrFbLbFb1g1||||| 
+50;20;rFrLrLgFbLbFb1g1||||| 
+
+Game 2
+0;131;_Fg1bLbF_FrLrLrF||||| 
+1;7;_Fg1bLbF_FrLrLrF_1||||| 
+2;24;_Fg1bLbF_FrLrLrF_F_1||||| 
+3;6;_Fg1bLbF_FrLrLrFgF_1||||| 
+4;7;_Fg1bLbFgFrLrLrF_F_1||||| 
+5;7;_Fg1bLbFgFrLrLrFgF_1||||| 
+6;6;_Fg1bLbF_FrLrLrF_1||||| 
+
+Game 3
+0;86;_Fg1bLb1bF||||| 
+1;13;_Fg1bLb1bFrLrLrF||||| 
+2;21;_Fg1bLb1bFrLrLrF_F||||| 
+3;89;_Fg1bLrLrLb1||||| 
+4;16;_Fg1bLrLrLrFb1bF||||| 
+5;49;_Fg1bLrLrLrF_Fb1bF||||| 
+6;5;_Fg1bLrLrLrFgFb1bF||||| 
+7;19;_Fg1bLrLrLrFgFb1bFbL||||| 
+
+Game 4
+0;47;_FbLb1g1||||| 
+1;63;_FbLb1rLrLrFgFg1||||| 
+2;27;_FbLb1rLrLrFg1||||| 
+
+Game 5
+0;53;rLrLrF_FbLb1bRg1||||| 
+1;16;rLrLrF_FbLb1bRg1r1||||| 
+2;7;rLrLrF_FbLb1bRr1g1||||| 
+3;12;rLrLrF_FbLb1bRg1||||| 
+4;79;rFbL_FrLrLb1bRg1||||| 
+5;46;bL_FrLrLb1bRrFg1||||| 
+6;15;bL_FrLrLrFb1bRg1||||| 
+7;13;bL_FrLrLrFb1bRg1gF||||| 
+8;29;bL_FrLrLrFb1bFg1||||| 
+
+Game 6
+0;59;_FrLrLrFbLb1bFg1||||| 
+1;61;rLrLrF_FbLb1bFg1||||| 
+2;82;_FbLb1bFg1rLrLrF||||| 
+
+Game 7
+0;58;_Fg1rLrLrFbLb1bF||||| 
+1;42;_FrLrLrFg1bLb1bF||||| 
+
+Game 8
+0;62;_Fg1bLb1rLrLrFbF||||| 
+1;15;_Fg1bLb1rLrLrF_F||||| 
+2;74;_Fg1bLb1rLrLrFgFbF||||| 
+3;27;_Fb1bLg1rLrLrFgFbF||||| 
+4;14;_FbLb1g1rLrLrFgFbF||||| 
+
+Game 9
+0;126;_Fg1bLb1rLrLrFgFbF||||| 
+
+Game 10
+0;53;bLb1rLrLrFgFbFg1||||| 
+
+Game 11
+0;81;_FrLrLg1rFbLb1bF||||| 
+1;14;_FrLrLg1_FbLb1bF||||| 
+2;7;_FrLrLg1rFbLb1bF||||| 
+3;68;rFrLrL_Fg1bLb1bF||||| 
+4;11;rLrLrF_Fg1bLb1bF||||| 
+5;38;_FrLrLrFg1bLb1bF||||| 
+6;29;_FrLrLrFg1bL_Fb1bF||||| 
+7;4;_FrLrLrFg1bLbFb1bF||||| 
+8;17;_FrLrLrFg1bLb1bFbF||||| 
+
+Game 12
+0;88;_FrLrLrFbLb1bFg1||||| 
+1;54;_FrLrLrFg1gFbLb1bF||||| 
+2;6;_FrLrLrFg1_FbLb1bF||||| 
+3;13;_FrLrLg1gFbLb1bF||||| 
+4;17;_FrLrLgFg1rFbLb1bF||||| 
+5;9;_FrLrLrFg1gFbLb1bF||||| 
+
+Game 13
+0;38;_Fg1bLb1rLrLrFgFbF||||| 
+1;31;_FbLb1rLrLrFg1bF||||| 
+2;33;_FbLb1rLrLrFgFbFg1||||| 
+
+Game 14
+0;75;_FbLb1g1rLrLrFbF||||| 
+1;25;_FbLb1rLrLrFg1bF||||| 
+2;15;_FbLb1rLrLg1bF||||| 
+3;24;_Fg1bLrLrLb1bF||||| 
+4;10;_Fg1bLrLrLrFb1bF||||| 
+
+Game 15
+0;72;_FbLg1b1rLrLrFbF||||| 
+1;48;_FbLg1rLrLrFb1bF||||| 
+2;11;_FbLg1rLrLrFb1bFgF||||| 
+
+Game 16
+0;89;_FbLg1||||| 
+1;13;_FbLg1b1bF||||| 
+2;23;_FbLb1g1bF||||| 
+3;26;_FbLb1g1rLrLrFgFbF||||| 
+4;9;_FbLb1g1rLrLrFbF||||| 
+
+Game 17
+0;86;_Fg1bLrLrLrFb1bFg1||||| 
+1;32;_Fg1bLrLrLrFb1gFbFg1||||| 
+2;99;bL_Fg1||||| 
+3;10;bL_Fg1b1||||| 
+4;32;bL_Fg1b1rLrLrFgFbF||||| 
+5;33;bL_FrLrLrFg1b1bF||||| 
+6;57;bL_FrLrLrFb1g1bF||||| 
+7;23;bL_FrLrLrFg1bF||||| 
+8;12;_FbLrLrLrFg1bF||||| 
+9;11;_FbLbFrLrLrFg1bF||||| 
+10;13;bL_FbFrLrLrFg1bF||||| 
+11;6;bL_FrLrLrFg1bF||||| 
+12;24;_FbLrLrLrFg1bF||||| 
+13;30;_FbLbFrLrLrFg1bF||||| 
+14;13;bLbF_FrLrLrFg1bF||||| 
+15;14;bF_FbLrLrLrFg1bF||||| 
+16;47;bF_FbLrLrLrFg1gFbF||||| 
+17;70;bF_FbLg1rLrLrFgFbF||||| 
+18;6;_FbLg1rLrLrFgFbF||||| 
+19;16;_FbLbFg1rLrLrFgFbF||||| 
+
+Game 18
+0;36;_FbLbFg1rLrLrFg1bF||||| 
+1;19;_Fg1bLbFrLrLrFg1bF||||| 
+
+Game 19
+0;37;_Fg1rLrLbLg1_F||||| 
+1;9;_Fg1rLrLbLg1bF||||| 
+2;25;_Fg1rLrLbLr1bF||||| 
+
+Game 20
+0;53;_Fg1rLrLbLbFg1||||| 
+1;9;_Fg1rLrLbLbFr1||||| 
+2;17;_Fg1rLrLbLbFg1rF||||| 
+3;8;_Fg1rLrLbLbFg1rFbF||||| 
+4;9;_Fg1rLrLbLbFg1rFgFbF||||| 
+5;16;_Fg1rLrLbLbFr1rFgFbF||||| 
+6;75;_Fg1rLrLbLbFg1rFgFbF||||| 
+
+Game 21
+0;77;rLrLrFr1_FbLbFg1bF||||| 
+1;14;rLrLrF_Fr1bLbFg1bF||||| 
+2;32;rLrLrFbLbF_Fr1g1bF||||| 
+3;11;rLrLrFbL_Fr1g1bF||||| 
+4;40;rLrLrF_FbLbFr1g1bF||||| 
+
+Game 22
+0;82;_Fg1bLbFg1||||| 
+1;31;_Fg1bLbFg1rLrLrFgFbF||||| 
+2;27;_Fg1bLbFg1rLrL||||| 
+3;16;_Fg1bLbFrLrLg1||||| 
+4;30;_FrLrLg1bLbFg1||||| 
+5;48;_FrLrLg1bLbFg1_F_F_F||||| 
+6;9;_FrLrLg1bLbFg1rFgFbF||||| 
+7;9;_FrLrLg1bLbFg1||||| 
+8;38;_FrLrLg1bLbFg1rFbF||||| 
+
+Game 23
+0;83;_FbLbFg1||||| 
+
+Game 24
+0;25;_Fg1_LrL_F||||| 
+
+Game 25
+0;58;_FbLg1b1rLrL_1||||| 
+1;6;_FbLg1b1rLrL_F||||| 
+2;11;_FbLg1b1rLrL_F_F||||| 
+3;13;_FbLg1b1rLrLrF||||| 
+4;15;_FbLg1b1rLrLrF_1||||| 
+5;15;_FbLg1b1rLrL_F||||| 
+6;11;_FbLg1b1rLrL_F_1||||| 
+7;12;_FbLg1b1rLrL_F_F_F_1||||| 
+8;6;_FbLg1b1rLrL_F_F_1||||| 
+9;11;_FbLg1b1rLrL_FgF_1||||| 
+10;25;_FbLb1g1rLrL||||| 
+11;9;_FbLb1g1rLrL_F||||| 
+12;16;_FbLb1g1rLrL_F_F||||| 
+13;9;_FbLb1g1rLrL_F||||| 
+14;13;_FbLb1rLrL_Fg1||||| 
+15;12;_FbLb1rLrLg1_F||||| 
+16;12;_FbLb1rLrLg1rF||||| 
+17;10;_FbLb1rLrLg1rFgF||||| 
+18;20;_FbLb1g1rLrL_F||||| 
+19;44;_FbLb1g1rLrLg1_F||||| 
+20;9;_FbLb1g1rLrL_Fg1||||| 
+21;9;_FbLb1g1rLrL_Fb1||||| 
+22;26;_FbLb1g1rLrLb1_F||||| 
+23;24;_FbLb1g1rLrL_F||||| 
+24;171;_FbLb1g1rLrL_F_F_F||||| 
+25;12;_FbLb1g1rLrL_F_F||||| 
+
+Game 26
+0;65;_FbLg1rLrL_F_Fb1||||| 
+1;13;_FbLg1rLrLrFgFb1||||| 
+2;44;_FbLg1rLrLrFgFb1r1||||| 
+
+Game 27
+0;38;rLrLrF_FbLg1_Fb1||||| 
+
+Game 28
+0;70;_Fg1bLbFrLrLrFgFbF_1||||| 
+1;169;_Fg1bLbFrLrLrFgFbFg1||||| 
+2;45;_Fg1bLbFrLrLrFgFbF_1||||| 
+3;29;_Fg1bLbFrLrLrFgFbF||||| 
+4;128;bLbFrLrLrFgFbFg1||||| 
+
+Game 29
+0;43;_FbL_1||||| 
+
+Game 30
+0;90;_FbLb1rLrLrFbFg1||||| 
+1;39;gFbLb1rLrLrFbFg1||||| 
+2;6;_FbLb1rLrLrFbFg1||||| 
+
+Game 31
+0;252;_FbLg1b1bFrLrL_F_F||||| 
+
+Game 32
+0;59;_F||||| 
+
+Game 33
+0;147;_FbLrLrLb1g1_F_F_1||||| 
+1;320;gFbLb1bFg1rLrL_FgFbF||||| 
+2;8;_FbLb1bFg1rLrL_FgFbF||||| 
+
+Game 34
+0;173;_Fg1bLbF||||| 
+1;21;_Fg1bL||||| 
+2;266;gFbFrLrLr1bL_1||||| 
+3;11;_FrLrLr1bL_1||||| 
+4;22;_FrLrLr1bLg1||||| 
+5;26;_FrLrLr1bLb1g1||||| 
+6;25;gFrLrLr1bLbFb1g1||||| 
+
+Game 35
+0;162;bLrLrL_Fg1||||| 
+1;6;bLrLrL_Fg1b1||||| 
+
+Game 36
+0;273;bR_FrLrLbLb1||||| 
+1;7;bR_FrLrLbLb1_1||||| 
+2;6;bR_FrLrLbLb1g1||||| 
+3;160;_Fg1||||| 
+4;197;_FbLrLg1||||| 
+5;10;_FbLrLg1_1||||| 
+6;142;_FbLrLg1_F_1||||| 
+7;18;_FbLg1rL_F_1||||| 
+8;11;_FbLg1_FrL_1||||| 
+9;26;_FbLg1_F_FrL_1||||| 
+10;23;_FbLg1gF_FrL_1||||| 
+11;21;_FbLg1gF_FbFrL_1||||| 
+12;16;_FbLb1g1gF_FbFrL_1||||| 
+13;47;gFbFbLb1g1gF_FbFrL_1||||| 
+14;8;gFbLbFb1g1gF_FbFrL_1||||| 
+15;8;gFbLbFg1gF_FbFrL_1||||| 
+16;41;gFbLbFg1gF_FbFrL||||| 
+17;11;gFbLbFg1_FbFrL||||| 
+18;105;gFbLbFg1_FbFrLr1||||| 
+19;53;gFbLbFg1_FbFrL||||| 
+20;126;_FbLbFg1_F_F_FrL||||| 
+21;35;_FbLbFg1_F_FrL||||| 
+22;28;_FbLbFg1_FrL_FrLbF||||| 
+23;27;_FbLbFg1_FrL_F||||| 
+24;32;_FbLbFg1_FrF_FrL||||| 
+25;8;_FbLbFg1_FrR_FrL||||| 
+26;25;_FbLbFg1_FrR_FrLbR||||| 
+27;22;_FbLbFg1_FrRbR_FrLbR||||| 
+28;12;_FbLbFg1_FrRbR_FrLbL||||| 
+29;20;_FbLbFg1_FrR_FrL||||| 
+30;117;_Fg1_FbL_FbR||||| 
+31;4;_Fg1_FbL_FbF||||| 
+32;14;_Fg1bL_FbF_F||||| 
+33;7;_Fg1bL_FbL_F||||| 
+34;9;_Fg1bL_FbL_F_1||||| 
+35;7;_Fg1bL_FbL_F||||| 
+
+Game 37
+0;61;_FbLbFg1_F||||| 
+1;45;_FbLbFg1_FbF_FrL||||| 
+2;14;_FbLbFg1_FbFrL_F||||| 
+3;41;_FbLbFg1_FrL_FbF||||| 
+4;70;_F_FbLbFg1_FrL_FbF||||| 
+5;10;_FbLbF_Fg1_FrL_FbF||||| 
+
+Game 38
+0;141;_FbLbFg1rLrL_F_F_F_F||||| 
+1;32;_FbLbFg1rLrL_FgFgF_1||||| 
+2;14;_FbLbFg1rLrL_FgFgFr1||||| 
+3;6;_FbLbFg1rLrL_FgFgFg1||||| 
+4;10;_FbLbFg1rLrL_FgFgFb1||||| 
+5;17;_FbLbFg1rLrL_FgFgFgF||||| 
+6;11;_FbLbFg1rLrL_FgFbFgF||||| 
+7;11;_FbLbFg1rLrL_FgFbF_F||||| 
+
+Game 39
+0;229;_FbLg1b1rLrL_FbF||||| 
+1;70;_FrFbLg1b1rLrLrF_FbF||||| 
+2;10;_FbLg1b1rLrLrF_FbF||||| 
+3;12;_FbLg1b1rLrLrF_F||||| 
+4;55;_FbLb1g1rLrLrF_F||||| 
+5;14;_FbLb1g1rLrL_FbF||||| 
+6;8;_FbLg1b1rLrL_FbF||||| 
+
+Game 40
+0;48;_FbLb1g1rLrLrF_F||||| 
+1;19;_FbLb1g1rLrLrFgF||||| 
+2;15;_FbLb1g1rLrLrFgF_1||||| 
+3;15;_FbLb1g1rLrLrFgFbR_1||||| 
+4;8;_FbLb1g1rLrLrFgFbR||||| 
+5;8;_FbLb1g1rLrLrF_FbR||||| 
+
+Game 41
+0;88;_FbLbFrLg1_FrL_FrL||||| 
+1;9;_FbLbFrLg1_FrL_FrL_1||||| 
+2;39;_FbLbFrLg1_FrL_FrL||||| 
+3;16;_FbLbFrLg1_FrL_FrL_F||||| 
+4;30;_FbLbFrLg1_F_FrL||||| 
+5;12;_FbLbFrLg1_FrL_FrLrF||||| 
+
+Game 42
+0;49;_FbLb1g1||||| 
+1;105;_FbLb1rLrL_F_Fg1||||| 
+2;42;_FbLb1rLrLg1||||| 
+3;88;_FbLg1rLrLb1_F_F||||| 
+
+Game 43
+0;138;_FbLbFg1rLrL_F_F||||| 
+1;45;_FbLbFg1rLrL_FbFbL||||| 
+2;15;_FbLbFg1rLrL_FbF_FbL||||| 
+3;30;_FbLbFg1rLrL_FbL_F||||| 
+4;135;_FbLrLrLb1g1_Fb1_FbR||||| 
+5;69;_FbLrLrLb1g1_Fb1g1bR||||| 
+6;116;_FbLrLrLb1g1_F_Fb1||||| 
+7;34;_FbLrLrLb1g1_FbL_Fb1||||| 
+8;50;_FbLrLrLb1g1_F_Fb1||||| 
+9;23;_FbLrLrLb1g1_FgFb1||||| 
+10;24;_FbLrLrLb1g1gF_Fb1||||| 
+11;65;_FbLrLrLb1g1_FgFbFb1||||| 
+12;5;_FbLrLrLb1g1_F_FbFb1||||| 
+13;5;_FbLrLrLb1g1gF_FbFb1||||| 
+14;85;_FbLrLrLb1g1_FbF_FbL||||| 
+15;10;_FbLrLrLb1g1_FbL_FbF||||| 
+16;51;_FbLb1g1rLrL_FbL_FbF||||| 
+17;30;_FbLb1g1rLrL_FbLgFbF||||| 
+18;63;_FbLb1g1rLrLrFbL_FbF||||| 
+19;42;_FbLb1g1gFrLrLbL_FbF||||| 
+20;22;_FbLb1g1gFrLrL_FbLbF||||| 
+21;36;_FbLg1b1gFrLrL_FbLbF||||| 
+
+Game 44
+0;123;_FbLb1rLrLg1bF_1||||| 
+
+Game 45
+0;72;gFbLbFb1rLrL_1||||| 
+1;12;gFbLbFb1rLrLrF_1||||| 
+
+Game 46
+0;28;bLbFgFg1||||| 
+1;35;bLbFb1gFg1||||| 
+2;15;bRbFb1gFg1||||| 
+3;36;bRbFgFg1rLrLrFbLbFb1||||| 
+4;6;bRbFgFg1rLrLrFbLbF_1||||| 
+5;65;bFb1gFg1rLrLrFbLbF_1||||| 
+6;36;bFb1gFg1bLbFrLrLrF_1||||| 
+7;16;bFb1gFb1bLbFrLrLrF_1||||| 
+
+Game 47
+0;35;_Fg1||||| 
+1;21;_Fg1bLb1||||| 
+2;19;_Fb1bLg1||||| 
+3;22;gFb1bLg1||||| 
+4;8;gFbLb1g1||||| 
+5;15;gFbLb1bFg1||||| 
+6;8;gFbLbFb1g1||||| 
+7;49;gFbLbFb1rLrLg1||||| 
+8;22;gFbLbFb1rLrL_F_Fg1||||| 
+9;13;gFbLbFb1rLrLgFgFg1||||| 
+10;36;gFbLbFb1g1rLrL_F||||| 
+11;37;gFbLbFb1g1rLrL_F_FbL||||| 
+
+Game 48
+0;135;_Fg1bLbFrFb1||||| 
+1;24;_Fg1bL_Fb1||||| 
+2;15;_FbLg1_Fb1||||| 
+3;23;_Fg1bL_Fb1||||| 
+
+Game 49
+0;111;_Fg1bLb1rF||||| 
+1;11;_Fg1bLrFb1||||| 
+2;21;_Fg1bLb1r1||||| 
+3;124;_Fg1bLb1rLr1||||| 
+4;39;_FbLrL_1||||| 
+5;27;_FbLrL_FrRbR_1||||| 
+6;79;_FbLrL_FrRbR_FrRbR_1||||| 
+7;5;_FbLrL_FrRbR_FrLbR_1||||| 
+8;19;_FbLrL_FrLbR_FrLbR_1||||| 
+9;8;_FbRrL_FrLbR_FrLbR_1||||| 
+10;6;_FbLrL_FrLbR_FrLbR_1||||| 
+11;55;_FbLrLg1rLbR_FrLbR_1||||| 
+12;22;_FbLrL_FrLbR_FrLbR_1||||| 
+13;44;_FbLrLb1rLbR_FrLbR_1||||| 
+14;12;_FbLrLb1rLbR_FrRbR_1||||| 
+15;10;_FbLrLb1rLbR_FrRbL_1||||| 
+16;5;_FbLrLb1rLbR_FrRbR_1||||| 
+17;124;_FbLrL_FrLbRb1rRbR_1||||| 
+18;11;_FbLrLb1rLbR_FrRbR_1||||| 
+19;11;_FbLrLb1rRbR_FrRbR_1||||| 
+20;6;_FbLrLb1rLbR_FrRbR_1||||| 
+21;9;_FbLrLb1rLbR_FbR_1||||| 
+22;19;_FbLrLb1rLbR_FrRbR_1||||| 
+23;90;_FbLrRb1bR_FrRbR_1||||| 
+24;26;_FbRrRb1bR_FrRbR_1||||| 
+25;26;_FbRrRb1bR_FrRbL_1||||| 
+26;4;_FbRrRb1bR_FrRbR_1||||| 
+27;7;_FbRrRb1bR_FrRbF_1||||| 
+28;109;_FbRrRb1bR_FrRbR_1||||| 
+
+Game 50
+0;130;_FrLbL_FrL_FbR_1||||| 
+1;31;_FrLbLb1_FrLbR_1||||| 
+2;10;_FrRbLb1_FrRbR_1||||| 
+3;41;_FrRbLb1_FrRb1_FbR_1||||| 
+4;9;_FrRbLb1_FrRb1_FbL_1||||| 
+5;13;_FrRbLb1_FrR_FbR_1||||| 
+6;40;_FrRbLb1_FrRb1_FbR_1||||| 
+7;41;_FrRbLb1_FrRb1_FbL_1||||| 
+
+Game 51
+0;105;_Fg1bLb1rLrL_F_F_1||||| 
+1;39;_Fg1bLb1rLrL_F_F||||| 
+2;14;_Fg1bLb1rLrL_F_F_F||||| 
+
+Game 52
+0;187;_FbLrR_FbRrL_1||||| 
+1;11;_FbLrL_FbRrR_1||||| 
+2;28;_FbLrL_FbRrL_1||||| 
+3;23;_FbLrR_FbRrR_1||||| 
+4;145;_FbLrL_FbLrR_FrL_1||||| 
+5;32;_FbLrL_FbLrR_FrLbF_1||||| 
+6;77;_FbLrL_FbLrR_FrLrF_1||||| 
+
+Game 53
+0;130;_FbL_FbRrLrL_1||||| 
+1;13;_FbL_FbRrLrL_F_1||||| 
+2;46;_FbL_FbRrLrL_FrLrL_1||||| 
+3;48;_FbL_FbRrLrL_FrL_1||||| 
+4;9;_FbL_FbRrL_FrL_1||||| 
+5;736;_FbL_FbL_F_1||||| 
+6;433;_FbL_FbR_F_1||||| 
+7;116;_FbL_FbRrL_FrL_1||||| 
+8;32;_FbL_FbRrLrL_FrL_1||||| 
+9;35;_FbLrR_FbRrLrL_FrL_1||||| 
+10;356;_F_F_L_F_L||||| 
+11;3;_F_F_L_F_L_1||||| 
+12;16;_F_F_L_F_L_F_L_1||||| 
+13;40;_F_F_L_F_L_F_L_F_L_1||||| 
+14;7;_F_F_L_F_L_F_L_1||||| 
+
+Game 54
+0;58;_FbLrF_FbLrL_1||||| 
+1;8;_FbLrL_FbLrF_1||||| 
+2;120;bFbLrLgFbFbLrFgF_1||||| 
+3;11;gFbLrLgFbFbLrFbF_1||||| 
+4;20;gFbLrLgFbLbFrFbF_1||||| 
+5;26;gFbLbFrLgFbLrFbF_1||||| 
+
+Game 55
+0;35;_FbL_FbLrL_1||||| 
+1;7;_FbLrL_FbL_1||||| 
+2;63;_FbLrL_FbR_1||||| 
+3;11;_FbLrL_FbR_F_1||||| 
+4;11;_FbL_FbRrL_F_1||||| 
+5;4;_FbL_FbR_FrL_1||||| 
+6;12;_FbLrL_FbR_FrL_1||||| 
+7;6;_FbL_FbRrL_FrL_1||||| 
+8;14;_FbL_F_FbRrL_FrL_1||||| 
+9;10;_FbL_FbR_FrL_FrL_1||||| 
+10;7;_FbL_FbR_FbRrL_FrL_1||||| 
+11;31;_FbL_FbR_FbRrL_FrR_1||||| 
+12;17;_FbL_FbR_FbRrR_FrF_1||||| 
+
+Game 56
+0;115;_FbL_FbF_FbR_1||||| 
+1;25;_FbLb1_FbFb1_FbR_1||||| 
+2;69;_FbLb1_Fb1_FbRrLrL_1||||| 
+3;13;_FbLb1_Fb1_FrLrLbR_1||||| 
+4;18;_FbLb1_FrLrLb1_FbR_1||||| 
+5;58;_FbLb1_FrLrLb1gFbR_1||||| 
+6;27;_FbLb1gFrLrLb1_FbR_1||||| 
+7;36;gFbLb1_FrLrLb1_FbR_1||||| 
+8;111;_FbRb1_FrLrLb1_FbL_1||||| 
+9;44;_FbRb1_FrLrLb1_FbR_1||||| 
+10;64;_FbLb1_FrLrL_1||||| 
+11;112;_FbLb1_FrLrL_F_1||||| 
+12;13;_FbLb1_FrLrLbL_F_1||||| 
+13;16;_FbLb1bL_FrLrL_F_1||||| 
+14;15;_FbLb1_FrLrL_FbL_1||||| 
+15;26;_FbLb1_FrLrL_FbL_F_1||||| 
+16;39;_FbLb1_FrLrL_FbL_1||||| 
+
+Game 57
+0;49;_FbL_FbF_FbL_1||||| 
+1;22;_FbLb1_FbF_FbL_1||||| 
+2;26;_FbLb1_FbFrLrL_FbL_1||||| 
+3;30;_FbLb1_FrLrL_FbL_1||||| 
+4;19;_FbLb1_FbLrLrL_FbF_1||||| 
+5;65;_FbLb1_FbFrLrLb1_F_1||||| 
+6;13;_FbLb1_FbFrLrL_FbL_1||||| 
+7;29;_FbRb1_FbFrLrL_FbR_1||||| 
+
+Game 58
+0;844;_FbLb1g1rLrL_F||||| 
+1;80;_Fg1bLb1rLrL_F||||| 
+2;50;_FbLb1g1rLrL_F_F||||| 
+3;60;_FbLb1g1rLrL_F||||| 
+4;87;_FbLbFb1g1rLrL_F||||| 
+5;108;_FbLb1g1rLrL_FbF||||| 
+6;19;_FbLb1g1rLrLrF_F||||| 
+7;15;_FbLbFb1g1rLrLrF_F||||| 
+8;39;gFbLbFb1g1rLrLrF_F||||| 
+9;44;gFbLbFb1g1rLrLrF||||| 
+10;16;gFbLbFb1g1rLrL_F||||| 
+11;94;gFbLb1g1rLrL_FrLrL_F||||| 
+12;8;_FbLb1g1rLrL_FrLrL_F||||| 
+13;49;_FbLb1g1rLrL_F||||| 
+14;201;_FbLb1g1rLrLbF_F||||| 
+15;49;_FbLb1g1rLrL_FbF||||| 
+16;176;_FbLb1g1rLrLrFgF||||| 
+17;12;_FbLb1g1rLrLrF_F||||| 
+18;28;_FbLb1g1rLrLrFbF_F||||| 
+19;10;_FbLb1g1rLrLrF_FbF||||| 
+20;55;_FbLb1g1rLrLrF_F||||| 
+21;118;_FbLb1g1rLrLrFbL_F||||| 
+22;10;_FbLb1g1rLrLrF_FbL||||| 
+23;13;_FbLb1g1rLrLrFbL_F||||| 
+24;37;_FbLb1g1rLrL_FbL||||| 
+25;30;_FbLb1g1rLrLrFbLbFgF||||| 
+26;9;_FbLb1g1rLrLrFgFbLbF||||| 
+27;22;_FbLb1g1rLrLrFbLbF_F||||| 
+28;10;_FbLb1g1rLrLrF_FbLbF||||| 
+
+Game 59
+0;87;_Fg1_F_Lr1||||| 
+1;13;_Fg1_F_L_F_Rr1||||| 
+2;10;_Fg1_F_Lr1_F_Rr1||||| 
+3;36;_Fg1_Fr1_L_Fr1_R||||| 
+4;307;_Fg1_FbLbFrLrL||||| 
+5;9;_Fg1bLbF_FrLrL||||| 
+6;99;_Fg1bLbF_FrLrL_F||||| 
+7;13;_Fg1bLbF_FrLrLbL_F||||| 
+8;44;_Fg1bF_FrLrLbL_F||||| 
+9;16;_Fg1_FbFrLrLbL_F||||| 
+10;442;_FbLb1g1rLrL_F||||| 
+11;92;_FbLb1g1rLrL_FbF||||| 
+12;11;_FbLb1g1rLrLbF_F||||| 
+13;72;_FbLb1g1rLrL_F_F||||| 
+14;70;_FbLb1g1rLrLrF_F||||| 
+
+Game 60
+0;155;_FbR_FbLrLrL_1||||| 
+
+Game 61
+0;1066;_F||||| 
+
+Game 62
+0;224;_Fg1bL_F||||| 
+1;50;_Fg1bL_FbR_F||||| 
+2;15;_Fg1bL_FrLrLbR_F||||| 
+3;19;_Fg1bL_FrLrLbL_F||||| 
+4;27;_Fg1bL_FrLbL_F||||| 
+5;36;_Fg1bL_FrRbR_F||||| 
+6;58;rR_Fg1bL_FrRbR_F||||| 
+7;61;_FbLbFg1rRrR_F||||| 
+8;25;_FbLbFg1rR||||| 
+9;11;_FbLbFg1rL||||| 
+10;24;_FbLbFg1rL_F||||| 
+11;39;_FbLbFg1rL_FrLbL_F||||| 
+12;11;_FbLbFg1rL_FrL_F||||| 
+13;12;_FbLbFg1rL_FrR_F||||| 
+14;81;_FbLrL_FbLrR_FbRrL_1||||| 
+15;65;_FbLrL_FbFrR_FbRrL_1||||| 
+16;16;_FbLrL_FbLrR_FbRrL_1||||| 
+17;53;_FbLrL_FbLrR_FbRrR_1||||| 
+18;25;_FbLrL_FbLrL_FbRrR_1||||| 
+19;13;_FbLrR_FbLrL_FbRrR_1||||| 
+20;13;_FbLrL_FbLrL_FbRrL_1||||| 
+21;13;_FbLrL_FbLrR_FbRrR_1||||| 
+22;20;_FbLrR_FbLrR_FbRrR_1||||| 
+
+Game 63
+0;110;_Fg1gFbLb1bFb1rLrL||||| 
+1;12;_Fg1gFbLb1bFb1rLrLrF||||| 
+2;94;_Fg1gFbLb1bFrLrLrFb1||||| 
+3;44;_Fg1gFbLb1bFrLrL_Fb1||||| 
+4;19;_Fg1gFbLb1rLrL_F||||| 
+5;41;_Fb1gFbLg1rLrL_F||||| 
+6;8;_FbLb1gFg1rLrL_F||||| 
+7;13;bLb1gFg1rLrL_F||||| 
+8;10;_FbLb1g1rLrL_F||||| 
+9;64;_FbLbFb1g1rLrL_F||||| 
+10;25;_FbLb1g1rLrL_F||||| 
+11;34;_FbLg1b1rLrL_F||||| 
+12;97;_FbLb1g1rLrL_F||||| 
+13;101;_FbLb1g1rLrL_FrLrL_F||||| 
+14;377;_FbLg1b1bF_FrLrL||||| 
+15;23;_FbLg1b1bFrLrL_F||||| 
+16;243;_FbLg1b1bFrLrL_FbL||||| 
+17;79;_FbLg1b1b1rLrL_F||||| 
+18;172;_FbLg1b1b1rLrLbL_F||||| 
+19;15;solution:_FbLg1b1b1rLrLbL_F||||| 
+
+User 234
+---
+Game 1
+0;14;_FbL_1||||| 
+1;23;_FbLrLrL_1||||| 
+2;15;_FbLrLrLbR_1||||| 
+3;14;_FbLrLrL_R_1||||| 
+4;20;_FbLbRrLrL_1||||| 
+5;15;_FbLbFbRrLrL_1||||| 
+6;31;_F_FbLbFbRrLrL_1||||| 
+7;20;_F_F_FbLbRbRrLrL_1||||| 
+8;10;_F_FgFbLbRbRrLrL_1||||| 
+9;4;_FgFgFbLbRbRrLrL_1||||| 
+10;8;_FgFgFbLbFbRrLrL_1||||| 
+11;18;gFbLbFbRrLrL_1||||| 
+12;17;gFbLbFbRrLrLrF_1||||| 
+13;33;gFbL_FbFbRrLrLrF_1||||| 
+
+User 237
+---
+Game 1
+0;50;gFbLbFrRrR_1_F||||| 
+1;28;gFbLbFrRrRg1_F||||| 
+2;10;gFbLbFrRrRg1bR_F||||| 
+3;32;gFbLbFrRrRg1b1bR_F||||| 
+4;26;_FbLbFrRrRg1b1bR_F||||| 
+5;10;_FbLrRrRg1b1bR_F||||| 
+6;63;_FbLrRrRg1b1bRbR_F||||| 
+7;8;_FbLrRrRg1b1bR_F||||| 
+8;44;_FbLrRrRg1b1g1b1bR_F||||| 
+9;11;_FbLrRrRg1b1g1b1||||| 
+10;21;_FbLrRrRg1b1g1b1_F||||| 
+11;23;_FbLrRrRg1b1g1_F||||| 
+12;9;_FbLrRrRg1b1bR_F||||| 
+13;46;_FbLrRrRg1b1bFg1bR_F||||| 
+14;30;_FrRrRg1b1bFg1bR_F||||| 
+15;9;_FbRrRrRg1b1bFg1bR_F||||| 
+16;55;_FbRrRrRg1b1b1bR_F||||| 
+17;5;solution:_FbRrRrRg1b1b1bR_F||||| 
+
+User 262
+---
+Game 1
+0;559;gFbLb1bRb1_1||||| 
+1;22;_FbLb1bRb1_1||||| 
+2;29;_FbLb1bRb1rLrL_1||||| 
+3;30;_FbLbRrLrL_1||||| 
+4;9;_FbLrLrL_1||||| 
+5;62;_FbLb1bRb1rLrLg1||||| 
+6;35;_FbLb1rRrRg1||||| 
+7;193;_FbLb1bRb1rLrLb1g1||||| 
+8;7;_FbLb1bRb1rLrLrFb1g1||||| 
+9;34;_FbLb1bRb1rLrLg1b1rF||||| 
+10;67;_FbLb1bRb1rLrLg1rF||||| 
+11;1095;_Fg1_Lb1_L||||| 
+
+User 276
+---
+Game 1
+0;172;_Fg1bLb1b1bL_F||||| 
+1;19;_Fg1bLb1b1bLrLrL_F||||| 
+2;5;solution:_Fg1bLb1b1bLrLrL_F||||| 
+
+User 292
+---
+Game 1
+0;85;_FbLbFg1rLrL||||| 
+1;16;_FbLbFg1rLrLr1||||| 
+
+User 325
+---
+Game 1
+0;361;bR_Fg1rRrR_F_F_F_F_1||||| 
+1;190;_FbRg1b1r1||||| 
+
+User 379
+---
+Game 1
+0;96;_FbLb1bRbRb1rRrRg1_F||||| 
+1;143;_FbLb1rRrRb1bLg1_F||||| 
+2;34;solution:_FbLb1rRrRb1bLg1_F||||| 
+
+User 390
+---
+Game 1
+0;123;_Fg1bRb1rLrL_F||||| 
+1;54;_FbRb1g1rLrL_F||||| 
+2;33;_FbRb1g1rLrL_F_F||||| 
+3;16;_FbRb1g1rLrL_F_FbR||||| 
+4;27;_FbRb1g1rLrL_FbR_F||||| 
+5;32;_FbRb1g1_FrLrLbR_F_F||||| 
+
+Game 2
+0;152;_FrRrRg1bR_F||||| 
+
+User 409
+---
+Game 1
+0;24;gFbL_1||||| 
+1;6;gFbLbF_1||||| 
+2;21;gFbLbFrRrF_1||||| 
+3;6;gFbLbFrLrF_1||||| 
+4;107;gFbRbFrLrF_1||||| 
+5;4;gFbRbFrRrF_1||||| 
+6;34;gFg1rRrFbRbF||||| 
+7;4;gFg1rRrFbRbF_1||||| 
+
+User 458
+---
+Game 1
+0;49;_Fg1bRg1||||| 
+1;25;gFbRrRrR_1||||| 
+2;25;gFbRbFrR_1||||| 
+3;16;gFbRbFrRrRrF_1||||| 
+4;101;gFbRbFrRrRrFrFrFrF_1||||| 
+5;37;gFbRbFrRrRbFgF_1rF_1||||| 
+6;13;gFbRbFrRrRrFbF_1rF_1||||| 
+7;44;gFbRbFrRrRrFgFbF_1_1||||| 
+8;66;gFbRbF_1rRrFgFbF_1_1||||| 
+9;14;gFbRbFrF_1rFgFbF_1_1||||| 
+10;83;gFbRbFrRrF_1gFbF_1_1||||| 
+11;24;gFbRbFrLrF_1gFbF_1_1||||| 
+12;8;gFbLbFrLrF_1gFbF_1_1||||| 
+13;16;gFbLbFrLrFbR_1bF_1_1||||| 
+14;101;gFbLbFrLrLrF||||| 
+15;6;gFbLbFrLrLrF_1||||| 
+16;25;gFbLbFrLrLrFgFbF_1||||| 
+17;33;gFbLbFrLrLrFg1bFgF_1||||| 
+18;211;gFbLbFrRrF_1g1bFgF_1||||| 
+19;12;gFbLbFrLrF_1g1bFgF_1||||| 
+20;122;gFbLbFrLrFg1_F_F_F_1||||| 
+21;68;gFbLrLg1_F_F_F_1||||| 
+22;49;gFrLbLg1_F_F_F_F_1||||| 
+23;9;gFrLbLg1_F_F_1||||| 
+24;13;gFrLbLg1_F_F_F_1||||| 
+25;36;gFrLbLg1rF_F_F_F_1||||| 
+26;12;gFrLbLg1rFgF_F_F_F_1||||| 
+27;44;gFrLbLg1bFgF_F_F_F_1||||| 
+28;31;gFrLbLg1bFgF_F_F_1||||| 
+29;12;gFrLbLg1bFgF_F_1||||| 
+30;23;gFbLg1bFgF_F_1||||| 
+31;47;gFrLbLg1bFgF_FrR_1||||| 
+32;11;gFrLbLg1bFgF_FrRrR_1||||| 
+33;10;gFrLbLg1bFgFrRrR_1||||| 
+34;13;gFrLbLg1bFgFrFrRrR_1||||| 
+35;267;gFrLbLg1_F_FrRbL_1||||| 
+36;20;gFrLbLg1_F_FrLbL_1||||| 
+37;8;gFrLbLg1_F_FrLbR_1||||| 
+38;19;gFrLbLg1_F_FrLbRbF_1||||| 
+39;92;gFrLbLg1_F_FrL_1||||| 
+40;70;gFrLbLg1_F_FrLrF_1||||| 
+41;65;gFrLbLg1_F_FrF_1||||| 
+42;116;gFrLbLg1_F_FgL_1||||| 
+43;175;gFg1rLbL_F_F_L_1||||| 
+44;176;gFg1bR_F_FrRrRbL_1||||| 
+45;21;gFg1bR_F_FrRrRbLbF_1||||| 
+46;141;gFg1bR_F_FrRrRgRgR_1||||| 
+47;260;gFg1bR_F_FbLrRrR_1||||| 
+48;114;gFg1rRrRr1bL_F_FbR_1||||| 
+49;23;gFg1rRrRbLbFgFbR_1||||| 
+50;12;gFg1rRrRrFbLbFgFbR_1||||| 
+51;11;gFg1rRrRrFbLbFgFbL_1||||| 
+52;233;gFbRgFbLgFbR_1_FbL_1||||| 
+53;43;bFgFbRgFbLgFbR_1bL_1||||| 
+54;19;bFgFbRgFbLgFbL_1bL_1||||| 
+55;98;bFgFbRgFbLgF_1_1bL_1||||| 
+56;172;bFgFbRgFbLgFbR_1bL_1||||| 
+57;68;bFgFgFbLgFbR_1bL_1||||| 
+58;80;bFgFbLgFbLbLgFbRbR_1||||| 
+59;24;bFgFbLgFbLbLgFbR_1_1||||| 
+60;21;bFgFbLgFbLbLgFbRbL_1||||| 
+
+User 521
+---
+Game 1
+0;47;_F_F_FbR_FbR_1||||| 
+
+User 543
+---
+Game 1
+0;55;_FbLrLrL||||| 
+1;4;_FbLrLrL_1||||| 
+2;32;_FbLrL_L_1||||| 
+
+User 744
+---
+Game 1
+0;57;_FbLrLrLg1_F_F||||| 
+1;125;_FbLg1b1_F_Fb1||||| 
+2;8;_FbLg1b1_L_L_F_Fb1||||| 
+3;46;_FbLg1b1rLrL_FgFgFb1||||| 
+4;79;_FbLg1b1rLrL_Fb1||||| 
+5;122;_FbLg1b1rLrL_F_F_F_1||||| 
+6;56;_FbLg1b1rLrL_F_FbLb1||||| 
+7;171;_FbLg1b1rLrLr1_FbLb1||||| 
+
+Game 2
+0;75;_FbLb1rLrLg1_F||||| 
+1;246;_FbLb1b1bL_Fg1rLrL||||| 
+
+Game 3
+0;67;_Fg1rLrLbLb1b1bL_1||||| 
+1;15;_FrLrLbLb1b1bL_1||||| 
+2;73;_FrLrLbLb1b1bLg1b1||||| 
+3;37;_FbLb1b1bLg1b1rLrL_F||||| 
+4;24;_FbLb1b1bLg1rLrL_F||||| 
+5;5;solution:_FbLb1b1bLg1rLrL_F||||| 
+
+User 784
+---
+Game 1
+0;84;_Fg1bLbFrRrR_F||||| 
+1;12;_Fg1bLb1rRrR_F||||| 
+
+Game 2
+0;61;_Fg1bLrLrL_1||||| 
+1;9;_Fg1bLrLrL_F||||| 
+2;23;_Fg1bLb1rLrL_F||||| 
+3;35;_FbLg1bFrLrL||||| 
+4;6;_FbLg1bFrLrL_F||||| 
+5;37;_Fg1bLb1bFrLrL_F||||| 
+6;81;_Fg1bL_FrLrLbF||||| 
+7;34;_Fg1bLbFgFrLrLbF||||| 
+8;17;_Fg1bLbFgFrLrL||||| 
+9;20;_Fg1bLbFgFrLrLrF||||| 
+10;44;_Fg1bLbFgFrLrLrFbFgF||||| 
+11;32;_Fg1g1bLbFgFrLrLrF||||| 
+12;8;_Fg1g1bLbFgFrLrLrFbF||||| 
+
+Game 3
+0;172;_FbLb1b1bLrLrL_1_F||||| 
+1;46;_FbLb1b1bLrLrLg1_F||||| 
+2;5;solution:_FbLb1b1bLrLrLg1_F||||| 
+
+User 1006
+---
+Game 1
+0;35;_FbR||||| 
+1;10;_F||||| 
+2;11;_F_1||||| 
+3;40;_F_1bR_1bR_1bL||||| 
+
+User 1038
+---
+Game 1
+0;72;bLrRrR_F_1||||| 
+1;83;rRrR_F_1bLb1bRbRbR||||| 
+
+User 1042
+---
+Game 1
+0;91;gFbLrR_1||||| 
+1;12;gFbL_FrR_1||||| 
+
+Game 2
+0;14;_FbL_FrR_1||||| 
+1;7;_FbL_FrR_F_1||||| 
+2;14;_FbLrR_F_F_1||||| 
+3;6;_FbLrR_F_1||||| 
+4;10;_FbLrR_1||||| 
+5;19;_FbLrL_1||||| 
+6;33;_FbLrLrF_1||||| 
+7;14;_FbLrLrFbF_1||||| 
+8;112;_FbLrL_FbF_1||||| 
+9;16;_FbLrL_FbR_1||||| 
+10;9;_FbLrL_FbRrR_1||||| 
+11;16;_FbLrL_FbRrL_1||||| 
+12;20;_FbLrL_FbRrR_FrL_1||||| 
+13;30;_FbLrL_FbRrR_FrR_1||||| 
+
+Game 3
+0;57;_FbL||||| 
+1;4;_FbL_1||||| 
+2;12;_FbLrR_1||||| 
+3;16;_FbLrL_1||||| 
+4;18;_FbLrL_F_F_1||||| 
+5;13;_FbLrLrF_F_1||||| 
+6;7;_FbLrLrF_1||||| 
+7;127;_FbLg1rLrF_1||||| 
+8;23;_FbLg1_RrLrF_1||||| 
+
+Game 4
+0;113;_FbLrRg1_F_R_1||||| 
+1;14;_FbLrRg1_F_F_F_R_1||||| 
+2;7;_FbLrRg1_F_F_R_1||||| 
+3;58;_FbLrRg1_F_F_L_R_1||||| 
+4;8;_FbLrRg1_F_F_R_R_1||||| 
+5;11;_FbLrRg1_F_F_R_1||||| 
+6;11;_FbLrRg1_F_F_RbR_1||||| 
+7;18;_FbLrRg1_F_F_RbRrF_1||||| 
+8;19;_FbLrRg1_F_FrLbRrF_1||||| 
+9;36;_FbLrRg1_FgFrLbRrF_1||||| 
+10;14;_FbLrRg1gFgFrLbRrF_1||||| 
+11;9;_FbLrRg1rFgFrLbRrF_1||||| 
+12;10;_FbLrRg1rFgF_RbRrF_1||||| 
+
+Game 5
+0;35;_Fg1bL_1rR_1||||| 
+
+Game 6
+0;115;_FbLg1_FbL_1rL_1_F_1||||| 
+
+User 1270
+---
+Game 1
+0;10;_F_F||||| 
+1;9;_F_F_FbR||||| 
+2;4;_F_F_1bR||||| 
+3;12;_F_1bR||||| 
+4;49;_F_1bRrRrR||||| 
+5;62;_F_1bR_F_F||||| 
+6;30;_Fb1bR_F_F||||| 
+7;6;_F_1bR_F_F||||| 
+
+User 1364
+---
+Game 1
+0;205;_FbRg1b1rRrRgFbFr1||||| 
+1;48;_FbRg1b1rRrR_F_1||||| 
+2;22;_FbRg1b1rRrR_F_F_F_1||||| 
+3;35;_FbRg1b1rRrR_F_F_1||||| 
+
+Game 2
+0;410;_Fg1bRrRrR_F_F_F_1||||| 
+1;11;_Fg1bRrRrR_F_F_1||||| 
+2;17;_Fg1bR_FrRrR_F_1||||| 
+
+User 1375
+---
+Game 1
+0;148;_FbLrLrL_1||||| 
+1;363;gFgFg1bLrLrL_1||||| 
+2;64;_Fg1bLrLrL_1||||| 
+3;143;bFb1bL_FrLrL_1||||| 
+4;21;bLb1_FrLrL_1||||| 
+
+Game 2
+0;239;gFrLrLrFbL_1||||| 
+1;10;gFrLrLrFbLbF_1||||| 
+2;31;_FrLrLrFbLbF_1||||| 
+3;20;_FrLrLrFbL_1||||| 
+4;37;_FrLrLrFbLb1_1||||| 
+
+User 1413
+---
+Game 1
+0;158;_Fg1_LrL_1||||| 
+
+Game 2
+0;86;_FrLrLbL_1||||| 
+1;192;_FrLrLbLr1g1||||| 
+
+User 1503
+---
+Game 1
+0;22;_FbR_1||||| 
+1;30;_FbRrR_1||||| 
+
+User 1639
+---
+Game 1
+0;13;bLrR_F_1||||| 
+1;10;bLrRrR_F_1||||| 
+
+User 1689
+---
+Game 1
+0;37;gF_1_RgF_F||||| 
+1;12;gF_1bRgF_F||||| 
+
+User 1736
+---
+Game 1
+0;162;gF_1bRgF_1bLrRrR_F_1||||| 
+1;20;gFbRgFbLrRrR_F_1||||| 
+2;28;gFbRgFbFrRrR_F_1||||| 
+3;23;gFbRgFbFbRrR_F_1||||| 
+4;16;gFbRgFbFbR_F_1||||| 
+5;9;gFbRgFbFbR_1||||| 
+6;77;gFrRrRbRbFbR_1||||| 
+7;40;gFrRrRrFbRbFbR_1||||| 
+8;106;gFrRrRrFbRbFbR_L_L_1||||| 
+9;16;gFrRrRrFbRbFbRbLbL_1||||| 
+10;17;gFrRrRrFbRbFbRgLgL_1||||| 
+11;34;_FrRrRrFbRbFbR_L_L_1||||| 
+12;99;_L_F_1_R_R_F_1||||| 
+13;8815;_L_F_R_R_F_1||||| 
+
+Game 2
+0;58;gFbLbR||||| 
+
+User 1745
+---
+Game 1
+0;567;_FbLbFg1_FbRrLrL||||| 
+1;82;_FbLbFg1rLrL_FbR||||| 
+2;507;gFbLbFg1rLrL_Fb1||||| 
+3;232;_FbLb1g1bLrLrL_Fb1||||| 
+4;172;_FbLb1rLrLg1_FrLrLbL||||| 
+5;169;_FbLb1g1rLrL_FbFbL||||| 
+6;148;_FbLbFg1rLrL_FbFbL||||| 
+7;60;bLbF_Fg1rLrL_FbR||||| 
+8;79;_FbLg1b1rLrL_FbR||||| 
+9;103;_Fg1bLb1rLrL_Fb1||||| 
+10;105;_Fg1rLrLbLb1_Fb1||||| 
+11;261;_FrLrLbLb1g1_FrLrL||||| 
+
+User 1746
+---
+Game 1
+0;110;_Fg1_Lb1rL||||| 
+1;156;_Fb1bRg1_LrL||||| 
+2;91;_Fg1b1bR_LrL||||| 
+3;16;_Fg1||||| 
+4;14;_Fg1_L||||| 
+5;21;_Fg1_L_F||||| 
+6;14;_Fg1_F_L||||| 
+7;29;_Fg1_Lb1||||| 
+8;13;_Fg1_Lb1rLr1||||| 
+9;95;_Fg1_Lb1rLr1_R||||| 
+
+Game 2
+0;60;bLrLrL_F_1||||| 
+1;542;_Fg1_LrLb1bR||||| 
+2;44;_Fg1_LrLr1b1_R||||| 
+3;76;_Fg1_LrL_1||||| 
+4;254;_Fg1_L_1||||| 
+5;67;_Fg1_Lb1_F||||| 
+6;197;_Fg1_Lb1_L_F||||| 
+7;9;_Fg1_Lb1_L_F_1||||| 
+8;13;_Fg1_Lb1_R_F||||| 
+9;15;_Fg1_Lb1_R_F_F_R_L||||| 
+10;54;_Fg1_Lb1_L_F_F_F||||| 
+11;9;_Fg1_Lb1_L_F_F_F_1||||| 
+12;41;_Fg1_Lb1_L_F_F_1||||| 
+13;10;_Fg1_Lb1_L_F_1||||| 
+14;21;gFg1_Lb1_L_F_1||||| 
+15;25;gFg1_LbFb1_L_1||||| 
+16;24;gFg1_L_Fb1_L_1||||| 
+17;32;_Fg1_Lb1_L_1||||| 
+18;3144;_Fg1_Lb1rLbR_1||||| 
+19;60;_Fg1_Lb1rRbR_1||||| 
+
+Game 3
+0;50;_Fg1_LrLr1||||| 
+1;11;_Fg1_LrLr1b1||||| 
+
+User 1839
+---
+Game 1
+0;10;_Fb1||||| 
+1;5;_Fg1||||| 
+2;28;_Fg1_L||||| 
+3;6;_Fg1_R||||| 
+4;7;_Fg1_RgF||||| 
+5;12;_Fg1bRgF||||| 
+6;12;_Fg1bR_F||||| 
+7;6;_Fg1bR_F_F||||| 
+8;5;_Fg1bR_FgF||||| 
+9;7;_Fg1bR_FgF_F||||| 
+10;3;_Fg1bR_FgFgF||||| 
+11;5;_Fg1bR_FgFgFgF||||| 
+12;5;_Fg1bR_FgFgFgF_F||||| 
+13;4;_Fg1bR_FgFgFgFgF||||| 
+14;15;_Fg1bR_FgF||||| 
+15;5;_Fg1bR||||| 
+16;8;_Fg1bR_1||||| 
+17;22;_LgFbR_1||||| 
+18;4;_LgF||||| 
+19;5;_LgF_1||||| 
+20;20;_LgF_F_F_F||||| 
+21;4;_LgF_F_F_F_F||||| 
+22;3;_LgF_F_F_F_F_F||||| 
+23;5;_L_F_F_F_F_F_F||||| 
+24;3;_L_F_F_F_F_F_F_R||||| 
+25;7;_L_F_F_F_F_F_F_R_F_1||||| 
+26;4;_R_F_F_F_F_F_F_R_F_1||||| 
+
+User 1931
+---
+Game 1
+0;82;_Fg1bLrLrLb1r1||||| 
+1;37;_Fg1bLrLrLb1bRr1||||| 
+2;19;_Fg1bLrLrLb1bRbRr1||||| 
+3;91;_Fg1bLrLrLb1bRbR||||| 
+4;15;_Fg1bLrLrLb1bRbR_F||||| 
+5;14;_Fg1bLrLrLb1_F||||| 
+6;160;_Fg1bLrLrLb1bR_F||||| 
+7;41;_Fg1bLrLrLb1b1bR_F||||| 
+8;15;_Fg1bLrLrLb1b1bL_F||||| 
+9;26;solution:_Fg1bLrLrLb1b1bL_F||||| 
+
+User 1994
+---
+Game 1
+0;85;_Fg1bL_Fg1rLrL_F_1||||| 
+1;31;_Fg1bLrLrL_F_1||||| 
+2;20;_Fg1bRrLrL_F_1||||| 
+3;26;_Fg1bRrLrL_F_F_L_1||||| 
+4;26;_Fg1bRrLrL_F_Fg1bL_1||||| 
+5;37;_Fg1bRrLrLgFgFg1bL_1||||| 
+6;6;_Fg1bRrLrL_FgFg1bL_1||||| 
+7;9;_Fg1bRrLrLgFgFg1bL_1||||| 
+8;19;_Fg1bRrLrLbFgFg1bL_1||||| 
+
+Game 2
+0;169;bR_Fg1bLrRrR_F_F_1||||| 
+1;59;bR_Fg1bLbFrRrR_F_F_1||||| 
+2;14;bR_Fg1bLbLrRrR_F_F_1||||| 
+3;27;bR_Fg1bLbLb1rRrR_F_F||||| 
+4;70;bR_Fg1bLbLb1rRrRgFbF||||| 
+
+Game 3
+0;165;_Fg1bRb1b1bRrRrR_F||||| 
+1;5;solution:_Fg1bRb1b1bRrRrR_F||||| 
+
+User 2045
+---
+Game 1
+0;32;_FrRbR||||| 
+1;4;_FrRbR_1||||| 
+2;74;_F_F_F_F_F_F_F_F||||| 
+3;49;_FbR_F_F_RrR_1||||| 
+4;39;_FbR_F_F_F_FrL_1||||| 
+5;16;_FbR_F_F_F_F_RrL_1||||| 
+6;7;_FbR_F_F_F_RrL_1||||| 
+7;8;_FbL_F_F_F_RrL_1||||| 
+
+Game 2
+0;23;_FbR_1||||| 
+1;38;_FbRrR_1||||| 
+
+Game 3
+0;55;gFbRbFrLrF_1||||| 
+1;6;gFbRbFrRrF_1||||| 
+2;19;gFbRrRrF_1||||| 
+3;13;gFbFbRrRrF_1||||| 
+4;113;_FbRrRrR_1||||| 
+5;111;_F_F_FgRgRbRrR_R_1||||| 
+6;10;_F_F_FgRgRbRrR_R_F_1||||| 
+7;6;_F_F_FgRgRbRrR_F_R_1||||| 
+8;5;_F_F_FgRgRbRrR_F_L_1||||| 
+
+Game 4
+0;37;_F_F_FbRrR_F_F_F_F_1||||| 
+1;22;_F_F_FbRrR_FrR_F_Rr1||||| 
+2;11;_F_F_FbRrR_FrR_FrR_1||||| 
+3;9;_F_F_FbRrR_FrRrR_1||||| 
+4;48;gF_F_FbRrR_FrR_FrR_1||||| 
+5;5;gF_F_FbRrR_FrRrR_1||||| 
+
+Game 5
+0;21;_FbRrRrFrFrF_1||||| 
+1;17;_FbRrRrF_F_1||||| 
+2;25;_FrRrF_FbR_1||||| 
+
+Game 6
+0;49;rRrFgFgFbRbF_1||||| 
+1;23;rRrFgF_FbRbF_1||||| 
+
+Game 7
+0;30;_FrRrFgFbRbF_1||||| 
+1;25;rRrFgFbR_F_1||||| 
+2;21;rRrFgFbRgF_1||||| 
+3;12;rRrFgFbRgFbF_1||||| 
+4;22;rRrFgFbRbFgF_1||||| 
+
+Game 8
+0;70;_FbRrRrFgF_1||||| 
+1;24;bFbRrRrFgF_1||||| 
+2;8;bRrRrFgF_1||||| 
+3;11;bRrRrFgF_F_1||||| 
+4;11;gFbRrRrFgF_F_1||||| 
+5;32;gFbRrRrFgFbR_F_1||||| 
+6;37;gFbRbFrRrFgFbR_F_1||||| 
+7;12;bRbFrRrFgFbR_F_1||||| 
+
+Game 9
+0;136;_FbLrLrLrF_F_F_1||||| 
+1;12;_FbLrLrLrFgF_F_1||||| 
+2;15;bLrLrLrFgF_F_1||||| 
+3;8;_FbLrLrLrFgF_1||||| 
+
+Game 10
+0;40;bLbFrLrLrFgFgFgFgF_1||||| 
+1;9;bLbFrLrLrFgFgFgF_F_1||||| 
+2;4;bLbFrLrLrFgFgF_F_1||||| 
+3;96;_FbLbFrLrLrFgFgF_1||||| 
+
+User 2137
+---
+Game 1
+0;73;_Fg1bRb1rRrRr1_1||||| 
+1;38;_Fg1bRb1rRrR_F_F_L_1||||| 
+2;28;_FbRb1rRrR_F_F_L_1||||| 
+3;6;_FbRb1rRrR_1||||| 
+
+User 2160
+---
+Game 1
+0;73;_Fg1||||| 
+1;97;_Fg1rLrLbLb1b1bL_F||||| 
+2;6;solution:_Fg1rLrLbLb1b1bL_F||||| 
+
+User 2272
+---
+Game 1
+0;82;_Fg1bRbF_1bLbF_1rLrL||||| 
+1;48;_Fg1bRbFb1bLbF_1rLrL||||| 
+2;6;_Fg1bRbFb1bLbFb1rLrL||||| 
+3;18;_Fg1bRbF_1bLbFb1rLrL||||| 
+4;9;_Fg1bRbFr1bLbFb1rLrL||||| 
+5;4;_Fg1bRbFr1bLbFr1rLrL||||| 
+6;3;_Fg1bRbFr1bLbF_1rLrL||||| 
+
+Game 2
+0;21;_Fg1bR_1||||| 
+1;17;_Fg1bRrR||||| 
+2;5;_Fg1bRrR_1||||| 
+3;13;_Fg1bRrR_F_1||||| 
+
+User 2483
+---
+Game 1
+0;27;_F_1||||| 
+1;26;_FbL_1||||| 
+2;33;_FbLrL_1||||| 
+3;29;_FbRrLrR_1||||| 
+4;20;_FbRrLrRbL_1||||| 
+5;19;_FbRrLrR_F_1||||| 
+6;17;_FbR_FrR_F_1||||| 
+7;6;_FbRrR_F_1||||| 
+8;52;bR_FrR_F_1||||| 
+9;23;bRrR_F_1||||| 
+
+User 2493
+---
+Game 1
+0;33;_Fg1bL_1||||| 
+1;19;_Fg1bLb1rRrR_1||||| 
+2;12;_Fg1bLb1rRrR_F_F_1||||| 
+3;36;_Fg1bLb1rRrR_F_1||||| 
+
+Game 2
+0;11;_Fg1||||| 
+1;6;_Fg1bL||||| 
+2;5;_Fg1bL_F||||| 
+3;50;_F_F_F_F_L||||| 
+4;17;_F_F_F_FgL_F_FrR_1||||| 
+5;10;_F_F_F_FgL_F_F_1||||| 
+6;10;_F_F_F_FgLrR_F_F_1||||| 
+
+Game 3
+0;6;_FbL||||| 
+1;3;_FbL_1||||| 
+2;39;_Fg1bL_F||||| 
+3;7;_Fg1bL_F_1||||| 
+4;9;_Fg1bL_1||||| 
+5;18;_Fg1bLrRrR_1||||| 
+6;11;_Fg1bLrRrR_F_FbR_1||||| 
+
+Game 4
+0;28;_FbL_1||||| 
+1;23;_FbLrRrR_1||||| 
+2;12;_FbLrRrR_F_FbR_1||||| 
+3;9;_FbLrRrRrF_FbR_1||||| 
+
+Game 5
+0;49;_Fg1bLgF||||| 
+1;3;_Fg1bL_F||||| 
+2;12;_Fg1bL_F_L||||| 
+3;9;_Fg1bL_F_F_L||||| 
+4;5;_Fg1bL_F_F_L_1||||| 
+
+User 2539
+---
+Game 1
+0;84;_FbRrRrR_1||||| 
+1;136;_F_FbFbRrRrR_1||||| 
+2;6;_FgFbFbRrRrR_1||||| 
+3;72;_F_FbRrRrR_1||||| 
+4;4;bF_FbRrRrR_1||||| 
+5;10;rFbF_FbRrRrR_1||||| 
+6;40;gFrFbF_FbRrRrR_1||||| 
+7;189;_FbRrRrRg1_F||||| 
+8;94;bRrRrR_F_Fg1_F||||| 
+9;13;bRrRrR_Fg1_F||||| 
+10;17;_FbRrRrR_Fg1_F||||| 
+
+Game 2
+0;40;_FbL_1||||| 
+1;26;_FbLrLrL_1||||| 
+2;39;_FbLrLrLg1bR_F||||| 
+3;10;_FbLrLrLg1bR_F_1||||| 
+4;119;_FbLrLrLrFgFbF_1||||| 
+5;75;_FbLrLrLrFgFgFbF_1||||| 
+6;30;_FbLrLrLrFgFgFgFbF_1||||| 
+
+Game 3
+0;46;gFg1||||| 
+1;62;gFg1bLb1bRbRb1rLrLgF||||| 
+2;11;_Fg1bLb1bRbRb1rLrL_F||||| 
+3;338;_Fg1bLb1b1rLrL_F||||| 
+4;36;_Fg1bLb1b1bLrLrL_F||||| 
+5;17;solution:_Fg1bLb1b1bLrLrL_F||||| 
+
+User 2550
+---
+Game 1
+0;44;_FbR_FrLrL_F||||| 
+1;3;_FbR_FrLrL_F_1||||| 
+2;20;_FbR_FrLrL_FbL_1||||| 
+3;40;_FbR_FrLrLbL_F_1||||| 
+
+User 2582
+---
+Game 1
+0;170;gFbLrLrL_1||||| 
+1;15;_FbLrLrL_1||||| 
+2;839;_FbLrLrL||||| 
+3;3;_FbLrLrL_1||||| 
+4;6;_FbLrLrL_F_1||||| 
+5;14;_FbLrLrLbR_1||||| 
+6;10;_FbLrLrL_1_1||||| 
+7;10;_FbLrLrL_1||||| 
+8;8;_FbLrLrLbR_1||||| 
+9;32;_FbLrLrLr1bR||||| 
+10;9;_FbLrLrL_1r1||||| 
+11;27;_FbLrLrL_1_Fr1||||| 
+
+User 2692
+---
+Game 1
+0;55;_FbRb1bLb1||||| 
+1;5;_FbRb1bLb1_1||||| 
+2;11;_FbRb1bLb1rLrL_1||||| 
+3;24;_FbRb1bLb1rLrLbL_1||||| 
+
+User 2753
+---
+Game 1
+0;70;_FbLb1g1rRrR_Fb1||||| 
+1;29;_FbLb1g1rRrR_FbL||||| 
+2;6;_FbLb1g1rRrR_FbR||||| 
+3;73;_FbLb1rRrRg1_F||||| 
+4;28;_FbLb1b1bRrRrRg1_F||||| 
+5;6;_FbLb1b1bLrRrRg1_F||||| 
+6;5;solution:_FbLb1b1bLrRrRg1_F||||| 
+
+User 2772
+---
+Game 1
+0;30;gFbLrLrL_1||||| 
+1;21;_FbLrLrL_1||||| 
+
+User 2901
+---
+Game 1
+0;49;_FbLrLrL||||| 
+1;2;_FbLrLrL_1||||| 
+
+User 2944
+---
+Game 1
+0;30;bL_F_1||||| 
+1;24;bL_F_1rLrL||||| 
+2;12;bL_F_1rLrL_1||||| 
+3;15;bL_F_1bRrL_1||||| 
+4;11;bL_FbR_1rL_1||||| 
+
+User 2982
+---
+Game 1
+0;72;_FbLrLrL_F_F_F_1||||| 
+1;61;_FbLrLrL_1||||| 
+2;40;_FbLrLrL_1bR_1||||| 
+3;53;_FbLrLrLgFbFgF_1||||| 
+4;30;_FbLrL_1||||| 
+5;78;_FbRrLrL_1||||| 
+
+User 3137
+---
+Game 1
+0;85;_FbR_FbLbL_FrRrR||||| 
+1;7;_FbR_FbLbL_FrRrR_1||||| 
+2;30;bR_FbLbL_FrRrR_1||||| 
+3;27;bR_F_1||||| 
+4;30;bR_FbL_1||||| 
+5;5;bR_FbL_F_1||||| 
+6;23;bR_FbLrR_F_1||||| 
+7;28;bR_FbL_FrR_F_1||||| 
+8;13;bRbLrR_F_1||||| 
+9;15;bR_FrR_1||||| 
+10;47;bL_FrR_1||||| 
+11;11;bL_FrRbR_1||||| 
+12;16;bL_FrR_1||||| 
+13;6;bR_FrR_1||||| 
+14;161;bR_Fg1||||| 
+15;18;gF_1bR||||| 
+16;14;gFbR_1||||| 
+17;31;gFbRbF_1||||| 
+18;16;gFbRbFrR_1||||| 
+19;14;gFbRbFrRrF_1||||| 
+
+User 3545
+---
+Game 1
+0;398;bLb1b1rLrL_F_1||||| 
+1;33;bLbFb1b1rLrL_F_1||||| 
+2;582;_FbLbFb1rLrLg1_F||||| 
+3;269;_FbLb1rLrLg1_F||||| 
+4;142;_FbLb1rLrLg1gF||||| 
+5;15;_FbLb1rLrLrFg1gF||||| 
+6;107;_FbLb1g1gFrLrLrF||||| 
+7;340;_FbLg1b1gFrLrLrF||||| 
+8;185;_FbLg1b1gFrLrLrFb1||||| 
+9;107;_FbLg1b1gFrLrLrFb1bL||||| 
+10;140;_FbLg1b1b1gFrLrLrF||||| 
+11;37;_FbLg1b1b1bLgFrLrLrF||||| 
+12;155;_FbLg1b1b1bLrLrL_F||||| 
+13;12;solution:_FbLg1b1b1bLrLrL_F||||| 
+
+User 3654
+---
+Game 1
+0;38;_Fg1_R_1||||| 
+1;41;_Fg1_Rg1||||| 
+2;22;_Fg1_R_F_1||||| 
+3;22;_Fg1_R_F_1_R_R||||| 
+4;12;_Fg1_R_F_1_R_R_R||||| 
+5;45;_Fg1_R_Fg1_R_R_R||||| 
+6;66;_Fg1_RbFg1_R_R_R||||| 
+
+Game 2
+0;36;_Fg1_R_R_1||||| 
+1;38;_Fg1bR_F_R_R_1||||| 
+2;12;_Fg1bR_Fg1_R_R_1||||| 
+
+Game 3
+0;22;_Fg1_R_1||||| 
+1;38;_Fg1_Rg1_R_Rg1||||| 
+2;27;_Fg1_R_Fg1_R_Rg1||||| 
+3;347;_Fg1bRbR_F||||| 
+4;30;_Fg1bRb1_F||||| 
+5;27;_Fg1bRb1rLrL_F||||| 
+6;124;_Fg1bRb1rLrLb1bR_F||||| 
+7;6;solution:_Fg1bRb1rLrLb1bR_F||||| 
+
+User 3655
+---
+Game 1
+0;462;_FbRg1b1_R_R_1||||| 
+1;558;_Fb1_L_1||||| 
+2;6;_Fg1_L_1||||| 
+3;88;_Fg1_RrR_1||||| 
+4;80;_Fg1_RrRrFrF_1||||| 
+5;10;_Fg1_RrRrFrFrF_1||||| 
+6;46;_Fg1_RrRrF_F_F_1||||| 
+7;156;_Fg1_Rg1b1_F_F_F_1||||| 
+8;25;_Fg1_Rg1b1_R_F_F_F_1||||| 
+9;29;_Fg1_Rg1b1_R_F_F_1||||| 
+10;296;_FbRb1||||| 
+11;113;_FbRb1_R_F_1||||| 
+12;21;_FbRb1bR_F_1||||| 
+13;238;_FbRg1_F_1||||| 
+14;246;_Fg1_F_1||||| 
+15;21;_Fg1_R_R_F_1||||| 
+
+Game 2
+0;99;_Fg1_RrR_1||||| 
+1;119;_Fg1_L_1_1_L_1_1||||| 
+2;40;_Fg1_LrL_1_1_L_1_1||||| 
+3;251;_Fg1_LrLb1b1_F||||| 
+4;47;_Fg1rLrLbLb1b1_F||||| 
+5;137;_Fg1rLrLbLb1b1_FbL||||| 
+6;306;_Fg1bLb1b1rLrL_F||||| 
+7;98;_Fg1bLrLrL_F||||| 
+8;89;_Fg1bLbRbRrLrL_F||||| 
+9;161;_Fg1bLbLrLrL_F||||| 
+10;11;_Fg1bLb1b1bLrLrL_F||||| 
+11;6;solution:_Fg1bLb1b1bLrLrL_F||||| 
+
+User 3656
+---
+Game 1
+0;57;_Fg1_L_1||||| 
+1;24;_Fg1_LrL_1||||| 
+2;100;_FbLb1_F_1||||| 
+
+Game 2
+0;75;_Fg1bLb1bRb1bL_F||||| 
+1;31;_Fg1bLb1bRb1bLrLrL_F||||| 
+2;13;_Fg1bLb1bRb1bL_FrLrL||||| 
+3;32;_Fg1bLb1bRb1bLrLrL_F||||| 
+4;59;_FbLb1bRb1bLg1rLrL_F||||| 
+5;28;_FbLb1bRb1g1gLrLrL_F||||| 
+6;6;_FbLb1bRb1g1gRrLrL_F||||| 
+7;51;_FbLb1bRb1g1gLrLrL_F||||| 
+8;91;_FbLb1bRb1g1bLrLrL_F||||| 
+9;27;_FbLb1b1g1bLrLrL_F||||| 
+10;5;solution:_FbLb1b1g1bLrLrL_F||||| 
+
+User 3657
+---
+Game 1
+0;31;_Fg1||||| 
+1;17;_Fg1_R||||| 
+2;17;_Fg1_R_Fg1||||| 
+
+Game 2
+0;46;_Fg1bRg1rLrL||||| 
+
+Game 3
+0;43;_Fg1bLbFg1rLrL_F||||| 
+1;11;_Fg1bLbFg1rLrL_FbR||||| 
+2;6;_Fg1bLbFg1rLrL_FbL||||| 
+3;45;_FbLg1rLrL_F||||| 
+4;15;bL_Fg1rLrL_F||||| 
+5;9;gFbLbFg1rLrL_F||||| 
+6;72;gFbLbFrLrLg1_F||||| 
+7;109;gFbLbFg1rLrL_F||||| 
+8;32;gFbLbFg1rLrL_F_1||||| 
+
+Game 4
+0;34;_Fg1bLbL_F||||| 
+1;12;_Fg1rLrLbLbL_F||||| 
+2;17;_Fg1bLb1rLrLbLbL_F||||| 
+3;17;_Fg1bLb1bLbL_F||||| 
+4;102;_FbRb1bL_1bLbL_F||||| 
+5;17;_FbRb1bL_1rLrLbLbL_F||||| 
+6;43;_FbRb1bLb1g1rLrLbL_F||||| 
+
+Game 5
+0;41;_Fg1_L||||| 
+1;19;_Fg1bLbL_F||||| 
+2;57;_Fg1bLb1bLbL_F||||| 
+3;93;_Fg1bLb1bRb1bLbL_F||||| 
+4;6;_Fg1bLb1bRb1bL_L_F||||| 
+5;20;_Fg1bLb1bRb1rLrL_F||||| 
+6;20;_Fg1bLb1bRb1bLrLrL_F||||| 
+7;6;_Fg1bLb1bRb1bRrLrL_F||||| 
+8;28;_Fg1bLb1bRb1_FrLrLbR||||| 
+9;18;_Fg1bLb1bRb1bLrLrL_F||||| 
+10;9;_Fg1bLb1bRb1bFrLrL_F||||| 
+11;8;_Fg1bLb1bRb1rLrL_F||||| 
+12;53;_Fg1bLb1bRb1rLrL_FbF||||| 
+13;27;_Fg1bLb1bRb1rLrLbF_F||||| 
+14;17;_Fg1bLb1bRb1rLrL_F||||| 
+15;32;_Fg1bLb1bFb1rLrL_F||||| 
+16;87;_Fg1bLb1b1rLrL_F||||| 
+17;5;_Fg1bLb1rLrL_F||||| 
+
+Game 6
+0;43;_Fg1_R_1||||| 
+1;78;_Fg1_R_Fg1||||| 
+2;16;_Fg1_Rg1||||| 
+3;49;_Fg1_Rg1b1||||| 
+4;29;_Fg1_Rg1b1_R||||| 
+
+Game 7
+0;47;_Fg1_R_R_F||||| 
+1;9;_Fg1_R_R_1||||| 
+2;17;_Fg1bRbR_F||||| 
+3;134;_Fg1bRbFg1rRrR_F||||| 
+4;91;_FbRg1rRrR_F||||| 
+5;33;_FbRb1g1rRrR_F||||| 
+6;70;_FbRb1bFg1rRrR_F||||| 
+7;16;_Fb1bRbFg1rRrR_F||||| 
+8;26;_FbRb1bFg1rRrR_F||||| 
+9;14;_FbRb1bFg1bLrRrR_F||||| 
+10;6;_FbRb1bFg1bRrRrR_F||||| 
+11;134;_FbRb1bFg1bFrRrR_F||||| 
+12;13;_FbRb1bFg1bRrRrR_F||||| 
+13;25;_FbRb1g1bFrRrR_F||||| 
+14;25;_FbRb1g1rRrR_F||||| 
+15;43;_FbRg1b1rRrR_F||||| 
+16;79;_FbRg1b1rRrR_F_F||||| 
+17;16;_FbRb1g1rRrR_F_F||||| 
+18;69;_FbRb1g1rRrRrF_F||||| 
+19;50;_FbRb1g1rRrRrF_F_F||||| 
+20;12;_FbRb1g1rRrRrF_FgF||||| 
+21;154;_FbRb1g1rLrL_F||||| 
+22;28;bFbRb1gFg1rLrL_F||||| 
+23;5;_FbRb1gFg1rLrL_F||||| 
+
+User 3658
+---
+Game 1
+0;19;_Fg1||||| 
+1;27;_Fg1bRg1||||| 
+2;13;_Fg1bR_Fg1||||| 
+3;12;_Fg1bRbFg1||||| 
+4;23;_Fg1bRbFg1rRrR_Fg1||||| 
+5;27;_FbRbFrRrR_Fg1||||| 
+6;10;_FbRbFrRrRrFg1||||| 
+7;29;_FbRbFrRrRg1||||| 
+8;17;_FbRbFrRrRrFg1||||| 
+9;66;_FbRbFrRrRrF_FbFg1||||| 
+10;11;_FbRbFrRrRrFbFg1||||| 
+11;118;_FbRbFrRrRrFgFbFg1||||| 
+12;17;_FbRbFrRrRrF_FbFg1||||| 
+13;10;_FbRbFrRrRrFbFbFg1||||| 
+14;5;_FbRbFrRrRrFbFg1||||| 
+15;116;_FbRbFrRrRrFg1||||| 
+16;38;_Fg1bRbFrRrRrFg1||||| 
+17;29;_Fg1bRbFrRrRrF||||| 
+18;43;_Fg1bRbFrRrRrFbFg1||||| 
+19;34;_Fg1bRbFrRrRrFg1bF||||| 
+20;22;_Fg1bRbFrRrRrFgFbFg1||||| 
+21;24;_Fg1bRbFrRrRrFbFg1||||| 
+22;16;_Fg1bRbFrRrRrFgFg1||||| 
+23;16;_Fg1bRbFrRrRrFbFg1||||| 
+
+Game 2
+0;55;_Fg1bRbRg1||||| 
+1;20;_Fg1bRbR_F||||| 
+2;54;_Fg1bRb1_F||||| 
+3;30;_Fg1bRb1rLrL_F||||| 
+4;80;_Fg1bRb1rLrLb1bR_F||||| 
+5;6;solution:_Fg1bRb1rLrLb1bR_F||||| 
+
+User 3659
+---
+Game 1
+0;88;rLrL_FbR_1||||| 
+1;99;rLrLr1_FbR_1||||| 
+2;61;_FbR_1rLrL||||| 
+
+Game 2
+0;46;_FbRrLrL_1_F||||| 
+1;49;_FbRg1b1rLrL_F_L||||| 
+2;21;_FbRg1b1rLrL_F||||| 
+3;10;_FbRg1b1rLrL_FbL||||| 
+4;64;_FbRg1b1rLrL_F||||| 
+
+Game 3
+0;39;_F_F_F_F_F_F_R_F_R_1||||| 
+
+Game 4
+0;17;_Fg1||||| 
+1;15;_FbRg1||||| 
+2;17;_FbRg1_1||||| 
+3;27;_FbRg1b1||||| 
+4;11;_FbRg1b1rRrR||||| 
+5;15;_FbRg1_Fb1rR||||| 
+6;5;_FbRg1_Fb1rRrR||||| 
+7;11;_FbRg1b1_FrRrR||||| 
+8;36;_FbRg1b1rRrR_F||||| 
+9;10;_FbRg1b1rRrR_FbL||||| 
+10;60;_Fg1bRrRrRb1_FbL||||| 
+11;33;_Fg1bRrRrRb1_LrLrL||||| 
+12;13;_Fg1bRrRrRb1_F_LrLrL||||| 
+13;9;_Fg1bRrRrRb1_FbLrLrL||||| 
+14;139;_Fg1b1_F||||| 
+15;45;_Fg1bRbR_F||||| 
+16;7;_Fg1bRbL_F||||| 
+17;6;_Fg1bRbR_F||||| 
+18;13;_Fg1bRb1bR_F||||| 
+19;48;_Fg1bRb1rLrLbR_F||||| 
+20;7;_Fg1bRb1rLrLbL_F||||| 
+21;28;_Fg1bRb1bRrLrL_F||||| 
+22;85;_Fg1bRb1rLrL_F||||| 
+23;26;_Fg1bRbR_F||||| 
+24;130;_Fg1bRrRrRb1bFr1_F||||| 
+25;63;_Fg1bRrRrRb1_FbFr1_F||||| 
+26;88;_Fg1bRrRrRb1b1bR_F||||| 
+27;5;solution:_Fg1bRrRrRb1b1bR_F||||| 
+
+User 3660
+---
+Game 1
+0;32;_Fg1bLb1||||| 
+1;19;_Fg1bLb1rLrL||||| 
+2;35;_Fg1_FbLb1rLrL||||| 
+3;6;_Fg1bLb1_FrLrL||||| 
+4;10;_Fg1bLb1rLrL_F||||| 
+5;93;_Lb1_Fg1rLrL_F||||| 
+6;4;bLb1_Fg1rLrL_F||||| 
+7;20;bL_Fg1b1rLrL_F||||| 
+8;21;_Fg1bLb1rLrL_F||||| 
+9;49;_Fg1bLb1bFrLrL_F||||| 
+10;32;_Fg1bLbFb1rLrL_F||||| 
+11;27;_Fg1bLb1rLrL_F||||| 
+12;237;_Fg1bL_Fb1rLrL_F||||| 
+13;241;_Fg1bLb1rLrL_F_1||||| 
+14;56;_Fg1gFbLb1rLrL_F||||| 
+15;6;_Fg1bLb1rLrL_F||||| 
+16;352;_Fg1bLb1rLrL_Fb1bL||||| 
+17;63;_Fg1bLrLrLb1b1bL_F||||| 
+18;5;solution:_Fg1bLrLrLb1b1bL_F||||| 
+
+User 3662
+---
+Game 1
+0;70;gFbRbF_1rRrRrF_1||||| 
+1;22;gFbRbFg1rRrRrF_1||||| 
+2;39;gFg1bRbFg1rRrRrF_1||||| 
+3;83;gFg1bRbFg1rRrRrF_F_1||||| 
+4;33;_Fg1bR_1rRrRrF_F_1||||| 
+5;26;_Fg1bRrRrR_1rRrF_F_1||||| 
+6;60;_Fg1rRrR_F_F_1bR_F_1||||| 
+7;46;_Fg1rRrRbR_F_F_1_F_1||||| 
+8;44;_Fg1rRrRbRg1||||| 
+9;8;_Fg1rRrRbR_Fg1||||| 
+10;54;_Fg1rRrRbRbFg1||||| 
+11;19;_Fg1rRrRbRbFg1_F_F||||| 
+12;24;_Fg1rRrRbRb1g1_F_F||||| 
+13;14;_Fg1rRrRbRbFg1_F_F||||| 
+14;131;_Fg1bRb1g1_F_F||||| 
+15;27;_Fg1bRb1rRrRr1g1_F_F||||| 
+16;36;_Fg1bRb1rRrRrFgF_F_F||||| 
+17;39;_Fg1bRb1rRrRrFgF_F_1||||| 
+18;16;_Fg1bRb1rRrRrFgF_1||||| 
+19;106;_Fg1bRb1_FrRrR_1||||| 
+20;13;_Fg1bRb1rRrR_1||||| 
+21;55;_Fg1bRb1_R_RrRrR_1||||| 
+22;27;_Fg1bRb1_R_R_1_1||||| 
+23;45;_Fg1bRb1rRrRrF||||| 
+24;20;_Fg1bRb1rRrRrF_F||||| 
+25;25;_Fg1bRb1rRrRrF_F_F||||| 
+26;12;_Fg1bRb1rRrRrFbFbF||||| 
+27;6;_Fg1bRb1rRrRrF_FbF||||| 
+28;73;_Fg1bRb1rRrR||||| 
+29;7;_Fg1bRb1rRrR_F||||| 
+30;51;_Fg1bRb1rRrR_FgRgR||||| 
+31;40;_Fg1bRb1rRrRgRgR_F||||| 
+32;17;_Fg1bRb1rRrR_FgRgR_F||||| 
+33;16;_Fg1bRb1rRrR_F_F||||| 
+34;16;_Fg1bRb1rRrR_F_FgRgR||||| 
+35;19;_Fg1bRb1rRrR_F||||| 
+36;258;_Fg1bRrRrR_F||||| 
+37;55;_Fg1||||| 
+38;82;_Fg1bRb1bLb1rRrR||||| 
+39;2;_Fg1bRb1bLb1rRrR_1||||| 
+40;14;_Fg1bRb1bLb1rRrR_F_F||||| 
+41;95;_Fg1bRb1b1rRrR_F_F||||| 
+42;57;_Fg1bRb1b1rRrR_F_F_L||||| 
+43;30;_Fg1bRrRrR||||| 
+44;31;_Fg1bRb1rRrR||||| 
+45;15;_Fg1bRb1rRrR_1||||| 
+46;38;_Fg1bRb1rRrR_F_F||||| 
+47;5;_Fg1bRb1rRrR_F_F_F||||| 
+48;15;_Fg1bRb1rRrR_F_F||||| 
+49;28;_Fg1bRrRrR_F_F||||| 
+50;23;_Fg1bRbR_1||||| 
+51;53;_Fg1bR_1bR_1rRrR||||| 
+52;9;_Fg1bRb1bR_1rRrR||||| 
+53;9;_Fg1bRb1bRb1rRrR||||| 
+54;12;_Fg1bRb1bRb1rRrR_F||||| 
+55;27;_Fg1bRb1bRrRrR_F||||| 
+56;8;_Fg1bRbRrRrR_F||||| 
+57;15;_Fg1bRb1b1bRrRrR_F||||| 
+58;5;solution:_Fg1bRb1b1bRrRrR_F||||| 
+
+User 3663
+---
+Game 1
+0;29;_Fg1||||| 
+1;16;_Fg1_R||||| 
+2;23;_Fg1bR_1||||| 
+3;76;_Fg1bR_F||||| 
+4;7;_Fg1bRbR_F||||| 
+5;49;_Fg1bRrLrL||||| 
+6;8;_Fg1bRrLrL_F||||| 
+7;41;_Fg1bRrLrL_1||||| 
+8;13;_Fg1bRrLrLbL_1||||| 
+9;23;_Fg1bRrLrL_1||||| 
+10;56;_Fg1bR_1||||| 
+11;73;_Fg1bR_1_1||||| 
+12;166;_Fg1bRbR_F||||| 
+13;4;_Fg1bRbR_1||||| 
+14;5;_Fg1bRbR_F||||| 
+15;45;_Fg1bRb1_R_F||||| 
+16;14;_Fg1bRb1bR_F||||| 
+17;13;_Fg1bRb1bRrR_F||||| 
+18;21;_Fg1bRb1bRrRrR_F||||| 
+19;98;_Fg1bRb1bRrRrRbL_F||||| 
+20;9;_Fg1bRb1rRrRbL_F||||| 
+21;144;_Fg1bRb1rRrRb1bL_F||||| 
+22;24;_Fg1bRb1rRrRb1bR_F||||| 
+23;5;solution:_Fg1bRb1rRrRb1bR_F||||| 
+
+User 3843
+---
+Game 1
+0;192;_FbR_FbL_1||||| 
+1;48;_FbRrRrR_FbL_1||||| 
+2;11;_FbRrRrR_FbLrLrL_1||||| 
+3;16;_FbLrRrR_FbRrLrL_1||||| 
+4;37;gFbLrRrR_FbR_1||||| 
+5;11;_FbLrRrR_FbR_1||||| 
+
+User 4170
+---
+Game 1
+0;14;_F_F_F_F||||| 
+
+User 4606
+---
+Game 1
+0;65;_Fg1||||| 
+1;19;_Fg1bL_1||||| 
+2;40;_FbLg1_1||||| 
+3;42;_FbLg1rLrL_1||||| 
+4;22;_FbLg1rLrL_FbF_1||||| 
+5;45;_FbLg1rLrL_FbFb1||||| 
+6;17;_FbLg1rLrL_FbFr1b1||||| 
+7;45;_FbLg1rLrLbFr1b1||||| 
+8;21;_FbLg1rLrLbF_1||||| 
+9;43;_FbLg1rLrL_F_1||||| 
+10;41;_FbLg1rLrLb1_F_1||||| 
+11;13;_FbLg1rLrLb1_F||||| 
+12;103;_FbLg1rLrLb1gFrF||||| 
+13;70;bL_Fg1rLrLb1_F||||| 
+14;358;bL_Fg1rLrLbLb1_F||||| 
+15;19;_Fg1rLrLbLb1_F||||| 
+16;317;bL_Fb1g1rLrL_F||||| 
+17;132;bL_Fb1_Fg1rLrL_F||||| 
+18;32;bLbFb1_Fg1rLrL_F||||| 
+19;12;bLbFb1gFg1rLrL_F||||| 
+20;26;bL_Fb1g1rLrL_F||||| 
+21;36;bL_Fg1b1rLrL_F||||| 
+
+Game 2
+0;97;_FbLrLrL_1_F||||| 
+1;108;_FbLrLrLg1b1_F||||| 
+2;14;_FbLrLrL_1_F||||| 
+3;116;_FbLrLrLg1_F||||| 
+4;69;_Fg1bL_1rLrL_F||||| 
+5;38;_Fg1bLb1rLrL_F||||| 
+
+User 4681
+---
+Game 1
+0;9;_F_1||||| 
+1;4;_F_1_R||||| 
+
+User 4751
+---
+Game 1
+0;19;_F_1||||| 
+1;25;_F_F_F_F_F_F_F_R||||| 
+2;13;_F_F_F_F_F_F_FbR_F_F||||| 
+
+User 4807
+---
+Game 1
+0;44;_FbRrLrL_1||||| 
+1;46;_FbRrLrL_F_F_1||||| 
+2;9;_FbRrLrLrFrF_1||||| 
+3;41;_FbRrLrLr1_F_F_1||||| 
+4;28;_FbRrLrLr1gFbF_1||||| 
+5;73;_FbRg1b1_R_R_F_F_1||||| 
+6;35;_FbRg1b1_R_R_F_F_L_1||||| 
+
+User 5879
+---
+Game 1
+0;45;_L||||| 
+1;5;_L_F||||| 
+
+User 5892
+---
+Game 1
+0;79;_F_F_F_F_F||||| 
+1;23;_F_F_F_F_F_F_F_F_F_1||||| 
+
+User 6008
+---
+Game 1
+0;121;_FbLrLrL_1||||| 
+1;136;_FbLg1b1rLrL_F||||| 
+
+Game 2
+0;62;gFbLbFrLrLrF_1||||| 
+1;391;_Fg1bLrLrLrF_F_1||||| 
+2;13;_Fg1bLrLrLrF_F||||| 
+
+User 6054
+---
+Game 1
+0;74;_FbL_1_1||||| 
+1;27;_FbLrLrL_1_1||||| 
+2;28;_FbLrLrLg1_1||||| 
+3;20;_FbLrLrLg1_FrLrL_1||||| 
+
+Game 2
+0;63;_Fg1bLb1||||| 
+1;38;_Fg1bLb1rLrLr1||||| 
+2;23;rLrL_Fg1bLb1||||| 
+3;8;rLrL_Fg1bLb1_1||||| 
+4;16;rLrL_Fg1bLb1_L_1||||| 
+5;13;rLrL_Fg1bLb1bR_1||||| 
+6;39;rLrLbLb1_Fg1_1||||| 
+7;61;_Fg1bLb1rLrLbR_1||||| 
+8;105;_Fg1bLb1rLrLrF_F_1||||| 
+9;15;_Fg1bLb1rLrLrFbR_F_1||||| 
+10;12;_Fg1bLb1rLrL_FbR_F_1||||| 
+11;42;_Fg1bLb1rLrL_F_F_F_1||||| 
+12;9;_Fg1bLb1rLrL_F_F_1||||| 
+13;5;_Fg1bLb1rLrL_F_1||||| 
+14;19;_Fg1bLb1rLrL_FbRbR_1||||| 
+
+Game 3
+0;31;_FbLg1||||| 
+1;7;_FbLg1_1||||| 
+2;24;_FbLrLg1_1||||| 
+3;24;_FbLg1_1||||| 
+4;59;_FrLbLg1_1||||| 
+5;56;_FrLrLbLg1_1||||| 
+6;29;_FrLrLr1bLg1_1||||| 
+7;37;_FrLrLbRg1_1||||| 
+8;66;_Fg1bRb1||||| 
+9;29;_Fg1bRb1rLrL||||| 
+10;6;_Fg1bRb1rLrL_F||||| 
+11;17;_Fg1bRb1rLrL_FbL||||| 
+12;43;_Fg1bRb1rLrL_F_1_F||||| 
+13;25;_Fg1bRrLrLb1_F_1_F||||| 
+14;14;_Fg1bRrLrLb1_F_F||||| 
+15;10;_Fg1bRrLrLb1_F_F_F||||| 
+16;53;_Fg1bRb1bRbR_F||||| 
+
+Game 4
+0;51;_FbLg1rLrL_1||||| 
+1;51;_FbLrLrLg1_FbR_1||||| 
+2;56;_FbLrLrLr1_Fg1_FbR_1||||| 
+3;30;bR_FbLrLrLr1g1_F_1||||| 
+4;71;_FbLb1g1||||| 
+5;51;_FbLrLrLg1b1gFbF||||| 
+6;9;_FbLrLrLg1b1gFbF_1||||| 
+7;67;_FbLg1b1||||| 
+8;41;_FbLg1b1rLrL_F_F_1||||| 
+
+Game 5
+0;37;_Fg1||||| 
+
+Game 6
+0;47;_FbLb1rLrLr1||||| 
+1;5;_FbLb1rLrLr1_1||||| 
+2;85;_FbLb1rLrLr1gLgLg1_1||||| 
+3;15;_FbLb1rLrLr1_1||||| 
+
+User 6240
+---
+Game 1
+0;67;gFbLb1||||| 
+1;7;gFbL_1||||| 
+2;133;gFbLb1gFrLrL||||| 
+3;9;gFbLb1gFrLrLgF||||| 
+4;14;gFbLg1gFrLrLgF||||| 
+5;18;gFbLbFg1gFrLrLgF||||| 
+6;6;gFbLbFg1gFrLrL_F||||| 
+7;11;gFbLbFbRg1gFrLrL_F||||| 
+8;12;gFbLbFg1gFrLrL_FbR||||| 
+9;28;_FbLg1gFrLrL_FbR||||| 
+10;20;gFbLg1gFrLrL_FbR||||| 
+11;43;gFbLbRg1gFrLrL_F||||| 
+12;20;gFbLg1bFgFrLrL_F||||| 
+13;10;gFbLg1b1bFgFrLrL_F||||| 
+14;6;gFbLg1bFb1gFrLrL_F||||| 
+15;7;gFbLg1b1gFrLrL_FbR||||| 
+16;17;gFbLg1bFgFrLrL_FbR||||| 
+17;74;gFbLg1gFrLrL_FbRb1||||| 
+18;45;gFbRg1gFrLrL_Fb1bL||||| 
+19;23;gFbRg1gFrLrL_FbLb1||||| 
+20;20;gFbLbFg1gFrLrL_FbLb1||||| 
+21;50;gFbLbFg1b1gFrLrL_FbL||||| 
+22;8;gFbLbFb1g1gFrLrL_FbL||||| 
+23;5;gFbLbFg1b1gFrLrL_FbL||||| 
+24;30;gFbLbFg1b1gFrLrL_F_F||||| 
+25;12;gFbLbFg1gFrLrL_F_FbR||||| 
+26;86;gFbLbFg1rLrL_F||||| 
+27;37;gFrLrL_FbLbFg1||||| 
+28;12;gFbLbFg1rLrL_F||||| 
+29;6;gFbLbFrLrLg1_F||||| 
+30;26;gFbLbFrLrLg1_FrLrLbL||||| 
+31;10;gFbLbFrLrLg1_FrLrLbR||||| 
+32;12;gFbLbFrLrLg1_FrLrL||||| 
+33;12;gFbLbFrLrLg1_FrLrLb1||||| 
+34;18;gFbLbFrLrLg1_FbRb1||||| 
+35;11;gFbLbFrLrLg1_FbRbRb1||||| 
+36;9;gFbLbFrLrLg1_FbRbR||||| 
+37;5;gFbLbFrLrLg1_FbR||||| 
+38;31;gFbLbFrLrLg1_F_F||||| 
+39;16;gFbLbFrLrLg1_FgF||||| 
+40;16;gFbLbFrLrLg1_FrLrL||||| 
+41;7;gFbLbFrLrLg1_FrLrLbL||||| 
+42;8;gFbLbFrLrLg1_FrLrL||||| 
+43;73;gFbLrLrLg1_FrLrL||||| 
+44;13;gFbLrLrLg1_FrLrLb1||||| 
+
+Game 2
+0;65;rLrL_FbLb1_F||||| 
+1;8;rLrL_FbLb1g1_F||||| 
+2;12;rLrL_FbLb1g1_FrLrL||||| 
+3;23;rLrLgFbLbFg1_F||||| 
+4;25;gFbLbFg1rLrL_F||||| 
+5;85;gFbLbRg1rLrL_F||||| 
+6;5;gFbLbFbRg1rLrL_F||||| 
+7;226;_FbLb1bRbFg1rLrLbF_F||||| 
+8;7;_FbLb1bFbRg1rLrLbF_F||||| 
+9;9;_FbLb1bFbLg1rLrLbF_F||||| 
+10;10;_FbLb1bFbLg1rLrL_F||||| 
+11;151;_Fb1bFbLg1rLrL_F||||| 
+12;41;_FbLb1bFb1bLg1rLrL_F||||| 
+13;113;_Fg1bLb1bFb1bLrLrL_F||||| 
+14;70;_Fg1bLb1bLbFrLrL_F||||| 
+15;49;bR_Fg1bLb1bLrLrL_F||||| 
+
+Game 3
+0;33;bLb1b1bLb1gFg1rRrR_F||||| 
+1;50;bLb1b1bLb1gFg1rRrRgF||||| 
+
+Game 4
+0;124;_Fg1bLb1b1bLb1rLrL_F||||| 
+1;36;bLb1_Fg1b1bLb1rLrL_F||||| 
+2;34;bL_Fg1b1b1bLb1rLrL_F||||| 
+3;16;_Fg1bLb1b1bLb1rLrL_F||||| 
+4;97;_Fg1bLb1rLrL_Fb1bLb1||||| 
+5;33;_Fg1bLrLrL_Fb1b1bLb1||||| 
+6;7;_Fg1rLrL_FbLb1b1bLb1||||| 
+7;26;_Fg1bLb1b1bLb1rLrL_F||||| 
+8;13;_Fg1bLb1bLb1rLrL_F||||| 
+9;38;_Fg1bLb1bFbLb1rLrL_F||||| 
+10;13;_Fg1bLb1b1bFbLrLrL_F||||| 
+11;17;_Fg1bLb1bFb1bLrLrL_F||||| 
+12;14;_Fg1bLb1b1bLb1rLrL_F||||| 
+13;184;_Fg1bLb1b1b1b1rLrL_F||||| 
+14;48;_Fg1bLb1b1rLrL_F||||| 
+15;13;_Fg1bLb1b1bLrLrL_F||||| 
+16;5;solution:_Fg1bLb1b1bLrLrL_F||||| 
+
+User 6329
+---
+Game 1
+0;67;_FrLrLr1||||| 
+1;5;_FrLrLr1_1||||| 
+2;16;_FrLrLr1_L_1||||| 
+3;6;_FrLrLr1bL_1||||| 
+4;14;_FrLrLr1bR_1||||| 
+5;104;_Fg1_L_L_F||||| 
+6;10;_Fg1_L_L||||| 
+7;45;_Fg1bLb1_L_L||||| 
+8;8;_Fg1bLb1||||| 
+9;47;_Fg1bLb1rLrLr1||||| 
+10;16;_Fg1bLb1rLrLr1bRb1||||| 
+11;15;_Fg1bLb1rLrLr1bLb1||||| 
+12;69;gFrLrFbLbF_1||||| 
+13;12;gFrLrF_1||||| 
+14;16;gFrLrF_1bL||||| 
+15;10;gFrLrF_1bL_F||||| 
+16;8;_FrLrF_1bL||||| 
+17;6;_FrLrFbL_1||||| 
+18;79;_FrLbL_F_F_F_F_F_F_1||||| 
+19;26;_FrLbLgFgFgFgF_1||||| 
+20;7;_FrLbLgFgFgF_1||||| 
+21;95;_FrLrL_F_1||||| 
+22;6;_FbLbL_F_1||||| 
+23;146;_FbLg1rLrL_FbR||||| 
+24;28;_FbRg1rLrL_FbL||||| 
+25;23;_FbRg1g1rLrL_FbL||||| 
+26;32;_FbRbFg1rLrL_FbL||||| 
+27;66;_FbRbFg1rLrL_FbLbF||||| 
+28;24;_FbRbFg1rLrL_FbLbFb1||||| 
+29;7;_FbRbFg1rLrL_FbLbF_1||||| 
+30;6;_FbRbFg1rLrL_FbLbFr1||||| 
+31;57;_FbRb1bFg1rLrL_FbLbF||||| 
+32;8;_FbRb1g1rLrL_FbLbF||||| 
+33;92;_FbRb1b1g1rLrL_FbLbF||||| 
+34;16;_FbRb1b1g1rLrL_F||||| 
+35;44;_FbRb1b1bRg1rLrL_F||||| 
+36;5;solution:_FbRb1b1bRg1rLrL_F||||| 
+
+User 6359
+---
+Game 1
+0;93;_Fg1bLb1rLrL_1||||| 
+1;24;_Fg1bLb1rLrLrF_F_1||||| 
+2;22;_Fg1bRb1rLrLrF_F_1||||| 
+3;55;_FbRrLrLrF_1||||| 
+4;52;_Fg1bRb1rLrL_F_F_L_1||||| 
+
+Game 2
+0;50;_FbR_1||||| 
+1;46;_FbRrLrL_1||||| 
+2;45;_FbRrLrLg1b1||||| 
+3;48;_FbRrLrLg1||||| 
+
+Game 3
+0;31;_FbR_1||||| 
+
+User 6529
+---
+Game 1
+0;84;_FbR_FbLrRrR_1||||| 
+1;46;_FbR_F_FbLrRrR_1||||| 
+2;9;bR_F_FbLrRrR_1||||| 
+3;5;bR_FbL_FrRrR_1||||| 
+
+Game 2
+0;22;_Fg1||||| 
+1;6;_Fg1bR_1||||| 
+2;21;_Fg1bRrRrRbL_1||||| 
+3;4;_Fg1bRrRrR_1||||| 
+4;38;_Fg1bRrRrR_F_1||||| 
+5;9;_Fg1bRrRrR_F_F_F_1||||| 
+6;22;_Fg1bRrRrRgFgFgF_1||||| 
+7;0;_Fg1bRrRrRgFbFgF_1||||| 
+
+User 7411
+---
+Game 1
+0;29;_FbLrL_1||||| 
+1;99;_FbLrLbFrF_1||||| 
+2;21;_FbLrL_F_FbFrF_1||||| 
+3;16;_FbLrLgFgFbFrF_1||||| 
+
+User 7657
+---
+Game 1
+0;165;_Fg1bL_1bRrLrL_1||||| 
+1;31;_Fg1bLrLrL_1bR_1||||| 
+2;109;rLrL_Fg1bL_F_F_F_F_1||||| 
+3;176;_FrLrLbLg1b1_F_F_F_F||||| 
+4;43;_FrLrLbLg1b1_F_F_F||||| 
+5;27;_FrLrLbLg1b1gFbFgF||||| 
+6;62;_FrLrLbLg1b1rFgFbF||||| 
+7;50;_FrLrLbLg1b1rFgFbF_1||||| 
+8;125;_FrLrLbLg1b1_F_F_F_1||||| 
+9;141;bR_FrLrLbLg1b1_F_F_1||||| 
+10;37;bRrLrL_FbLg1_F_F_1||||| 
+11;144;bRrLrL_FbLg1rFgF_1||||| 
+12;23;bRrLrL_FbLg1rF_F_1||||| 
+13;13;bR_FrLrLbLg1rF_F_1||||| 
+14;55;bR_FrLrLbLg1rFgFbF_1||||| 
+
+User 7909
+---
+Game 1
+0;84;rLrLrFbLbFgF_1||||| 
+1;508;rLrLrFbLbFgFgFgLgL_1||||| 
+2;110;rLbFgFgF_LgL_F_L_L_1||||| 
+3;64;rLgFgF_LgL_F_L_L_1||||| 
+4;68;rLgF_F_LgL_F_L_L_1||||| 
+5;82;_F_F_L_L_F_L_L_1||||| 
+6;34;_F_L_L_F_L_L_F_1||||| 
+7;39;rL_FgL_L_F_L_L_F_1||||| 
+8;34;rLrL_FgL_L_F_L_L_F_1||||| 
+9;13;rRrF_FgL_L_F_L_L_F_1||||| 
+10;40;rL_F_FgL_L_F_L_L_F_1||||| 
+11;11;rLgF_FgL_L_F_L_L_F_1||||| 
+12;10;rL_F_FgL_LgF_L_L_F_1||||| 
+13;8;rL_F_FgL_L_F_L_LgF_1||||| 
+14;8;rL_F_FgL_L_F_LbLgF_1||||| 
+15;16;rLbF_FgL_L_F_L_L_F_1||||| 
+
+User 8015
+---
+Game 1
+0;23;_FrLrLr1bRb1_1||||| 
+
+User 8035
+---
+Game 1
+0;137;_FbLb1rLrF_1||||| 
+1;463;_FbLrRg1rFgF_R_R_R_1||||| 
+
+User 8041
+---
+Game 1
+0;89;_FbLrRg1_F_FrF_R_1||||| 
+1;14;_FbLrRg1_F_FrR_R_1||||| 
+
+User 8048
+---
+Game 1
+0;9;_FbLrL_1||||| 
+1;18;_FbLrR_1||||| 
+2;15;_FbL_1||||| 
+3;10;_FbLbF_1||||| 
+4;20;_FbLrLbF_1||||| 
+5;16;_FbLrL_F_1||||| 
+6;8;_FbLrLgF_1||||| 
+7;17;_FbRrL_1||||| 
+8;7;_FbRrR_1||||| 
+9;14;_FbR_FbLrR_1||||| 
+10;4;_FbRbLrR_1||||| 
+11;11;_FbRrR_1||||| 
+12;9;_FbRrF_1||||| 
+13;23;_FbR_F_1||||| 
+14;52;_FbLrRg1_FgFrLbR_F_1||||| 
+15;13;_FbLrRg1_FgFrLbRrF_1||||| 
+16;8;_FbLrRg1_FgFrLbR_F_1||||| 
+17;9;_FbLrRg1rFgFrLbR_F_1||||| 
+
+User 8137
+---
+Game 1
+0;11;_FbR_1||||| 
+1;8;_FbRrL_1||||| 
+2;7;_FbRrR_1||||| 
+3;26;_FbRrRrR_1||||| 
+4;45;_F_FbRrRrR_1||||| 
+5;10;_F_F_FbRrRrR_1||||| 
+6;3;_F_F_F_FbRrRrR_1||||| 
+7;20;_FbRrRrR_1||||| 
+8;29;_FbLrRrR_1||||| 
+9;5;_FbLrR_1||||| 
+10;7;_FbLrL_1||||| 
+11;12;_FbLrLbR_1||||| 
+12;9;_FbLrL_FbR_1||||| 
+13;8;_FbLrL_FbL_1||||| 
+14;7;_FbLrL_F_FbL_1||||| 
+15;3;_FbLrL_FbL_1||||| 
+16;12;_FbLrL_FrRbL_1||||| 
+17;5;_FbLrL_FrLbL_1||||| 
+18;13;_FbLrL_FrRrLbL_1||||| 
+19;6;_FbLrL_F_FrRrLbL_1||||| 
+20;5;_FbLrL_FrR_FrLbL_1||||| 
+21;15;_FbLrLrFrR_FrLbL_1||||| 
+22;13;_FbLrLgFrR_FrLbL_1||||| 
+23;7;_FbLrLgFrRrLbL_1||||| 
+24;4;_FbLrL_FrRrLbL_1||||| 
+25;23;_FbLrL_FrRbR_FbLrR_1||||| 
+26;17;_FbLrL_FrRbR_FbRrR_1||||| 
+27;11;_FbLrL_FrLbR_FbRrR_1||||| 
+28;13;_FbLrR_FrLbR_FbRrR_1||||| 
+29;48;_FbRrR_FrLbR_FbRrR_1||||| 
+
+Game 2
+0;31;_FbLrRrR_1||||| 
+1;22;_FbRrRrR_1||||| 
+2;70;_FbRg1b1rRrR_F_F_1||||| 
+3;10;_FbRg1b1rRrR_F_1||||| 
+4;15;_FbRg1b1rRrR_F_F_L_1||||| 
+
+Game 3
+0;30;_F_LbR_RrFbL_R_1||||| 
+1;9;_F_LbRrR_FbL_R_1||||| 
+2;7;_F_L_RrR_FbL_R_1||||| 
+3;9;_F_LbRbR_FbL_R_1||||| 
+4;9;_F_LbRbR_FbLrR_1||||| 
+5;6;_FrLbRbR_FbL_R_1||||| 
+6;7;_FrLbRbR_FbL_R_F_1||||| 
+7;4;_FrLbRbR_FbL_R_F_R_1||||| 
+8;6;_FrLbRbR_FbL_R_F_L_1||||| 
+9;7;_FrLbRbR_FbL_F_L_1||||| 
+10;8;_FrLbRbR_FbL_F_F_L_1||||| 
+11;6;_FrLbRbRrFbL_F_F_L_1||||| 
+
+Game 4
+0;30;g1bRrL_1||||| 
+1;14;_Fg1bRrL_1||||| 
+2;9;_Fg1bRrL_L_1||||| 
+3;7;_Fg1bRrLrL_1||||| 
+4;27;_Fg1bRrLrL_1_R||||| 
+5;72;_Fg1bRrLrL||||| 
+6;9;_Fg1bRrLrL_1||||| 
+7;23;_Fg1bRrLrL_1bL||||| 
+8;39;_Fg1bRrLrL_FbL||||| 
+9;10;_Fg1bRrLrLbL_F||||| 
+10;6;_Fg1bRrLrL_1bL_F||||| 
+11;14;_Fg1bRrLrL_1_L||||| 
+12;7;_Fg1bRrLrL_L_1||||| 
+13;6;_Fg1bRrLrL_L_L_1||||| 
+14;20;_Fg1bRrLrL_L_L_R_1||||| 
+15;9;_Fg1bRrLrLrLrLbR_1||||| 
+16;11;_Fg1bRrLrL_1rLrLbR||||| 
+17;24;_Fg1bRrLrL_1rRrRbL||||| 
+18;7;_Fg1bRrLrL_1||||| 
+19;5;_Fg1bR_1rLrL||||| 
+20;8;_Fg1_1bRrLrL||||| 
+21;18;_Fg1bR_1rLrL||||| 
+22;20;_Fg1bR_1rLrLbL||||| 
+23;65;_R_F_F_F_F_F_F_L_F_1||||| 
+24;5;_R_F_F_F_F_F_F_L_1||||| 
+25;4;_R_F_F_F_F_F_F_L_L_1||||| 
+26;9;_R_F_F_F_F_F_F_L_1_L||||| 
+27;8;_R_F_F_F_F_F_1_F_L_L||||| 
+28;31;_F_1_L_L_1||||| 
+29;18;_Fg1_L_L_1||||| 
+30;7;_Fg1_L_1||||| 
+31;17;_Fg1_Lb1||||| 
+32;9;_Fg1_Lb1_Lr1||||| 
+33;5;_Fg1_Lb1_Rr1||||| 
+34;60;_Fg1_Lb1_Rr1_R||||| 
+35;18;_Fg1gR_Lb1_Rr1||||| 
+36;13;_Fg1_Lb1_RgRgRr1||||| 
+37;18;_Fg1_Lb1_R_Fr1||||| 
+38;8;_Fg1_Lb1_R_F_Rr1||||| 
+39;20;_Fg1_Lb1_R_F_R_Fr1||||| 
+40;9;_Fg1_Lb1_L_F_L_Fr1||||| 
+41;20;_Fg1_Lb1_L_F_F_Lr1||||| 
+42;15;_Fg1_Lb1_L_F_F_F_Lr1||||| 
+43;14;_Fg1_L_F_L_Fb1_F_Lr1||||| 
+44;11;_Fg1_L_F_R_Fb1_F_Lr1||||| 
+
+Game 5
+0;15;_FbRg1||||| 
+1;9;_FbRbFg1||||| 
+2;23;_FbRbFrRrFg1||||| 
+3;16;_FbRbFrRrFg1_F_F||||| 
+4;8;_FbRbFg1_F_F_L||||| 
+
+Game 6
+0;35;_FbR_1||||| 
+1;13;_FbRrR_1||||| 
+2;6;_FbRrR_F_1||||| 
+3;4;_FbRrR_F_F_1||||| 
+4;9;_FbRrRbF_1||||| 
+5;8;_FbRrRgF_1||||| 
+6;4;_FbRrR_1||||| 
+7;19;_FbRrR_FbRrR_1||||| 
+8;10;_FbRrR_FbLrR_1||||| 
+9;7;_FbRrR_FbLrL_1||||| 
+10;10;_FbRrR_FbRrL_1||||| 
+11;11;_FbRrR_FbRrL_FbLrR_1||||| 
+12;30;_FbRrR_FbRrL_FbLrL_1||||| 
+13;100;_FbRrR_FbRrL_FbLrR_1||||| 
+14;10;_FbRrF_FbRrL_FbLrR_1||||| 
+15;20;_FbRrR_FbRrL_FbLrR_1||||| 
+16;249;_FbRrF_FbRrL_FbLrR_1||||| 
+17;52;_FbRrF_FbRrL_FbFrR_1||||| 
+18;44;_FbRrF_FbRrL_FrR_1||||| 
+19;45;_FbRrF_FbRrR_FrR_1||||| 
+20;45;_FbRrF_FbRrR_FgFrR_1||||| 
+
+User 8157
+---
+Game 1
+0;300;_Fg1bLb1bRrLrLg1_F||||| 
+1;20;_Fg1bLb1bRrLg1rL||||| 
+2;4;_Fg1bLb1bRrLg1||||| 
+3;15;_Fg1bLb1bRrL||||| 
+4;12;_Fg1bLb1bRrLrL||||| 
+5;109;_Fg1rLrL_F_F_FbLb1||||| 
+6;7;_Fg1rLrLbLb1_F_F_F||||| 
+7;67;_Fg1rLrLbLb1_F_F_Fr1||||| 
+8;107;_Fg1_F||||| 
+9;5;_Fg1bL_F||||| 
+10;118;_Fg1bLb1_F||||| 
+11;32;_Fg1bLb1rLrL_F||||| 
+12;20;bLb1_Fg1rLrL_F||||| 
+13;59;bL_Fb1g1rLrL_F||||| 
+
+Game 2
+0;67;_FbLbFg1||||| 
+1;10;_FbLbFrLrLg1||||| 
+2;46;_FbLbFrLrLg1_LrLrL||||| 
+3;13;_FbLbFrLrLg1_FrLrL||||| 
+4;903;_FbLbFrLrLg1||||| 
+5;20;_Fg1bLb1rLrL_F||||| 
+6;324;_Fg1_F||||| 
+7;28;_FbLb1g1bRb1_F||||| 
+8;147;_FbLb1b1g1_F||||| 
+9;69;_FbLb1b1g1gF||||| 
+10;18;_FbLb1b1rLrLg1gF||||| 
+11;8;_FbLb1b1rLrLg1_F||||| 
+12;160;_FbLb1bRb1rLrLg1_F||||| 
+
+Game 3
+0;189;_FbLbL_1_F||||| 
+1;9;_FbLbLg1_F||||| 
+2;99;_FbLb1b1bLg1_F||||| 
+3;98;bFgFbLb1b1bLg1_F||||| 
+4;83;_FbLb1b1bLg1_F||||| 
+5;160;_FbLb1b1bLrLrLg1_F||||| 
+6;153;solution:_FbLb1b1bLrLrLg1_F||||| 
+
+User 8197
+---
+Game 1
+0;66;gFbR_FbL_FgR_1||||| 
+1;18;gF_R_F_L_FgR_1||||| 
+2;27;gF_R_F_L_FgR_F_L_F_1||||| 
+3;15;gF_R_F_L_FgR_F_L_L_1||||| 
+
+User 8755
+---
+Game 1
+0;37;gF_1bR||||| 
+
+User 8868
+---
+Game 1
+0;24;_FbRbL||||| 
+
+User 9163
+---
+Game 1
+0;24;_Fg1bLrLrLb1r1_F_F||||| 
+1;10;_Fg1bLrLrLb1r1_F_F_F||||| 
+2;39;_Fg1rLrLbLb1r1_F_F_F||||| 
+3;13;_Fg1rLrLbLb1_F_F_F||||| 
+4;12;_Fg1rLrLbLb1_F_Fr1_F||||| 
+5;6;_Fg1rLrLbLb1r1_F_F_F||||| 
+6;7;_Fg1rLrLbLb1_F_F_Fr1||||| 
+7;6;_Fg1rLrLbLb1_F_Fr1_F||||| 
+8;39;rLrL_Fg1bLb1_F_Fr1_F||||| 
+9;14;rLrLbL_Fg1b1_F_Fr1_F||||| 
+10;33;_Fg1rLrLbLb1_F_F_R_F||||| 
+11;10;_Fg1rLrLbLb1_F_F_R_R||||| 
+12;7;_Fg1rLrLbLb1_R_F_F_R||||| 
+13;32;_Fg1bLb1rLrL_1_F_F_F||||| 
+14;12;_Fg1bLb1rLrL_F_F_1_F||||| 
+15;17;_Fg1bLb1rLrL_F_1_F_F||||| 
+16;6;_Fg1bLb1rLrL_F_F_F_1||||| 
+17;30;_FbLb1rLrLg1_F_F_F||||| 
+18;14;_FbLb1rLrLg1_F||||| 
+19;61;_FbLb1g1rLrL_F||||| 
+20;24;_FbLb1g1rLrL_F_F||||| 
+21;12;_FbLb1g1rLrL_F_1||||| 
+22;13;_FbLb1g1rLrL_Fb1||||| 
+23;10;_FbLb1g1rLrL_F_Fb1||||| 
+24;8;_FbLb1g1rLrL_F||||| 
+25;17;_FbLb1g1b1rLrL_F||||| 
+26;6;_FbLb1g1rLrL_F||||| 
+27;17;_FbLb1_Fg1rLrL_F||||| 
+28;14;_FbLg1rLrL_F||||| 
+29;13;_FbLg1rLrLbL_F||||| 
+30;6;_FbLg1rLrL_FbL||||| 
+31;4;_FbLg1rLrL_FbL_F||||| 
+32;6;_FbLg1rLrL_FbL_1||||| 
+33;8;_FbLg1rLrL_FbLb1_F||||| 
+34;14;bL_Fg1rLrL_F||||| 
+35;26;bL_Fg1rLrL||||| 
+36;11;bL_Fg1rLrLb1||||| 
+37;5;bL_Fg1rLrLb1_F||||| 
+38;12;bL_Fg1rLrLb1bF_F||||| 
+39;4;bL_Fg1rLrLb1_FbF||||| 
+40;22;_FbLg1rLrLb1_Fb1||||| 
+41;10;_FbLg1rLrLb1b1_F||||| 
+42;5;_FbLg1rLrLb1_F||||| 
+43;7;_Fg1bLrLrLb1_F||||| 
+44;28;_Fg1bLrLrLb1_F_F_1||||| 
+45;10;_Fg1bLrLrLb1_F_FbL_1||||| 
+46;8;_Fg1bLrLrLb1_F_F_F||||| 
+47;7;_Fg1bLrLrLb1_F||||| 
+48;27;_Fg1bLrLrLbFb1_F||||| 
+49;17;_Fg1bLrLrLbF_1_F||||| 
+50;8;_Fg1bLrLrL_1bF_F||||| 
+51;5;_Fg1bLrLrL_1_F||||| 
+52;5;_Fg1bLrLrLb1_F||||| 
+53;9;_Fg1bLrLrLb1r1_F||||| 
+54;8;_Fg1bLrLrLb1_Fr1||||| 
+55;34;_Fg1bLrLrLb1_F||||| 
+56;53;_Fg1bLrLrLb1_F_F_Fr1||||| 
+57;9;gFg1bLrLrLb1_F_F_Fr1||||| 
+58;25;gFg1bLrLrLbFb1_F_Fr1||||| 
+59;8;gFg1bLrLrLbFb1_Fr1||||| 
+60;17;gFg1bLrLrLbFb1_Fr1_F||||| 
+61;5;gFg1bLrLrLbFb1_Fr1bF||||| 
+62;15;gFg1bLrLrLbFb1bF_Fr1||||| 
+63;3;gFg1bLrLrLbFb1bFr1_F||||| 
+64;17;gFg1bLrLrLbFb1_F||||| 
+65;6;gFg1bLrLrLb1_F||||| 
+66;5;_Fg1bLrLrLb1_F||||| 
+
+Game 2
+0;67;_Fg1bLb1rLrLr1_F||||| 
+1;33;_Fg1rLrLr1bLb1_F||||| 
+2;10;_Fg1rLrLbLb1_F||||| 
+3;39;_Fg1gRgRrLrLbLb1_F||||| 
+4;12;_Fg1gRrLrLbLb1_F||||| 
+5;12;_Fg1rLrLbLb1gR_F||||| 
+6;15;_Fg1rLrLbLb1gR_F_F||||| 
+7;7;_Fg1rLrLbLb1_FgR_F||||| 
+8;8;_Fg1rLrLbLb1_F_FgR||||| 
+9;19;_Fg1gFrLrLbLb1||||| 
+10;9;_Fg1gFrLrLbLb1_F||||| 
+11;8;_Fg1rLrLbLb1_F||||| 
+12;28;gFg1rLrLrFr1bLb1_F||||| 
+13;10;gFg1rLrLrFr1bLbFb1_F||||| 
+14;14;gFg1rLrLr1rFbLbFb1_F||||| 
+15;17;_Fg1rLrLr1rFbLbFb1_F||||| 
+
+Game 3
+0;34;_Fg1bLrLrLb1bF_F||||| 
+1;7;_Fg1bLrLrLb1_FbF||||| 
+2;12;_Fg1bLrLrLb1bF||||| 
+3;11;_Fg1bLrLrLr1rFbF||||| 
+4;8;_Fg1bLrLrLr1rFbF_1||||| 
+5;14;_Fg1bLrLrLb1rFbF||||| 
+6;8;_Fg1bLrLrLb1rFbFgF||||| 
+7;9;_Fg1bLrLrLb1rFbFgF_F||||| 
+8;18;_Fg1bLrLrLb1rRrRbF_F||||| 
+9;128;_Fg1bLrLrLb1_F||||| 
+10;19;_Fg1bLrLrLbFb1_F||||| 
+11;8;_Fg1bLrLrLb1_F||||| 
+
+Game 4
+0;39;_Fg1bL||||| 
+1;7;_Fg1bL_F||||| 
+2;11;_Fg1bL_Fb1||||| 
+3;6;_Fg1bLb1_F||||| 
+4;19;_Fg1bLb1rLrL_F||||| 
+5;12;_Fg1bLb1rLrLbF_F||||| 
+6;11;_Fg1bLb1rLrL_F||||| 
+7;13;_Fg1bLb1rLrL_FbR||||| 
+8;8;_Fg1bLb1rLrLbR_F||||| 
+9;7;_Fg1bLb1bRrLrL_F||||| 
+10;24;_Fg1bLrLrL_Fb1||||| 
+11;4;_Fg1bLrLrLb1_F||||| 
+12;10;_Fg1bLrLrL_F||||| 
+13;15;_Fg1bLrLrL_Fg1||||| 
+14;16;_Fg1bLr1rLrL_F||||| 
+15;8;_Fg1bLr1b1rLrL_F||||| 
+16;12;_Fg1bLr1b1rLrLbF_F||||| 
+17;13;_Fg1bLr1b1rLrLrL_F||||| 
+18;14;_Fg1bLr1b1_LrLrL_F||||| 
+19;13;_FbLg1r1b1_LrLrL_F||||| 
+20;11;_FbFg1r1b1_LrLrL_F||||| 
+21;15;_FrLg1r1b1_LrLrL_F||||| 
+22;13;_FrLg1b1rLrL_F||||| 
+23;33;_FrLg1bLb1rLrL_F||||| 
+24;11;_FrRg1bLb1rLrL_F||||| 
+25;35;rR_Fg1bLb1rLrL_F||||| 
+26;11;_Fg1rRbLb1rLrL_F||||| 
+27;10;_Fg1rRbLb1rLrL_F_F||||| 
+28;6;_Fg1rRbLb1rLrL_FbF||||| 
+29;9;_Fg1rRbLb1rLrL_FgF||||| 
+30;26;_Fg1rRbLb1rLrL_FbFgF||||| 
+31;4;_Fg1rRbLb1rLrLbF_FgF||||| 
+32;5;_Fg1rRbLb1rLrLgF_FbF||||| 
+33;4;_Fg1rRbLb1rLrL_FgFbF||||| 
+34;6;_Fg1rRbLb1rLrL_FgF||||| 
+35;7;_Fg1rRbLb1rLrLgF_F||||| 
+36;11;_Fg1rRbLb1rLrL_FgF||||| 
+37;38;_Fg1rRbLb1_FgF||||| 
+38;7;_Fg1rLbLb1_FgF||||| 
+39;47;_Fg1rLbRb1_FgF||||| 
+40;6;_Fg1rRbRb1_FgF||||| 
+41;17;_Fg1rRbR_FgF||||| 
+42;9;_Fg1rRbRg1_FgF||||| 
+43;14;_Fg1rRbRg1_FgFrF||||| 
+44;5;_Fg1rRbRg1_FrFgF||||| 
+45;4;_Fg1rRbRg1rF_FgF||||| 
+46;6;_Fg1rRbRrFg1_FgF||||| 
+47;8;_Fg1rRbRg1gF_FrF||||| 
+48;4;_Fg1rRbRg1gFrF_F||||| 
+49;5;_Fg1rRbRg1rF_F||||| 
+50;7;_Fg1rRbRg1_FrF||||| 
+51;24;_Fg1rRbRg1_FrFrL||||| 
+52;7;_Fg1rRbRg1_FrLrF||||| 
+53;11;_Fg1rRbRg1_F||||| 
+54;7;_Fg1rRbRb1_F||||| 
+55;21;_Fg1rLbLb1_F||||| 
+56;8;_Fg1rLbLb1_FgF||||| 
+57;40;_Fg1rLbLb1_FgF_F||||| 
+58;4;_Fg1rLbLb1_FgF_F_F||||| 
+59;4;_Fg1rLbLb1_FgF_F_F_F||||| 
+60;6;_Fg1rLbLb1_F_F_F_F||||| 
+61;10;_Fg1rLbLb1gF||||| 
+62;8;_Fg1rLbLb1_FgF||||| 
+63;87;_Fg1_L_F_F_1||||| 
+64;36;_Fg1_L_F_F_R_1||||| 
+65;11;_Fg1_L_F_FrRbL_1||||| 
+66;23;_Fg1_L_F_FgRrLbL_1||||| 
+67;9;_Fg1_L_F_F_RrLbL_1||||| 
+68;34;_Fg1_L_F_F_LrLbL_1||||| 
+69;15;_Fg1_L_F_F_LrLbLg1||||| 
+70;79;_Fg1bL_F_1||||| 
+71;13;_Fg1bL_Fg1||||| 
+72;49;_Fg1bL_F||||| 
+73;16;_Fg1b1bL_F||||| 
+74;5;_Fg1bLb1_F||||| 
+75;31;_Fg1bLb1rLrLr1_F||||| 
+76;9;_Fg1bLb1rLrLr1bF||||| 
+77;9;_Fg1bLrLrLb1r1bF||||| 
+78;101;_F_R_F_Lg1||||| 
+79;11;_F_R_F_Lg1_Lb1||||| 
+80;43;_F_R_F_LbLrRg1||||| 
+81;9;_F_R_F_LbLrR_1||||| 
+82;22;_F_RrRbL_F_LbLrR_1||||| 
+
+Game 5
+0;20;_Fg1bL||||| 
+1;7;_Fg1bL_F||||| 
+2;15;_Fg1bLb1_F||||| 
+3;18;_Fg1bLb1bF_F||||| 
+4;6;_Fg1bLb1_FbF||||| 
+5;9;_Fg1bLb1_FgF||||| 
+6;4;_Fg1bLb1gF_F||||| 
+7;7;_Fg1bLb1rLgF_F||||| 
+8;6;_Fg1bLb1rRgF_F||||| 
+9;4;_Fg1bLb1gF_FrR||||| 
+10;5;_Fg1bLb1gFrR_F||||| 
+11;4;_Fg1bLb1rRgF_F||||| 
+12;12;_Fg1bLb1rLgF_F||||| 
+13;7;_Fg1bLrLb1rLgF_F||||| 
+14;4;_Fg1bLrLb1gF_F||||| 
+15;6;_FrLg1bLb1gF_F||||| 
+16;8;_FrLg1bLrRb1gF_F||||| 
+
+Game 6
+0;34;_Fg1bR_F||||| 
+
+Game 7
+0;85;_Fg1bR_F_FrLrL||||| 
+
+Game 8
+0;79;rLrL||||| 
+
+Game 9
+0;65;_FrLrLr1bR||||| 
+1;4;_FrLrLr1bR_1||||| 
+2;57;rLrLrF_FbR_1||||| 
+3;14;rLrLrFrF_FbR_1||||| 
+4;113;_Fg1||||| 
+5;21;_FbRg1_FbR||||| 
+6;8;_FbRg1_FbR_1||||| 
+7;11;_FbRg1_FbRrLrL_1||||| 
+8;13;_FbRg1rLrL_FbR_1||||| 
+9;12;_FbRg1rLrL_FbR||||| 
+10;62;_FbRg1_F||||| 
+11;13;_FbRg1_FbR||||| 
+12;29;_FbRg1_FbRb1||||| 
+13;11;_FbRg1_FbRb1r1||||| 
+14;11;_FbRg1_FbRb1||||| 
+
+User 9554
+---
+Game 1
+0;12;_F_1||||| 
+
+User 10349
+---
+Game 1
+0;52;gFgFgFgFgFgFbLrLrL_1||||| 
+1;13;_F_F_F_F_F_FbLrLrL_1||||| 
+
+User 11271
+---
+Game 1
+0;19;_FbRrF_1||||| 
+1;28;_FbRbR||||| 
+2;9;_FbRbRrF_1||||| 
+3;22;_FbRgFbRrF_1||||| 
+4;17;_FbRgFrF_1||||| 
+5;16;_FbRgF_RrF_1||||| 
+6;4;_FbRgFbRrF_1||||| 
+7;9;_FbRgFrF_1||||| 
+8;8;_FbRgFrFbR_1||||| 
+9;15;_FbRgFrF_1||||| 
+10;42;gFbRrR||||| 
+11;5;gFbRrR_1||||| 
+12;14;gFbR_FrR_1||||| 
+13;44;gFbLb1||||| 
+14;4;gFbLb1_1||||| 
+15;16;gFbL_1||||| 
+16;10;gFbLbF_1||||| 
+17;12;gFbLbFrF_1||||| 
+
+User 11276
+---
+Game 1
+0;19;_F_1_R||||| 
+1;23;_F_1bR||||| 
+2;25;_Fb1bR||||| 
+3;2;_Fb1||||| 
+4;16;bF_1bR||||| 
+5;7;_1bF||||| 
+6;5;bF_1||||| 
+7;21;bFbR||||| 
+8;-3;bF_1||||| 
+9;7;bF||||| 
+10;9;g1||||| 
+11;3;bFg1||||| 
+12;5;g1bF||||| 
+13;4;g1_F||||| 
+14;4;_Fg1||||| 
+15;32;_Fg1_Rg1||||| 
+16;11;_Fg1bRg1||||| 
+17;3;_Fg1bR_1||||| 
+18;54;_Fg1bR_1rF||||| 
+19;13;_Fg1bR_1rF_1||||| 
+20;24;_Fg1bR_1bF_1||||| 
+21;16;_Fg1bR_1bF_F||||| 
+22;18;_Fg1bRr1bF_F||||| 
+23;14;_Fg1bRr1||||| 
+24;6;_Fg1bR_1||||| 
+25;20;_Fg1bR_1gFr1||||| 
+26;33;_Fg1bR_1||||| 
+27;10;_Fg1bR_1bR_1||||| 
+28;26;_Fg1bR_1rFr1||||| 
+29;13;_Fg1bR_1gFr1||||| 
+30;43;_Fg1bRg1rFg1||||| 
+31;11;_Fg1bR_1rFg1||||| 
+32;20;_Fg1bR_1rF||||| 
+33;4;_Fg1bR_1||||| 
+34;56;_Fg1bR_1_F||||| 
+35;20;_Fg1bR_1gFrF||||| 
+36;31;_Fg1bRgRrF||||| 
+37;11;_Fg1bR_1rF||||| 
+38;26;_Fg1bR_1bL||||| 
+39;7;_Fg1bR_1bR||||| 
+40;24;_Fg1bR_1rR||||| 
+41;22;_Fg1bR_1r1gL||||| 
+42;46;_Fg1bR||||| 
+43;2;_Fg1bR_1||||| 
+44;32;_Fg1bR_1_L||||| 
+45;9;_Fg1bRg1_L||||| 
+46;33;gFg1bRg1||||| 
+47;11;gF_1gRb1||||| 
+48;11;_1gFbRg1||||| 
+49;18;_1gFbR_1||||| 
+50;12;_1gFbR_1rF||||| 
+51;21;_1gFbR_1_L_L_F||||| 
+52;13;gF_1bR_1||||| 
+53;47;gF_1bR_1bRgFbRgFrLrL||||| 
+54;21;gFbR_1bRgFbRgFrLrL||||| 
+55;18;gFbRbR_1bRgFrLrL||||| 
+56;6;gFbRgFbR_1bRgFrLrL||||| 
+57;9;gFbRgF_1bR_1bRgFrLrL||||| 
+58;7;gFbRg1bR_1bRgFrLrL||||| 
+59;6;gFbR_1bR_1bRgFrLrL||||| 
+60;4;gF_1bRbR_1bRgFrLrL||||| 
+61;19;_1gFbRbR_1bRgFrLrL||||| 
+62;15;gF_1bRbR_1bRgFrLrL||||| 
+63;-10;gF_1bR_1bR_1bRgFrLrL||||| 
+64;10;gF_1bR_1||||| 
+65;22;gFb1bR||||| 
+66;6;gF_1bR||||| 
+67;5;gF_1bR_1||||| 
+68;10;gF_1bR_1gF||||| 
+
+User 11400
+---
+Game 1
+0;55;_F_F_F_F_F_F_FbLrL_1||||| 
+1;22;bFgFgFgFgFgFbFbLrL_1||||| 
+
+User 11619
+---
+Game 1
+0;96;_FrLrLbLb1_F_1||||| 
+
+Game 2
+0;69;_FbLrLrLb1_F||||| 
+1;19;_Fg1bLrLrLb1_F||||| 
+2;64;_Fg1_FbLrLrLb1_F||||| 
+3;65;bLb1rLrL_Fg1_F||||| 
+4;13;bLb1rLrL_F_1_F||||| 
+5;11;_FbLb1rLrL_1_F||||| 
+6;25;bL_FbLb1rLrL_1_F||||| 
+7;20;_FbLb1rLrL_1_FbL||||| 
+
+Game 3
+0;12393;_FbLrLrLb1_F||||| 
+1;8;_FbLrLrLb1_Fg1||||| 
+2;8;_FbLrLrLb1g1_F||||| 
+3;40;_FbLrLrLg1_Fb1_L||||| 
+4;13;_FbLrLrLb1_Lg1_F||||| 
+5;3;_FbLrLrLb1bLg1_F||||| 
+6;11;_FbLrLrLb1bRg1_F||||| 
+7;55;_FbLrLrLb1b1bRg1_F||||| 
+8;13;_FbLrLrLb1b1bLg1_F||||| 
+9;16;solution:_FbLrLrLb1b1bLg1_F||||| 
+
+User 11627
+---
+Game 1
+0;9;gF||||| 
+1;6;gFbR||||| 
+2;6;gF_1||||| 
+3;10;gFbR_1||||| 
+4;11;gFbR_F_1||||| 
+5;23;gFbR_FbL_1||||| 
+6;14;gFbR_FbL_F_1||||| 
+7;16;gFbR_FbL_FrLrR_F_1||||| 
+
+User 11793
+---
+Game 1
+0;50;gFbRrRrR_1||||| 
+1;15;gFbRbFrRrRrF_1||||| 
+2;29;gFbRbFrRrRrFbF_1||||| 
+3;12;gFbRbFrRrRrF_1||||| 
+4;83;gFbRbFrF_1||||| 
+5;39;gF||||| 
+6;5;g1gF||||| 
+7;5;gFg1||||| 
+8;16;bRgFg1||||| 
+9;12;bRbFgFg1||||| 
+10;15;bRbFgF_1||||| 
+11;28;rRbRbFgF_1||||| 
+12;15;rRrFbRbFgF_1||||| 
+13;45;rLrFbLbFgF_1||||| 
+
+User 11828
+---
+Game 1
+0;36;gFbRrR_1||||| 
+1;16;gFbR_FrR_F_1||||| 
+
+User 11845
+---
+Game 1
+0;44;_FbR||||| 
+1;3;_FbR_1||||| 
+2;305;_FbRrR_1||||| 
+3;36;gFbRrR_1||||| 
+4;47;gFbRbFrR_1||||| 
+5;38;_FbRrR_1||||| 
+6;55;_FbR_1r1||||| 
+7;16;_FbR_1||||| 
+8;27;_FbRrRrR_1||||| 
+9;237;_FbRrRrRg1b1||||| 
+10;48;_FbRrRrRg1b1_FrL_1||||| 
+11;34;_FbRrRrRg1b1_R_R_1||||| 
+12;13;_FbRrRrRg1b1_R_1||||| 
+13;9;_FbRrRrRg1b1_L_1||||| 
+14;872;_Fg1rRrRb1_L_1||||| 
+15;14;_Fg1||||| 
+16;13;_Fg1_R||||| 
+17;162;_Fg1_R_F||||| 
+18;32;_Fg1_F_F_R||||| 
+19;23;_Fg1_F_F_R_F_F_F_F_F||||| 
+20;33;_Fg1_F_F_R_F_F_F_F||||| 
+21;27;_Fg1_F_F_R_F_F_F_F_1||||| 
+22;17;_Fg1_F_F_R_F_F_F_1||||| 
+23;6;_Fg1_F_F_R_F_F_1||||| 
+24;28;_Fg1_F_F_R_F_F||||| 
+25;14;_Fg1_F_F_R_F_F_F_F||||| 
+26;74;_Fg1||||| 
+27;9;_Fg1_R||||| 
+28;11;_Fg1_Rg1||||| 
+29;15;_Fg1_R_Fg1||||| 
+30;37;_L_R_F||||| 
+31;4;_L||||| 
+32;32;_Fg1||||| 
+33;25;_Fg1_R||||| 
+34;17;_Fg1_R_F_R_F_R_F_R_F||||| 
+35;15;_Fg1_R_F_F_R_F_R_F||||| 
+36;21;_Fg1_R_F_F_R_F_F_F_R||||| 
+37;10;_Fg1_R_F_F_R_F_F_F_1||||| 
+38;50;_Fg1_RgF_F_R_F_F_F_1||||| 
+39;19;_Fg1_RgFgF_RgFgFgF_1||||| 
+40;20;_Fg1_RgFbF_RgFbF_F_1||||| 
+41;14;_Fg1_RgFbFrRgFbF_F_1||||| 
+42;19;_Fg1bRgFbFrRgFbF_F_1||||| 
+43;15;_FbRg1gFbFrRgFbF_F_1||||| 
+44;22;_FbRrRg1bFgFbF_F_1||||| 
+45;18;_FbRrRg1||||| 
+46;13;_FbRrR_1||||| 
+47;41;_FbRbRrR_1||||| 
+48;31;_FbLrR_1||||| 
+
+User 11849
+---
+Game 1
+0;80;_Fg1bLb1rLrL||||| 
+1;8;_FbLb1rLrLg1||||| 
+2;35;_FrLrLbLb1g1||||| 
+3;28;_FrLrLbLb1g1_F||||| 
+4;93;_FrLrLbLb1g1b1_F||||| 
+5;26;_FrLrLbLb1b1g1_F||||| 
+6;49;_FrLrLbLb1bLb1g1_F||||| 
+
+User 11955
+---
+Game 1
+0;28;_FbLb1||||| 
+1;14;_Fg1bLb1||||| 
+2;51;_Fg1bLb1rLrL_F||||| 
+3;42;_Fg1bLb1_L_L_F_F_1_R||||| 
+4;9;_Fg1bLb1_L_L_F_F_R_1||||| 
+
+Game 2
+0;7;_Fg1||||| 
+1;7;_Fg1bLb1||||| 
+2;31;_Fg1bLb1rLrL||||| 
+3;10;_Fg1bLb1rLrL_F_F||||| 
+4;7;_Fg1bLb1rLrL_F_F_R||||| 
+5;6;_Fg1bLb1rLrL_F_F_R_R||||| 
+6;39;_Fg1bLb1rLrL_F||||| 
+7;102;_Fg1bLb1bRrLrL_F||||| 
+8;43;_Fg1bLb1b1bLrLrL_F||||| 
+9;6;solution:_Fg1bLb1b1bLrLrL_F||||| 
+
+User 11974
+---
+Game 1
+0;48;gFbLbFrLrLrF||||| 
+1;6;gFbLbFrLrLrF_1||||| 
+2;31;gFbLbFrLrLrFbF_1||||| 
+3;75;gFbLbFrLrLrFgFbF_1||||| 
+4;37;gFbLbFrLrLrF_F_1||||| 
+5;15;gFbL_FrLrLrF_1||||| 
+6;45;gF_FbL_FrLrLrF_1||||| 
+7;22;gFgFbL_FrLrLrF_1||||| 
+8;21;gFgFbL_FrLrF_1||||| 
+
+Game 2
+0;50;_FbLbFgFgFgFbLbF||||| 
+1;5;_FbLbFgFgFgFbLbF_1||||| 
+
+User 12503
+---
+Game 1
+0;40;gF_1bR_F_1||||| 
+1;12;gFbR_F_1||||| 
+
+User 12671
+---
+Game 1
+0;20;_F_L||||| 
+1;18;_FrLbR||||| 
+2;4;_FrLbR_1||||| 
+
+User 13000
+---
+Game 1
+0;31;_F_F_F_F_F_F||||| 
+1;4;_F_F_F_F_F_FbL||||| 
+2;16;_F_F_F_F_F_F_FbLrR_1||||| 
+
+Game 2
+0;23;gFbLrRrRbL_1||||| 
+
+Game 3
+0;17;gFbLrR_1||||| 
+1;20;gFbLbFrRrF_1||||| 
+2;12;gFbLbFrRrRrF_1||||| 
+3;12;gFbLbFrRrRrFbF_1||||| 
+4;52;gFbLbFrRrRrF_FbF_1||||| 
+5;8;gFbLbFrRrRrFgFbF_1||||| 
+
+User 13165
+---
+Game 1
+0;63;_FbRrRrR_1||||| 
+
+Game 2
+0;55;gFbL_1||||| 
+1;15;gFbLbF_1||||| 
+2;29;gFbLbFrLrLrF_1||||| 
+
+User 13452
+---
+Game 1
+0;123;_F||||| 
+1;3;_F_1||||| 
+2;17;_FbR||||| 
+3;9;_FbR_1||||| 
+
+User 13970
+---
+Game 1
+0;60;_Fg1bR_1||||| 
+1;34;_Fg1bR_1rRrR||||| 
+2;13;_Fg1rRrRbR_1||||| 
+3;39;_Fg1rRbR_1||||| 
+4;58;_Fg1rRbFbRbR_1||||| 
+5;23;_Fg1rR_F_F_R_1||||| 
+6;66;_Fg1rR_1_F_F_R_1||||| 
+7;10;_Fg1rRr1_F_F_R_1||||| 
+8;99;_Fg1||||| 
+9;38;_Fg1_R_F||||| 
+10;11;_Fg1_R_1||||| 
+11;709;bR_Fg1||||| 
+12;28;bR_F_1||||| 
+
+Game 2
+0;77;_Fg1_FbRrRrR||||| 
+1;21;_Fg1bR_FrRrR||||| 
+2;18;_Fg1bRg1_FrRrR||||| 
+3;44;_Fg1bRg1rRrR_F||||| 
+4;80;_Fg1bRg1rRrRrF_F_1||||| 
+5;23;_Fg1bRg1rRrRrF_FbR_1||||| 
+6;18;_Fg1bRg1rRrRrF_F_1bR||||| 
+7;144;_Fg1bRg1rRrRrF_F_L_1||||| 
+8;35;_Fg1bRg1rRrRrF_FrL_1||||| 
+9;124;_Fg1bRrRrRrF_FbFrL_1||||| 
+10;134;_Fg1bRrRrRrF_Fr1rL||||| 
+11;29;_Fg1bRrRrRrF_Fb1rL||||| 
+12;131;_Fg1bRrL||||| 
+13;14;_Fg1bRbFrL||||| 
+14;9;_Fg1bRb1rL||||| 
+15;31;_Fg1bRb1rLrLr1||||| 
+16;38;_Fg1rLrLr1bRb1||||| 
+17;34;_Fg1rLrLr1_FbRb1||||| 
+18;19;_Fg1rLrLr1bR_Fb1||||| 
+19;57;_Fg1rLrLrFr1bR_Fb1||||| 
+20;14;_Fg1rLrLrFr1bRb1||||| 
+21;68;_Fg1rLrLrFr1g1bRb1||||| 
+22;143;_Fg1rRr1bRb1||||| 
+23;105;_Fg1rRr1rFgFbFg1bRb1||||| 
+24;33;_Fg1bRb1rRr1rFgFbFg1||||| 
+25;32;_Fg1bRb1rRrFgFbFgFg1||||| 
+26;144;_Fg1bRb1rRrRrFgF||||| 
+27;36;_Fg1bRb1rRrRrFgFbL||||| 
+28;212;_Fg1_F||||| 
+29;31;_Fg1bRb1_FbL||||| 
+30;29;_Fg1bRb1rRrRrF_FbL||||| 
+31;40;_Fg1bRb1rRrR_FbL||||| 
+32;73;_Fg1bRb1rRrR_FbL_F_F||||| 
+33;15;_Fg1bRb1rRrR_FbL||||| 
+34;193;_Fg1bRb1rRrR_FbF||||| 
+35;65;_Fg1bRb1rRrRbF||||| 
+36;14;_Fg1bRb1rRrRr1bF||||| 
+37;68;_Fg1bRb1rRrRr1bFgF||||| 
+38;24;_Fg1bRb1rRrRrFbFgF||||| 
+39;11;_Fg1bRb1rRrRrFgFbF||||| 
+40;18;_Fg1bRb1rRrRrFgFbF_1||||| 
+41;79;_Fg1bRb1rRrRrFgFbF||||| 
+42;148;_Fg1bRb1rRrRrFgFb1||||| 
+43;42;_Fg1bRb1rRrR_Fb1||||| 
+44;53;_Fg1_FbRb1rRrRb1||||| 
+45;11;_Fg1gFbRb1rRrRb1||||| 
+46;14;_Fg1gFbRb1rRrRrFb1||||| 
+47;91;_Fg1bRb1rRrRrFgFb1||||| 
+48;16;_Fg1bRb1gFrRrRrFb1||||| 
+49;109;_Fg1bRb1b1gFrRrRrF||||| 
+50;94;_Fg1bRb1bFgFrRrRrF_1||||| 
+51;34;_Fg1bRb1bFgFrRrRrFg1||||| 
+52;32;_Fg1bRb1bFrRrRrFgFg1||||| 
+53;20;_Fg1bRb1rRrRrFgFbFg1||||| 
+54;117;_Fg1rRrRrFgFbRb1bFg1||||| 
+55;36;_Fg1rRrR_FbRb1bFg1||||| 
+56;40;_Fg1rRrRrFbRb1bFgFg1||||| 
+57;56;_Fg1rRrRbRb1bF_Fg1||||| 
+58;30;_Fg1rRrRbRb1bF_F||||| 
+59;39;_Fg1rRrRbRb1bFg1_F||||| 
+60;34;_Fg1rRrRbRb1bF_F||||| 
+61;81;_Fg1rRrRbRb1bF_FrRrR||||| 
+62;81;_Fg1rRrRbRb1bF_1||||| 
+63;53;_Fg1rRrRbRb1b1||||| 
+64;19;_Fg1rRrRrFbRb1b1||||| 
+65;39;_Fg1rRrRbRb1b1_F||||| 
+66;50;_Fg1rRrRbRb1b1bR_F||||| 
+67;75;solution:_Fg1rRrRbRb1b1bR_F||||| 
+
+User 14288
+---
+Game 1
+0;31;_F_1||||| 
+1;12;_F_1_F_F_1||||| 
+2;46;_F_1_R_1_R||||| 
+
+User 14436
+---
+Game 1
+0;42;_FbRrR_1||||| 
+1;32;_FbRrRr1||||| 
+2;7;_FbRrRr1_1||||| 
+3;52;_FbRrFrR_1||||| 
+4;12;_F_FbRrFrR_1||||| 
+5;14;gF_FbRrFrR_1||||| 
+6;17;gF_FbRrRrF_1||||| 
+7;79;_F_F_FbRrFrR_1||||| 
+8;44;_F_F_FbR_F_F_F_FrR_1||||| 
+9;24;_F_F_FrR_F_F_F_FbR_1||||| 
+10;12;_F_F_FbR_F_F_F_FbR_1||||| 
+
+Game 2
+0;27;_F_FbR_1||||| 
+1;15;_FbR_F_1||||| 
+2;45;_FbRgF_1||||| 
+3;7;_FbRbRgF_1||||| 
+4;14;gFbR_FbR_1||||| 
+5;42;_FbRgF_1||||| 
+6;24;gFbR_F_1||||| 
+7;11;gFbR_FrR_1||||| 
+8;58;gFbRrR_F_1||||| 
+9;44;_FbRrR_F_1||||| 
+10;55;gFbR_FrRbL_1||||| 
+11;26;gFbRbL_FrR_1||||| 
+12;12;gFbR_FbL_FrR_1||||| 
+13;80;gFbRrR_FbL_1||||| 
+14;13;gFbRrR_F_FbL_1||||| 
+15;8;gFbRrRgF_FbL_1||||| 
+16;23;gFbRrRgF_F_R_1||||| 
+17;11;gFbRrRgF_FbR_1||||| 
+18;16;gFbRrRgF_F_FbR_1||||| 
+
+Game 3
+0;14;_F_F_1||||| 
+1;14;_FbR_1||||| 
+
+User 14717
+---
+Game 1
+0;45;_FbRg1bF_F_F_FrLrL_1||||| 
+1;52;_FbRg1_FbRg1rLrL_1||||| 
+
+User 14762
+---
+Game 1
+0;20;_F_F_F_F||||| 
+1;5;_F_F_F_F_F_F||||| 
+2;20;_F_F_F_F_F_F_FbLrL_1||||| 
+3;17;gFgFgFgFgFgFgFbLrL_1||||| 
+4;10;gFgFgFgFgFgF_FbLrL_1||||| 
+
+User 14818
+---
+Game 1
+0;130;gFbR_1||||| 
+1;13;gFbRbF_1||||| 
+
+User 15847
+---
+Game 1
+0;418;rLrLbL_F_1_FbL||||| 
+1;34;rLrLbL_F_1_FbR||||| 
+2;25;rLrLbL_Fg1_FbR||||| 
+3;15;rLrLbL_Fg1b1_FbR||||| 
+4;92;bR_1bLrLrL||||| 
+5;140;bRgFbFg1gFbFb1bLrLrL||||| 
+6;49;bRgFbFg1gFb1bLrLrL||||| 
+7;19;bRbFgFg1gFb1bLrLrL||||| 
+8;28;bRbFgFg1gFb1bLrLrL_F||||| 
+9;132;rRrR_FbL_1_F||||| 
+10;83;rRrR_FbLg1b1b1bL_F||||| 
+11;128;_FbLrLrLg1b1b1bL_F||||| 
+12;39;solution:_FbLrLrLg1b1b1bL_F||||| 
+
+User 16820
+---
+Game 1
+0;71;_Fg1bL_Fb1rLrL_Fr1_1||||| 
+1;10;_Fg1bLb1_FrLrLr1_F_1||||| 
+
+User 16836
+---
+Game 1
+0;88;_FbL_F_1_1rLrL_FbR_1||||| 
+1;15;_FbL_F_1bLrLrL_FbR_1||||| 
+2;28;_FbL_1bLrLrL_FbR_1||||| 
+3;50;_FbL_1rLrL_FbL_1||||| 
+
+User 17434
+---
+Game 1
+0;54;_F_F_RrFrFbLbF_1||||| 
+1;22;_F_F_R_F_LrFrFbLbF_1||||| 
+
+User 17671
+---
+Game 1
+0;11;_F_1||||| 
+1;7;_FbL_1||||| 
+2;19;_FbLrL_1||||| 
+3;17;_FbLrLbF_1||||| 
+4;20;_FbLrLbF_F_1||||| 
+5;7;_FbFrLbL_F_1||||| 
+
+User 17748
+---
+Game 1
+0;45;gFbLbF||||| 
+1;12;gFbLbF_1||||| 
+2;26;gFbLbFrLrF_1||||| 
+3;23;gFbLbFrLrF_L_1||||| 
+4;14;gFbLbFrLrF_1_1_1||||| 
+
+User 19860
+---
+Game 1
+0;60;_Fg1bLb1b1rLrL_1||||| 
+1;80;_Fg1bLb1b1rLrL_F_1||||| 
+2;44;_FbLb1b1rLrLg1_F_1||||| 
+3;49;_FbLb1b1rLrLrFg1_F_1||||| 
+4;85;_FbLb1b1rLrLrFg1_F||||| 
+5;14;_FbLb1b1rLrLg1_F||||| 
+6;62;_FbLb1b1bLrLrLg1_F||||| 
+7;14;solution:_FbLb1b1bLrLrLg1_F||||| 
+
+User 20215
+---
+Game 1
+0;28;_F_F_L_1_1_L_F_F||||| 
+
+User 20233
+---
+Game 1
+0;17;_F_1||||| 
+1;27;_F_F_L||||| 
+
+User 20522
+---
+Game 1
+0;34;_F||||| 
+1;6;_F_1||||| 
+2;37;_F_1bR_1||||| 
+3;11;_F_1bRb1||||| 
+4;57;_1bRb1||||| 
+5;105;_FbR||||| 
+6;17;_F_1bR||||| 
+7;30;_F_1bRgF||||| 
+
+Game 2
+0;37;_F_1_L||||| 
+1;9;_F_1bL||||| 
+2;265;_Fg1bL||||| 
+3;13;_Fg1bL_F||||| 
+4;67;_Fg1bL_F_R||||| 
+5;8;_Fg1bL_FbR||||| 
+6;18;_Fg1bL_F||||| 
+7;44;_Fg1bL_FrR||||| 
+8;20;_Fg1bL_FgR||||| 
+9;28;_Fg1bL_F_1||||| 
+10;53;_Fg1bL_F_1rR_R||||| 
+11;18;_Fg1bL_Fr1rR_R||||| 
+
+Game 3
+0;53;_F_1bLb1||||| 
+1;17;_F_1bL||||| 
+2;7;_Fg1bL||||| 
+3;7;_Fg1bLb1||||| 
+4;24;_Fg1bLb1rRrRg1||||| 
+5;12;_Fg1bLb1rRrR||||| 
+6;43;_Fg1bLb1rRrRrF_1||||| 
+7;15;_Fg1bLb1rRrRrFg1||||| 
+8;18;_Fg1bLb1rRrRrF||||| 
+9;23;_Fg1bLb1rRrRrF_1||||| 
+10;16;_Fg1bLb1rRrRrFr1||||| 
+11;23;_Fg1bLb1rRrRrFg1_F||||| 
+12;23;_Fg1bLb1rRrRrF_1_F_1||||| 
+13;15;_Fg1bLb1rRrRrF||||| 
+14;33;_Fg1bLb1rRrRrF_1||||| 
+15;21;_Fg1bLb1rRrRgFg1||||| 
+16;11;_Fg1bLb1rRrRrFg1||||| 
+17;52;_Fg1bLb1rRrRrFgFbF||||| 
+18;8;_Fg1bLb1rRrRrFgFbF_1||||| 
+19;96;_Fg1bLb1rRrRrFgFbF||||| 
+20;60;_Fg1bLb1rRrRrFgFbFb1||||| 
+21;17;_Fg1bLb1rRrRrFgFrFr1||||| 
+
+User 20693
+---
+Game 1
+0;116;_Fg1bLb1rLrL_F||||| 
+1;121;_Fg1gFbLb1rLrL||||| 
+2;115;_Fg1bLb1b1bL_F||||| 
+3;49;_Fg1rLrLbLb1b1bL_F||||| 
+4;29;solution:_Fg1rLrLbLb1b1bL_F||||| 
+
+User 21074
+---
+Game 1
+0;12;_F_1||||| 
+1;19;_Fb1||||| 
+2;58;_Fb1_R||||| 
+3;182;_F_R_L_F_R_L_F_R_L_F||||| 
+4;33;_R_L_1_F_R_L_F_R_L_F||||| 
+
+User 21944
+---
+Game 1
+0;18;_FbRrL_1||||| 
+1;24;_FbRrLrL_1||||| 
+2;23;_F_F_FbRrLrL_1||||| 
+3;5;gFgF_FbRrLrL_1||||| 
+4;12;gFgFbR_FrLrL_1||||| 
+5;30;gFgFbR_FrRrR_1||||| 
+6;15;gFgFbRrRrR_F_1||||| 
+7;23;gFgF_FbRrRrR_1||||| 
+8;12;gFgFbR_FrRrR_1||||| 
+9;20;gFgFbR_FrRrR_F_1||||| 
+10;12;gFgFbR_FrRrRrF_1||||| 
+11;22;gFgFbRrRrR_FrF_1||||| 
+12;18;gFgFrRrRbR_FrF_1||||| 
+13;19;gFgFrRrR_FbRrF_1||||| 
+14;3;gFrRrR_FbRrF_1||||| 
+15;7;gFrRrRbRbFrF_1||||| 
+
+Game 2
+0;15;_FbLrLrL_1||||| 
+1;15;_F_FbLrLrL_1||||| 
+2;6;_FbL_FrLrL_1||||| 
+3;15;_FbRrLrL_1||||| 
+
+Game 3
+0;28;bL_F_1||||| 
+1;9;bL_FrLrL_1||||| 
+2;17;bL_F_FrLrL_1||||| 
+3;6;_FbL_FrLrL_1||||| 
+4;16;_FbL_FrLrLbR_1||||| 
+
+User 22635
+---
+Game 1
+0;18;gF||||| 
+1;2;gF_1||||| 
+2;5;gFbR_1||||| 
+3;6;_FbR_1||||| 
+4;8;_FbRrRrR_1||||| 
+5;38;_FbRrRrRbL_1||||| 
+6;21;_FbRrRrRg1bL||||| 
+7;5;_FbRrRrRg1b1bL||||| 
+8;18;_FbRrRrRg1bLb1||||| 
+9;6;_FbRrRrRg1b1||||| 
+10;28;_FbRrRrRg1bLb1||||| 
+11;6;_FbRrRrRg1b1bL||||| 
+12;15;_FbRrRrRg1_Fb1bL||||| 
+
+Game 2
+0;10;gF_1||||| 
+1;6;gFbR_1||||| 
+2;11;gFbRbF_1||||| 
+3;10;gFbRbFrRrR_1||||| 
+4;8;gFbRbFrRrRrF_1||||| 
+5;8;gFbRbFrRrRrFbL_1||||| 
+6;24;gFbRrRrRrFbLbF_1||||| 
+7;12;gFbLrRrRrFbLbF_1||||| 
+8;10;_FbLrRrR_1||||| 
+9;45;_FbLrRrR_F_F||||| 
+10;3;_FbLrRrR_F_F_1||||| 
+11;8;_FbLrRrRrFgF_1||||| 
+
+Game 3
+0;14;_Fb1||||| 
+1;2;_Fg1||||| 
+2;11;_Fg1bL||||| 
+3;7;_Fg1bLbF||||| 
+4;19;_Fg1bLg1||||| 
+5;18;_Fg1bL_F||||| 
+6;24;_Fg1bLgF||||| 
+7;7;_Fg1bLbF||||| 
+8;4;_Fg1bLbFgF||||| 
+9;15;_Fg1bLbFgFrRrR||||| 
+10;8;_Fg1bLbFgFrR||||| 
+11;35;_Fg1bLbFgFrR_Fg1||||| 
+
