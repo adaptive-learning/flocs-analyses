@@ -28,18 +28,18 @@ def process_roboprogram(command_string):
     return list(map(toTuple,s))
 
 def get_attempts(filename, count = 100):
-    f = open(filename)
-    # skip first two rows
-    f.readline()
-    f.readline()
-    output = []
-    for l in f.readlines():
-        if ";" in l:
-            tmp = l.split(';')[2]
-            if "solution:" in tmp:
-                tmp = tmp[9:]
-            c = process_roboprogram(tmp)
-            if c != None:
-                output.append(c)
-        if len(output) >= count: break
-    return output
+    with open(filename) as f:
+        # skip first two rows
+        f.readline()
+        f.readline()
+        output = []
+        for l in f.readlines():
+            if ";" in l:
+                tmp = l.split(';')[2]
+                if "solution:" in tmp:
+                    tmp = tmp[9:]
+                c = process_roboprogram(tmp)
+                if c != None:
+                    output.append(c)
+            if len(output) >= count: break
+        return output
