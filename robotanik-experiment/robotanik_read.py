@@ -1,3 +1,19 @@
+def load_problem(problem_id):
+    descriptions = parse_problems()
+    problem = descriptions[problem_id]
+    problem['attempts'] = load_attempts(problem_id)
+    return problem
+
+
+def load_attempts(problem_id):
+    path = get_path_for_problem(problem_id)
+    attempts = get_attempts(path)
+    return attempts
+
+
+def get_path_for_problem(problem_id):
+    return "../data/robotanik/task"+str(problem_id)+".txt"
+
 
 def parse_problems(filename = "../data/robotanik/tasks-desription.txt"):
     f = open(filename)
@@ -23,11 +39,11 @@ def parse_problems(filename = "../data/robotanik/tasks-desription.txt"):
 
 def process_roboprogram(command_string):
     if "undefined" in command_string: return None
-    s = command_string.split("|")
+    s = command_string.strip().split("|")
     toTuple = lambda r: [(r[i],r[i+1]) for i in range(0,len(r),2)] #change commands to tuples
     return list(map(toTuple,s))
 
-def get_attempts(filename, count = 100):
+def get_attempts(filename, count=1000):
     with open(filename) as f:
         # skip first two rows
         f.readline()

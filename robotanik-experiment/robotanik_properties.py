@@ -16,19 +16,19 @@ def simulate(problem, solution, animate=False, max_steps = 200):
     simulationInfo = {"maxRecDepth":0,"Fsteps":0,"LRsteps":0,"functionExecuted":[True,False,False,False,False],"functionOrdering":[1,9,9,9,9]}
     simulationInfo["commandsExecuted"] = list(map(lambda x: [False for y in x],solution))
     simulationInfo["conditionWasFalse"] = list(map(lambda x: [False for y in x],solution))
-    
+
     #current recursion depth
     recDepth = 0
 
     #ordering of functions - number which will be associated  with the next function run
     #F1 must alway be F1, so we start from 2
     order = 2
-    
+
     col = problem["robotCol"]
     row = problem["robotRow"]
     rot = problem["robotDir"]
     simulationInfo["visited"] = [(row,col)] #visited fields
-    
+
     steps = list(reversed(solution[0])) #stack of steps to simulate
     stack = [[1,0]] #stack of functions and positions of simulated steps
     if animate:
@@ -56,15 +56,15 @@ def simulate(problem, solution, animate=False, max_steps = 200):
                 if step!= board[row][col]: simulationInfo["commandsExecuted"][actf-1][actp] = True
             if step.isdigit():
                 #if the command is F1 - F5
-                
+
                 if steps!=[] and steps[-1][1]!="v" and steps[-1][1]!="t":
                     #if its not the tail recursion
                     recDepth+=1 #increase recursion depth
                     #update maximum recursion depth
-                    simulationInfo["maxRecDepth"] = max(recDepth,simulationInfo["maxRecDepth"]) 
+                    simulationInfo["maxRecDepth"] = max(recDepth,simulationInfo["maxRecDepth"])
                     steps.append(("_","v")) #append information about recursion ending
                 else: steps.append(("_","t")) #otherwise it is tail rec - append info about tail rec ending
-                
+
                 steps+= list(reversed(solution[int(step)-1])) #add commands from called function on steps stack
                 stack.append([int(step),0]) #add first position of function on the top of positions stack
                 simulationInfo["functionExecuted"][int(step)-1] = True #function was executed rigth now
@@ -77,7 +77,7 @@ def simulate(problem, solution, animate=False, max_steps = 200):
                 #command is NOT a function call
                 if step=="v":
                     #recursion ended - decrease depth
-                    recDepth -= 1 
+                    recDepth -= 1
                 if step=="L":
                     #rotate left and increase LR steps
                     rot=(rot-1)%4
@@ -94,11 +94,11 @@ def simulate(problem, solution, animate=False, max_steps = 200):
                     if col < 0 or row < 0 or col >= 16 or row >= 11:
                         break
                     simulationInfo["Fsteps"]+=1
-                    
+
                     #add new position to visited
                     if simulationInfo["visited"][-1]!=(row,col):
                         simulationInfo["visited"].append((row,col))
-                        
+
                 if step in "rgb":
                     #recolor if necessary
                     if board[row][col] != step:
@@ -110,7 +110,7 @@ def simulate(problem, solution, animate=False, max_steps = 200):
         else:
             #command was not executed because the condition was False
             #therefore this condition was useful
-            simulationInfo["conditionWasFalse"][actf-1][actp] = True 
+            simulationInfo["conditionWasFalse"][actf-1][actp] = True
     if animate:
             outputBoard(board,row,col,rot)
     simulationInfo["stackLeft"] = recDepth #save recursion depth at the end of simulation
@@ -147,4 +147,4 @@ def outputBoard(board,row,col,rot,complete=False):
                 if c.istitle(): screen.print_at(2*j,i, "{}") #there is a flower
                 else: screen.print_at(2*j,i, "  ")
     screen.set_color(terminal.colors["WHITE"], terminal.colors['BLACK'])
-    
+
