@@ -6,6 +6,34 @@ from robotanik_properties import simulate
 
 
 def main():
+    #visited_fields_analysis()
+    pass
+
+
+def visited_multisets_distance(problem, programA, programB):
+    visited_multiset_A = compute_visited_multiset(problem, programA)
+    visited_multiset_B = compute_visited_multiset(problem, programB)
+    distance = jaccard_distance(visited_multiset_A, visited_multiset_B)
+    return distance
+
+
+def visited_sets_distance(problem, programA, programB):
+    visited_set_A = compute_visited_set(problem, programA)
+    visited_set_B = compute_visited_set(problem, programB)
+    distance = jaccard_distance(visited_set_A, visited_set_B)
+    return distance
+
+
+def jaccard_distance(setA, setB):
+    """Distance between two sets or multisets (counters)
+    """
+    intersection_size = len(setA & setB)
+    union_size = len(setA | setB)
+    distance = (1 - intersection_size / union_size) if union_size > 0 else 0
+    return distance
+
+
+def visited_fields_analysis():
     problem = load_problem(problem_id='639')
     attempts = problem['attempts']
     #print(compute_visited_set(problem, attempts[0]))
