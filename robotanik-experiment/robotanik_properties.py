@@ -6,7 +6,7 @@ def simulate(problem, solution, animate=False, max_steps = 200):
     simulates given solution of the problem, animation works only when run from command line
     """
     #print("simulating", solution)
-    board = [problem["board"][i:i+16] for i in range(0,16*12,16)] #parse board
+    board = get_board(problem)
     #get number of flowers
     flowersLeft = problem["board"].count("R")
     flowersLeft +=problem["board"].count("G")
@@ -148,3 +148,9 @@ def outputBoard(board,row,col,rot,complete=False):
                 else: screen.print_at(2*j,i, "  ")
     screen.set_color(terminal.colors["WHITE"], terminal.colors['BLACK'])
 
+
+def get_board(problem):
+    return parse_board(problem['board'])
+
+def parse_board(board_string):
+    return [board_string[i:i+16] for i in range(0,16*12,16)]

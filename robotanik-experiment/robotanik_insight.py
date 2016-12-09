@@ -27,9 +27,9 @@ def visited_similarity(problem, c1, c2):
 def test():
     prob = problems['659']
     #print(prob)
-    sol = process_roboprogram("_FbRb1b1bRg1rLrL_F")
+    sol = parse_roboprogram("_FbRb1b1bRg1rLrL_F")
     print(sol)
-    sol2 = process_roboprogram("_FbLb1g1rLrL_F_Fb1_F")
+    sol2 = parse_roboprogram("_FbLb1g1rLrL_F_Fb1_F")
     #info = simulate(prob, sol2, True)
     #print(info)
     print(command_similarity(sol, sol2))

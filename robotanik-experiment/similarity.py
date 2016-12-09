@@ -2,7 +2,8 @@ from collections import Counter
 import numpy as np
 import pylab as plt
 from robotanik_read import load_problem
-from robotanik_properties import simulate
+from robotanik_properties import simulate, get_board
+from robotanik_read import parse_roboprogram
 
 
 def test():
@@ -17,6 +18,77 @@ def test():
 def run_doctests():
     import doctest
     doctest.testmod()
+
+
+def edit_distance(programA, programB):
+    """Cost of edits to transform one program into another
+    """
+    pass
+
+
+def world_effect_distance(problem, programA, programB):
+    """Distance between observable effects of two programs
+
+    For Robotanik, there are 3 effects:
+    1. eaten flowers
+    2. recolored fields
+    3. final Robotanik position and direction
+    """
+    pass  # TODO
+
+
+def eaten_flowers_distance(problem, programA, programB):
+    """Distance between the sets of eaten flowers
+    # TODO: try replace tuples by parse_roboprogram
+
+    >>> problem = load_problem(problem_id='659')  # Tree of flowers
+    >>> programA = parse_roboprogram('_F_F_F_F')
+    >>> programB = parse_roboprogram('_F')
+    >>> eaten_flowers_distance(problem, programA, programB)
+    0.75
+    """
+    eaten_flowers_A = compute_eaten_flowers(problem, programA)
+    eaten_flowers_B = compute_eaten_flowers(problem, programB)
+    distance = jaccard_distance(eaten_flowers_A, eaten_flowers_B)
+    return distance
+
+
+# TODO: move to robotanik_properties
+def compute_eaten_flowers(problem, program):
+    """Compute set of eaten flowers (each flower is encoded by its position)
+
+    >>> problem = load_problem(problem_id='698')  # Crest
+    >>> programA = parse_roboprogram('')
+    >>> compute_eaten_flowers(problem, programA)
+    set()
+    >>> programB = parse_roboprogram('rLrL_FbL_1')
+    >>> sorted(compute_eaten_flowers(problem, programB))
+    [(2, 15), (3, 11), (4, 7), (5, 3)]
+    """
+    visited = compute_visited_set(problem, program)
+    flowers = get_flowers(problem)
+    visited_flowers = flowers & visited
+    return visited_flowers
+
+
+# TODO: move to robotanik_properties (?)
+def get_flowers(problem):
+    """Find a set of flowers in the problem (each flower is encoded by its position)
+    >>> problem = load_problem(problem_id='698')
+    >>> sorted(get_flowers(problem))
+    [(2, 15), (3, 11), (4, 7), (5, 3)]
+    """
+    board = get_board(problem)
+    flowers = set((i,j)
+                  for i, row in enumerate(board)
+                  for j, field in enumerate(row)
+                  if is_flower(field))
+    return flowers
+
+
+# TODO: move to robotanik properties (?)
+def is_flower(field):
+    return field.isupper()
 
 
 def visited_sets_distance(problem, programA, programB):

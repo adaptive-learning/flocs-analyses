@@ -37,7 +37,7 @@ def parse_problems(filename = "../data/robotanik/tasks-desription.txt"):
         problems[id]["board"] = p["board"]
     return problems
 
-def process_roboprogram(command_string):
+def parse_roboprogram(command_string):
     if "undefined" in command_string: return None
     s = command_string.strip().split("|")
     toTuple = lambda r: [(r[i],r[i+1]) for i in range(0,len(r),2)] #change commands to tuples
@@ -54,7 +54,7 @@ def get_attempts(filename, count=1000):
                 tmp = l.split(';')[2]
                 if "solution:" in tmp:
                     tmp = tmp[9:]
-                c = process_roboprogram(tmp)
+                c = parse_roboprogram(tmp)
                 if c != None:
                     output.append(c)
             if len(output) >= count: break
