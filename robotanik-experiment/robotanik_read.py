@@ -43,7 +43,7 @@ def parse_roboprogram(command_string):
     toTuple = lambda r: [(r[i],r[i+1]) for i in range(0,len(r),2)] #change commands to tuples
     return list(map(toTuple,s))
 
-def get_attempts(filename, count=1000):
+def get_attempts(filename, count=100):
     with open(filename) as f:
         # skip first two rows
         f.readline()
