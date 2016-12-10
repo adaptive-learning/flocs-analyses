@@ -1,7 +1,7 @@
 from collections import Counter, defaultdict
 import math
 import numpy as np
-import pylab as plt
+import matplotlib.pyplot as plt
 from robotanik_read import load_problem
 from robotanik_properties import simulate, get_board
 from robotanik_read import parse_roboprogram

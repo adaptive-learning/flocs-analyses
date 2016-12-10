@@ -1,17 +1,26 @@
+from collections import Counter
 from functools import partial
 import numpy as np
-from matplotlib import pyplot as plt
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
 from sklearn.cluster import KMeans
 from sklearn.cluster import AffinityPropagation
 from sklearn.cluster.bicluster import SpectralCoclustering
-from similarity import edit_distance, visited_sets_distance
+from similarity import edit_distance, visited_sets_distance, compute_visited_set
 from robotanik_read import load_problem
+
+
+# settings
+GRID_SIZE = (12, 16)
+sns.set()
 
 
 def test():
     #run_doctests()
     #affinity_propagation_test()
-    spectral_coclustering_test()
+    #spectral_coclustering_test()
+    test_cluster_visualization()
 
 
 def run_doctests():
@@ -49,7 +58,7 @@ def spectral_coclustering_test():
 
 
 def plot_similarity_matrix(similarities):
-    plt.title("Similarity matrix")
+    #plt.title("Similarity matrix")
     plt.matshow(similarities, cmap=plt.cm.Blues)
     plt.show()
 
@@ -59,6 +68,39 @@ def get_similarity_matrix(programs, distance_fn=edit_distance):
                                 for programA in programs]
                                 for programB in programs])
     return similarity_matrix
+
+
+def test_cluster_visualization():
+    problem = load_problem(problem_id='639')
+    programs = problem['attempts'][:100]
+    similarities = get_similarity_matrix(programs, distance_fn=edit_distance)
+    model = SpectralCoclustering(n_clusters=10, random_state=0)
+    model.fit(similarities)
+    cluster_labels = model.column_labels_
+    cluster = pd.Series(programs)[cluster_labels == 0]
+    print('Cluster size:', len(cluster))
+    visualize_cluster(problem, cluster)
+
+
+
+def visualize_cluster(problem, cluster):
+    visits = get_mean_visited_set(problem, cluster)
+    plt.matshow(visits)
+    plt.show()
+
+
+def get_mean_visited_set(problem, cluster):
+    cluster = pd.Series(cluster)
+    visited_sets = cluster.apply(partial(compute_visited_set, problem))
+    visited_counts = Counter(pos for vs in visited_sets for pos in vs)
+    frequencies = np.zeros(GRID_SIZE)
+    n = len(cluster)
+    for pos, count in visited_counts.items():
+        frequencies[pos] = count / n
+    return frequencies
+
+
+
 
 
 if __name__ == "__main__":
