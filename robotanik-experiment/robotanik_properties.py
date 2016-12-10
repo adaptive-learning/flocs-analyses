@@ -93,6 +93,9 @@ def simulate(problem, solution, animate=False, max_steps = 200):
                     #RADEK hack
                     if col < 0 or row < 0 or col >= 16 or row >= 11:
                         break
+                    #TOM hack: stop when the Robotanik crashes into a wall
+                    if board[row][col] == ' ':
+                        break
                     simulationInfo["Fsteps"]+=1
 
                     #add new position to visited
