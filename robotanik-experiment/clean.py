@@ -1,6 +1,6 @@
 import csv
 from robotanik_read import load_problem, parse_roboprogram
-from similarity import compute_visited_set
+from similarity import compute_visited_path
 
 problem = load_problem(problem_id='639')
 cleaned_data = []
@@ -28,7 +28,7 @@ with open('../data/robotanik/task639.txt') as f:
                 'time': time,
                 'correct': solution,
                 'code': code,
-                'trace': compute_visited_set(problem, parse_roboprogram(code))
+                'trace': compute_visited_path(problem, parse_roboprogram(code))
             })
 
 with open('../data/robotanik/task639.csv', 'w') as outfile:

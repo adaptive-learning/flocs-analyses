@@ -240,10 +240,13 @@ def visited_fields_analysis():
     print(sum(frequencies[:10])/len(attempts))
 
 
+def compute_visited_path(problem, attempt):
+    simulation_result = simulate(problem, attempt)
+    return simulation_result['visited']
+
 
 def compute_visited_set(problem, attempt):
-    simulation_result = simulate(problem, attempt)
-    return simulation_result['visitedSet']
+    return set(compute_visited_path(problem, attempt))
 
 
 def compute_visited_multiset(problem, attempt):
