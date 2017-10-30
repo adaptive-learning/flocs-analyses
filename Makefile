@@ -11,3 +11,6 @@ update:
 
 test:
 	py.test --doctest-modules
+
+notebook:
+	jupyter notebook
